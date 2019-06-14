@@ -1,4 +1,4 @@
-# TEXT MINING for PRACTICE
+# TEXT MINING for PRACTICE 
 
 > **본 자료는 연세대학교 정보대학원 <데이터 분석 아카데미> 과정을 위해 작성되었으며, 텍스트 마이닝(text mining)의 기초부터 시작해 실무에 활용할 수 있도록 구성되었습니다.**
 
