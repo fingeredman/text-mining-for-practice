@@ -17,8 +17,8 @@
 - 강의개요 소개
 - 비정형 텍스트 데이터 분석 기본개념
 - 실습
-  1. Python 3.7 & Jupyter Notebook & Google Colaboratory
-  1. 텍스트 데이터를 다루기 위한 Python 기본문법
+  1. _Python 3.7 & Jupyter Notebook & Google Colaboratory_
+  1. _텍스트 데이터를 다루기 위한 Python 기본문법_
 
 #### WEEK 02. Python으로 텍스트 데이터 다루기
 - 텍스트 데이터 실무 활용사례
@@ -27,9 +27,9 @@
 #### WEEK 03. 텍스트 데이터 수집하기
 - 텍스트 데이터 수집유형 및 웹크롤링 
 - 실습
-  1. BeautifulSoup4 & Requests & Selenium
-  1. 정적페이지 수집하기: 실시간검색어, 영화댓글 수집
-  1. 동적페이지 수집하기: 카페 게시글, 해시태그 수집
+  1. _BeautifulSoup4 & Requests & Selenium_
+  1. _정적페이지 수집하기: 실시간검색어, 영화댓글 수집_
+  1. _동적페이지 수집하기: 카페 게시글, 해시태그 수집_
   
 #### WEEK 04. 웹크롤링 실전 활용 & 텍스트 데이터 전처리 이해하기
 - 웹크롤링 실전활용법 및 적용사례 소개
