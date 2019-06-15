@@ -32,6 +32,7 @@
 - 실습  
   > _W03-1. BeautifulSoup4 & Requests & Selenium_  
   > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 수집_  
+  > _APPENDIX 02. Assignment: 영화댓글 수집기_  
   
 #### WEEK 04. 웹크롤링 실전 활용 & 텍스트 데이터 전처리 이해하기
 - 웹크롤링 실전활용법 및 적용사례 소개
