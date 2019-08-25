@@ -11,7 +11,7 @@
 ---
 ## Curriculum
 
-> WEEK 03~04를 제외한 모든 실습은 Google Colabotory와 텍스트 마이닝을 위한 TEANAPS Python 패키지를 활용하여 구성하였습니다. Google Colabotory는 Jupyter Notebook을 Google Drive에 업로드하여 Jupyter Notebook과 동일하게 사용할 수 있도록 도와줍니다. Google Colabotory의 사용법은 [text-mining-for-practice-appendix.pdf](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, TEANAPS의 사용법 및 설치방법은 TEANAPS Repository의 [Install](https://github.com/fingeredman/teanaps) 설명을 참고 바랍니다. WEEK 03~04 실습자료는 웹브라우저를 사용하는 데이터 수집방법을 포함하고 있어 클라우드 환경에서의 실습이 어렵습니다. 데이터 수집에는 Jupyter Notebook을 활용합니다.
+> WEEK 04를 제외한 모든 실습은 Google Colabotory와 텍스트 마이닝을 위한 TEANAPS Python 패키지를 활용하여 구성하였습니다. Google Colabotory는 Jupyter Notebook을 Google Drive에 업로드하여 Jupyter Notebook과 동일하게 사용할 수 있도록 도와줍니다. Google Colabotory의 사용법은 [text-mining-for-practice-appendix.pdf](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, TEANAPS의 사용법 및 설치방법은 TEANAPS Repository의 [Install](https://github.com/fingeredman/teanaps) 파일을 참고 바랍니다. WEEK 04 실습자료는 가상의 웹브라우저를 사용하는 데이터 수집방법(Selenium)을 포함하고 있어 클라우드 환경에서의 실습이 어렵습니다.  실습은 Jupyter Notebook을 직접 활용합니다.
 
 #### WEEK 01. Python 기초문법 알아보기
 - 강의개요 소개
@@ -34,15 +34,15 @@
 #### WEEK 03. 텍스트 데이터 수집하기
 - 텍스트 데이터 수집유형 및 웹크롤링 
 - 실습  
-  > _W03-1. BeautifulSoup4 & Requests & Selenium_  
-  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글_  
-  > _Assignment 03: 대량의 영화댓글 수집하기_  
+  > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-1_text-mining-for-practice_python-crawling-intro.ipynb)_  
+  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-2_text-mining-for-practice_python-crawling-practice-1.ipynb)_  
+  > _Assignment 03: 대량의 영화댓글 수집하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/ASSIGNMENT01_movie-comment-crawler.ipynb)_  
   
 #### WEEK 04. 웹크롤링 실전 활용 & 텍스트 데이터 전처리 이해하기
 - 웹크롤링 실전활용법 및 적용사례 소개
 - 실습  
-  > _W04-1. 동적페이지 수집하기: 카페 게시글_  
-  > _W04-2. 동적페이지 수집하기: 해시태그_  
+  > _W04-1. 동적페이지 수집하기: 카페 게시글 [(Jupyter)](https://github.com/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-1_text-mining-for-practice_python-crawling-practice-2.ipynb)_  
+  > _W04-2. 동적페이지 수집하기: 해시태그 [(Jupyter)](https://github.com/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-2_text-mining-for-practice_python-crawling-practice-3.ipynb)_  
   
 #### WEEK 05. 텍스트 데이터 전처리 실전 적용하기
 - 형태소분석과 개체명인식
