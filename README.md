@@ -52,28 +52,28 @@
 - 단어빈도분석
 - TF-IDF
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기_  
-  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기_
+  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-1_text-mining-for-practice_python-tf-idf.ipynb)_  
+  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-2_text-mining-for-practice_python-wordcloud.ipynb)_
 
 #### WEEK 07. 텍스트 데이터 분석하기: 단어 네트워크
 - 동시출현분석(연관어분석)
 - 단어 네트워크 분석
 - 실습  
-  > _W07-1. 동시출현빈도 계산과 단어 네트워크 생성하기_  
+  > _W07-1. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-1_text-mining-for-practice_python-co-word.ipynb)_  
 
 #### WEEK 08. 텍스트 데이터 분석하기: 군집화
 - 단어/문서 군집화
 - 토픽모델링
 - 실습  
-  > _W08-1. 뉴스기사 군집화로 이슈 모아보기_  
-  > _W08-2. 뉴스기사에서 주제 찾아내기_  
+  > _W08-1. 뉴스기사 군집화로 이슈 모아보기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-1_text-mining-for-practice_python-clustering.ipynb)_  
+  > _W08-2. 뉴스기사에서 주제 찾아내기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-2_text-mining-for-practice_python-lda.ipynb)_  
   
 #### WEEK 09. 텍스트 데이터 분석하기: 감성분석 & 키워드추출
 - 텍스트 감성분석과 활용
 - 문서요약과 키워드추출
 - 실습  
   > _W09-1. 사전기반과 머신러닝 기반의 감성분석_  
-  > _W09-2. 문서요약 알고리즘 활용하기: TextRank, LSA_  
+  > _W09-2. 문서요약 알고리즘 활용하기: TextRank, LSA [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09-1_text-mining-for-practice_python-summarization.ipynb)_  
   > _W09-3. 키워드추출 알고리즘 활용하기: PKEA, RKEA_
 
 #### WEEK 10. 텍스트 데이터 분석하기: 단어 임베딩
@@ -86,7 +86,7 @@
 #### WEEK 11. 텍스트 데이터를 예측 모델링에 적용하기
 - 비정형 데이터를 활용한 예측 모델링
 - 실습  
-  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기_
+  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_text-mining-for-practice_python-cospi-prediction.ipynb)_
 
 #### WEEK 12. 텍스트 데이터로 머신러닝/딥러닝 적용하기
 - 비정형 데이터와 머신러닝
@@ -114,3 +114,5 @@
 > 2019.06.17. 목차 구성 수정    
 > 2019.06.22. 목차 구성 수정, WEEK 01\~03 실습자료 업데이트  
 > 2019.07.12. 목차 구성 수정, WEEK 01\~12 강의자료, WEEK 01\~08 실습자료 업데이트  
+> 2019.08.26. 실습자료 Colabotory 링크 추가  
+
