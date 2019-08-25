@@ -86,7 +86,7 @@
 #### WEEK 11. 텍스트 데이터를 예측 모델링에 적용하기
 - 비정형 데이터를 활용한 예측 모델링
 - 실습  
-  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_text-mining-for-practice_python-cospi-prediction.ipynb)_
+  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_text-mining-for-practice_python-kospi-prediction.ipynb)_
 
 #### WEEK 12. 텍스트 데이터로 머신러닝/딥러닝 적용하기
 - 비정형 데이터와 머신러닝
