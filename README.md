@@ -11,6 +11,8 @@
 ---
 ## Curriculum
 
+> 모든 실습은 Google Colabotory와 텍스트 마이닝을 위한 TEANAPS Python 패키지를 활용하여 구성하였습니다. Google Colabotory는 Jupyter Notebook을 Google Drive에 업로드하여 Jupyter Notebook과 동일하게 사용할 수 있도록 도와줍니다. Google Colabotory의 사용법은 [text-mining-for-practice-appendix.pdf](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, TEANAPS의 사용법 및 설치방법은 TEANAPS Repository의 [Install](https://github.com/fingeredman/teanaps) 설명을 참고 바랍니다.
+
 #### WEEK 01. Python 기초문법 알아보기
 - 강의개요 소개
 - 비정형 텍스트 데이터 분석 기본개념
