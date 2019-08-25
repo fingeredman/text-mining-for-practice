@@ -16,18 +16,18 @@
 - 비정형 텍스트 데이터 분석 기본개념
 - 실습  
   > _W01-1. 실습환경: Python 3.7 & Jupyter Notebook & Google Colaboratory_  
-  > _W01-2. 텍스트 데이터를 다루기 위한 Python: 기본문법_  
-  > _W01-3. 텍스트 데이터를 다루기 위한 Python: 자료구조_  
-  > _W01-4. 텍스트 데이터를 다루기 위한 Python: 반복문과 조건문_  
-  > _Assignment 01: 소설에서 가장 많이 쓰이는 단어 알아보기_  
+  > _W01-2. 텍스트 데이터를 다루기 위한 Python: 기본문법 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/W01-2_text-mining-for-practice_python-basic.ipynb)_  
+  > _W01-3. 텍스트 데이터를 다루기 위한 Python: 자료구조 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/W01-3_text-mining-for-practice_python-data-structure.ipynb)_  
+  > _W01-4. 텍스트 데이터를 다루기 위한 Python: 반복문과 조건문 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/W01-4_text-mining-for-practice_python-conditional%26loop.ipynb)_  
+  > _Assignment 01: 소설에서 가장 많이 쓰이는 단어 알아보기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_01/ASSIGNMENT01_novel-word-count.ipynb)_  
 
 #### WEEK 02. Python으로 텍스트 데이터 다루기
 - 텍스트 데이터 실무 활용사례
 - 실습  
-  > _W02-1. 텍스트 데이터를 다루기 위한 Python: 함수와 파일입출력_  
-  > _W02-2. 텍스트 데이터를 다루기 위한 Python: 패턴인식과 정규식_  
-  > _Assignment 02-1: 트위터에서 전화번호 추출하기_  
-  > _Assignment 02-2: 인스타그램 게시글에서 해시태그 가져오기_  
+  > _W02-1. 텍스트 데이터를 다루기 위한 Python: 함수와 파일입출력 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-1_text-mining-for-practice_python-function%26file.ipynb)_  
+  > _W02-2. 텍스트 데이터를 다루기 위한 Python: 패턴인식과 정규식 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-2_text-mining-for-practice_python-regex.ipynb)_  
+  > _Assignment 02-1: 트위터에서 전화번호 추출하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/ASSIGNMENT02-1_twitter-phone-number.ipynb)_  
+  > _Assignment 02-2: 인스타그램 게시글에서 해시태그 가져오기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/ASSIGNMENT02-2_instagram-hashtag.ipynb)_  
 
 #### WEEK 03. 텍스트 데이터 수집하기
 - 텍스트 데이터 수집유형 및 웹크롤링 
@@ -45,8 +45,8 @@
 #### WEEK 05. 텍스트 데이터 전처리 실전 적용하기
 - 형태소분석과 개체명인식
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK_
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-1_text-mining-for-practice_python-korean-nlp.ipynb)_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-2_text-mining-for-practice_python-english-nlp.ipynb)_
 
 #### WEEK 06. 텍스트 데이터 분석하기: 단어 가중치
 - 단어빈도분석
@@ -100,11 +100,11 @@
 ---
 ## References
 > 본 강의자료는 아래 문헌들을 참고해 구성되었습니다.
-- Byte of Python
-- 패스트캠퍼스 <텍스트 분석 유치원 1기~5기> 실습자료
+- A Byte of Python [(Link)](https://python.swaroopch.com/)
+- 패스트캠퍼스 <텍스트 분석 유치원 1기~5기> 실습자료 [(Link)](https://www.fastcampus.co.kr/data_class_textmining/)
 - 텍스트 마이닝(Text Mining), 송민 지음, 청람출판사, 2017
 - 파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문, 쿠지라 히코우즈쿠에, 위키북스, 2017
-- Natural Language Processing with PyTorch, 김기현, https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/
+- Natural Language Processing with PyTorch, 김기현 [(Link)](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/)
 
 ---
 ## Update History
