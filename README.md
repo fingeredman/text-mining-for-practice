@@ -11,7 +11,7 @@
 ---
 ## Curriculum
 
-> WEEK 04를 제외한 모든 실습은 Google Colabotory와 텍스트 마이닝을 위한 TEANAPS Python 패키지를 활용하여 구성하였습니다. Google Colabotory는 Jupyter Notebook을 Google Drive에 업로드하여 Jupyter Notebook과 동일하게 사용할 수 있도록 도와줍니다. Google Colabotory의 사용법은 [text-mining-for-practice-appendix.pdf](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, TEANAPS의 사용법 및 설치방법은 TEANAPS Repository의 [Install](https://github.com/fingeredman/teanaps) 파일을 참고 바랍니다. WEEK 04 실습자료는 가상의 웹브라우저를 사용하는 데이터 수집방법(Selenium)을 포함하고 있어 클라우드 환경에서의 실습이 어렵습니다.  실습은 Jupyter Notebook을 직접 활용합니다.
+> WEEK 04를 제외한 모든 실습은 Google Colabotory와 텍스트 마이닝을 위한 TEANAPS Python 패키지를 활용하여 구성하였습니다. Google Colabotory는 Jupyter Notebook을 Google Drive에 업로드하여 Jupyter Notebook과 동일하게 사용할 수 있도록 도와줍니다. Google Colabotory의 사용법은 강의자료의 [메뉴얼](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, TEANAPS의 사용법 및 설치방법은 [TEANAPS Repository](https://github.com/fingeredman/teanaps)의 [Install](https://github.com/fingeredman/teanaps) 파일을 참고 바랍니다. WEEK 04 실습자료는 가상의 웹브라우저를 사용하는 데이터 수집방법(Selenium)을 포함하고 있어 클라우드 환경에서의 실습이 어렵습니다. WEEK 04 실습은 예외적으로 로컬 환경의 Jupyter Notebook을 활용합니다.
 
 #### WEEK 01. Python 기초문법 알아보기
 - 강의개요 소개
