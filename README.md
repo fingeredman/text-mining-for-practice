@@ -65,10 +65,10 @@
 
 #### WEEK 08. 텍스트 데이터 분석하기: 군집화
 - 단어/문서 군집화
-- 토픽모델링
+- 토픽모델링 (LDA, LSI, HDP)
 - 실습  
   > _W08-1. 뉴스기사 군집화로 이슈 모아보기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-1_text-mining-for-practice_python-clustering.ipynb)_  
-  > _W08-2. 뉴스기사에서 주제 찾아내기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-2_text-mining-for-practice_python-lda.ipynb)_  
+  > _W08-2. 뉴스기사에서 주제 찾아내기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08_2_text_mining_for_practice_python_topic_modeling.ipynb)_  
   
 #### WEEK 09. 텍스트 데이터 분석하기: 감성분석 & 키워드추출
 - 텍스트 감성분석과 활용
