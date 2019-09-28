@@ -74,8 +74,8 @@
 - 텍스트 감성분석과 활용
 - 문서요약과 키워드추출
 - 실습  
-  > _W09-1. 사전기반과 머신러닝 기반의 감성분석_  
-  > _W09-2. 문서요약 알고리즘 활용하기: TextRank, LSA [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09-1_text-mining-for-practice_python-summarization.ipynb)_  
+  > _W09-1. 문서요약 알고리즘 활용하기: TextRank, LSA [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09-1_text-mining-for-practice_python-summarization.ipynb)_  
+  > _W09-2. 사전기반과 머신러닝 기반의 감성분석_  
   > _W09-3. 키워드추출 알고리즘 활용하기: PKEA, RKEA_
 
 #### WEEK 10. 텍스트 데이터 분석하기: 단어 임베딩
@@ -117,4 +117,4 @@
 > 2019.06.22. 목차 구성 수정, WEEK 01\~03 실습자료 업데이트  
 > 2019.07.12. 목차 구성 수정, WEEK 01\~12 강의자료, WEEK 01\~08 실습자료 업데이트  
 > 2019.08.26. 실습자료 Colabotory 링크 추가  
-
+> 2019.09.29. 목차 구성 수정, TEANAPS 패키지 업데이트에 따른 실습자료 업데이트  
