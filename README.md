@@ -11,7 +11,7 @@
 ---
 ## Curriculum
 
-> WEEK 04를 제외한 모든 실습은 Google Colabotory와 텍스트 마이닝을 위한 TEANAPS Python 패키지를 활용하여 구성하였습니다. Google Colabotory는 Jupyter Notebook을 Google Drive에 업로드하여 Jupyter Notebook과 동일하게 사용할 수 있도록 도와줍니다. Google Colabotory의 사용법은 강의자료의 [메뉴얼](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, TEANAPS의 사용법 및 설치방법은 [TEANAPS Repository](https://github.com/fingeredman/teanaps)의 [Install](https://github.com/fingeredman/teanaps) 파일을 참고 바랍니다. WEEK 04 실습자료는 가상의 웹브라우저를 사용하는 데이터 수집방법(Selenium)을 포함하고 있어 클라우드 환경에서의 실습이 어렵습니다. WEEK 04 실습은 예외적으로 로컬 환경의 Jupyter Notebook을 활용합니다.
+> `WEEK 04`를 제외한 모든 실습은 `Google Colabotory`와 텍스트 마이닝을 위한 `TEANAPS` Python 패키지를 활용하여 구성하였습니다. `Google Colabotory`는 `Jupyter Notebook`을 `Google Drive`에 업로드하여 로컬 환경의 `Jupyter Notebook`과 동일하게 사용할 수 있도록 도와줍니다. `Google Colabotory`의 사용법은 강의자료의 [메뉴얼](https://github.com/fingeredman/text-mining-for-practice/blob/master/lecture-note/text-mining-for-practice-appendix.pdf) 파일을, `TEANAPS`의 사용법 및 설치방법은 [TEANAPS Repository](https://github.com/fingeredman/teanaps)의 [Install](https://github.com/fingeredman/teanaps) 파일을 참고 바랍니다. `WEEK 04` 실습자료는 가상의 웹브라우저를 사용하는 데이터 수집방법(`Selenium`)을 포함하고 있어 클라우드 환경에서의 실습이 어렵습니다. `WEEK 04` 실습은 예외적으로 로컬 환경의 `Jupyter Notebook`을 활용합니다.
 
 #### WEEK 01. Python 기초문법 알아보기
 - 강의개요 소개
@@ -88,7 +88,7 @@
 #### WEEK 11. 텍스트 데이터를 예측 모델링에 적용하기
 - 비정형 데이터를 활용한 예측 모델링
 - 실습  
-  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_text-mining-for-practice_python-kospi-prediction.ipynb)_
+  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기_
 
 #### WEEK 12. 텍스트 데이터로 머신러닝/딥러닝 적용하기
 - 비정형 데이터와 머신러닝
@@ -111,10 +111,10 @@
 ---
 ## Update History
 > 2019.06.07. 목차 구성 초안 입력  
-> 2019.06.14. 목차 구성 수정, WEEK 01 실습자료 업로드    
-> 2019.06.16. 목차 구성 수정, WEEK 01\~05 실습자료 업로드    
+> 2019.06.14. 목차 구성 수정, `WEEK 01` 실습자료 업로드    
+> 2019.06.16. 목차 구성 수정, `WEEK 01\~05` 실습자료 업로드    
 > 2019.06.17. 목차 구성 수정    
-> 2019.06.22. 목차 구성 수정, WEEK 01\~03 실습자료 업데이트  
-> 2019.07.12. 목차 구성 수정, WEEK 01\~12 강의자료, WEEK 01\~08 실습자료 업데이트  
-> 2019.08.26. 실습자료 Colabotory 링크 추가  
-> 2019.09.29. 목차 구성 수정, TEANAPS 패키지 업데이트에 따른 실습자료 업데이트  
+> 2019.06.22. 목차 구성 수정, `WEEK 01\~03` 실습자료 업데이트  
+> 2019.07.12. 목차 구성 수정, `WEEK 01\~12` 강의자료, `WEEK 01\~08` 실습자료 업데이트  
+> 2019.08.26. 실습자료 `Colabotory` 링크 추가  
+> 2019.09.29. 목차 구성 수정, `TEANAPS` 패키지 업데이트에 따른 실습자료 업데이트  
