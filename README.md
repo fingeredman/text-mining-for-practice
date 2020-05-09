@@ -63,7 +63,7 @@
 - 네트워크 중심성
 - 실습  
   > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-1_text-mining-for-practice_python-tf-idf.ipynb)_  
-  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-2_text-mining-for-practice_python-wordcloud.ipynb)_
+  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-2_text-mining-for-practice_python-wordcloud.ipynb)_  
   > _W06-3. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-1_text-mining-for-practice_python-co-word.ipynb)_  
 
 #### WEEK 07. Text Data Embedding
@@ -117,14 +117,19 @@
 
 ---
 ## Update History
-> 2019.06.07. 목차 구성 초안 입력  
-> 2019.06.14. 목차 구성 수정, `WEEK 01` 실습자료 업로드    
-> 2019.06.16. 목차 구성 수정, `WEEK 01\~05` 실습자료 업로드    
-> 2019.06.17. 목차 구성 수정    
-> 2019.06.22. 목차 구성 수정, `WEEK 01\~03` 실습자료 업데이트  
-> 2019.07.12. 목차 구성 수정, `WEEK 01\~12` 강의자료, `WEEK 01\~08` 실습자료 업데이트  
-> 2019.08.26. 실습자료 `Colabotory` 링크 추가  
-> 2019.09.29. 목차 구성 수정, `TEANAPS v0.0.5` 업데이트 반영  
+> 2020.04.12. 목차 구성 수정  
 > 2019.11.23. `TEANAPS v0.0.6` 업데이트 반영  
-> 2020.04.12. 목차 구성 수정    
+> 2019.09.29. 목차 구성 수정, `TEANAPS v0.0.5` 업데이트 반영  
+> 2019.08.26. 실습자료 `Colabotory` 링크 추가  
+> 2019.07.12. 목차 구성 수정, `WEEK 01\~12` 강의자료, `WEEK 01\~08` 실습자료 업데이트  
+> 2019.06.22. 목차 구성 수정, `WEEK 01\~03` 실습자료 업데이트  
+> 2019.06.17. 목차 구성 수정    
+> 2019.06.16. 목차 구성 수정, `WEEK 01\~05` 실습자료 업로드    
+> 2019.06.14. 목차 구성 수정, `WEEK 01` 실습자료 업로드    
+> 2019.06.07. 목차 구성 초안 입력  
+
+<br><br>
+---
+<center>ⓒ 2020. FINGEREDMAN all rights reserved.</center>
+
 
