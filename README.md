@@ -52,7 +52,7 @@
   > _W04-1. 동적페이지 수집하기: 카페 게시글 [(Jupyter)](https://github.com/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-1_text-mining-for-practice_python-crawling-practice-2.ipynb)_  
   > _W04-2. 동적페이지 수집하기: 해시태그 [(Jupyter)](https://github.com/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-2_text-mining-for-practice_python-crawling-practice-3.ipynb)_  
   
-#### WEEK 05. Pre-processing Text Data
+#### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
@@ -82,8 +82,8 @@
   > _W08-2. 뉴스기사에서 주제 찾아내기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08_2_text_mining_for_practice_python_topic_modeling.ipynb)_  
   
 #### WEEK 09. 분류
-- CNN, RNN을 활용한 텍스트 데이터 분류
-- Transformer 모델 기반 텍스트 감성분석
+- 머신러닝을 활용한 텍스트 데이터 분류
+- 텍스트 감성분석
 - 실습  
   > _W09-1. 사전기반과 머신러닝 기반의 감성분석_  
 
