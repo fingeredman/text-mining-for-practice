@@ -44,8 +44,8 @@
 - 웹 스크래핑 자동화 및 실전 활용법
 - 텍스트 데이터 핸들링
 - 실습  
-  > _W04-1. 동적페이지 수집하기: 카페 게시글_  
-  > _W04-2. 동적페이지 수집하기: 해시태그_  
+  > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-1_text-mining-for-practice_python-crawling-practice-2.ipynb)_  
+  > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-2_text-mining-for-practice_python-crawling-practice-3.ipynb)_  
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
