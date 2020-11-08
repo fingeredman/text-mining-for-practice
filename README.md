@@ -51,16 +51,16 @@
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK_
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-1_text-mining-for-practice_python-korean-nlp.ipynb)_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-2_text-mining-for-practice_python-english-nlp.ipynb)_  
+  > _W05-3. 개체명인식 수행하기: TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-3_text-mining-for-practice_python-ner.ipynb)_  
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
 - 단어 네트워크와 중심성
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기_  
-  > _W06-2. 단어 가중치를 활용해 워드클라우드 생성하기_  
-  > _W06-3. 동시출현빈도 계산과 단어 네트워크 생성하기_  
+  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-1_text-mining-for-practice_python-tf-idf.ipynb)_  
+  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-2_text-mining-for-practice_python-co-word.ipynb)_  
 
 #### WEEK 07. 문서를 벡터로 표현하는 방법
 - 단어 단위 임베딩
