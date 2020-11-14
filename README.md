@@ -66,8 +66,8 @@
 - 단어 단위 임베딩
 - 문장/문서 단위 임베딩
 - 실습  
-  > _W07-1. 뉴스기사 텍스트 데이터를 벡터로 표현하기_  
-  > _W07-2. 위키피디아 텍스트 데이터를 벡터로 표현하기_
+  > _W07-1. TEANAPS를 활용해 데이터 시각화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-1_text-mining-for-practice_python-visualization.ipynb)_  
+  > _W07-2. 단어 임베딩 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-2_text-mining-for-practice_python-w2v.ipynb) [(Model Download)](https://drive.google.com/file/d/1qBMDr-WSMt-OG1IO2CXeqVqodKGYIxr2/view?usp=sharing)_  
 
 #### WEEK 08. 군집화
 - 텍스트 데이터 군집화
