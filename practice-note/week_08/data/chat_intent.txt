@@ -1,0 +1,612 @@
+몇시야	date
+몇시지	date
+몇시일까	date
+몇시게	date
+시간	date
+몇시	date
+시간 알려줘	date
+지금 몇시야	date
+지금 몇시지	date
+몇시인지 알아	date
+몇시인지 알려줘	date
+몇신지 알려줘	date
+시간좀 알려줘	date
+몇시인지를 모르겠네	date
+오늘 며칠이야	date
+오늘 날짜	date
+오늘 날짜 알려줘	date
+오늘 몇 일이지	date
+며칠이지	date
+날짜	date
+오늘 몇일이에요	date
+오늘 몇일이죠	date
+몇일이니	date
+몇일이야	date
+오늘 몇일인지 아시나요	date
+오늘 며칠인지 알아	date
+오늘 며칠인지 아시나요	date
+몇일이나요	date
+몇일이에요	date
+몇일이였지	date
+몇일이라그랬더라	date
+오늘 몇일이야	date
+오늘 몇일이지	date
+몇일이지	date
+오늘 몇일인지 아니	date
+오늘 몇일인지 알려주라	date
+오늘 몇일인지좀 알려주라	date
+날짜 알려줘	date
+오늘 날짜는	date
+오늘 무슨 요일이지	date
+무슨 요일이지	date
+오늘 무슨 날이지	date
+무슨 날이야	date
+오늘 며칠인지 아니	date
+오늘 요일 아니	date
+오늘 요일 알려줘	date
+오늘 날짜 좀 알려줘	date
+오늘 무슨 날인지 알려줄래	date
+오늘 며칠인지 알려주라	date
+오늘 무슨 날이니	date
+며칠이니	date
+며칠이야	date
+오늘 며칠이에요	date
+오늘 날짜요	date
+오늘 날짜 알려줘요	date
+오늘 몇 일이죠	date
+며칠이죠	date
+날짜요	date
+날짜 알려줘요	date
+오늘 날짜는요	date
+오늘 무슨 요일이죠	date
+무슨 요일이죠	date
+오늘 무슨 날이죠	date
+무슨 날이에요	date
+오늘 며칠인지 아시나요	date
+오늘 요일 아시나요	date
+오늘 요일 알려줘요	date
+오늘 날짜 좀 알려줘요	date
+오늘 무슨 날인지 알려줄래요	date
+오늘 며칠인지 알려주세요	date
+오늘 무슨 날이니요	date
+며칠이니요	date
+며칠이에요	date
+오늘 몇 일인가요	date
+며칠인가요	date
+오늘 무슨 요일인가요	date
+무슨 요일인가요	date
+오늘 무슨 날인가요	date
+오늘 며칠이더라	date
+며칠인데	date
+오늘 며칠이지	date
+며칠인지 모르겠네	date
+며칠이더라	date
+며칠인데 그래	date
+며칠이였지	date
+날짜알려줘요	date
+몇 일인가요	date
+날짜는요	date
+무슨 날인가요	date
+오늘 무슨 날이에요	date
+며칠인지 아시나요	date
+며칠인지 아세요	date
+며칠인지 알려줘요	date
+며칠인지 알려줘	date
+오늘 며칠인지 알려줘요	date
+오늘 며칠인지 알려줘	date
+오늘 며칠이였지	date
+오른 며칠인데	date
+오늘 며칠인지 모르겠네	date
+며칠일까요	date
+요일 알려주세요	date
+요일 알고있나	date
+요일 알고싶어요	date
+무슨 요일인지 까먹었어	date
+무슨 요일이였더라	date
+무슨 요일인지 알려주세요	date
+무슨 요일인지 알려줘	date
+무슨 요일인지 알고있나	date
+날짜가 어떻게 되더라	date
+날짜를 까먹었어	date
+무슨 요일이였는지 까먹었어	date
+무슨 요일인지 알려줬으면 해	date
+요일 알려줬으면 해	date
+무슨 날짜인가요	date
+무슨 날짜인지 아니	date
+무슨 날짜인지 궁금해	date
+무슨 요일인지 궁금해	date
+무슨 요일이였는지 궁금해	date
+무슨 요일일까 궁금해	date
+날짜좀 알려줄래	date
+무슨 날짜인지 알려줄래	date
+어떤 날인지 알려줄래	date
+무슨 날인지 알려줄래	date
+어떤 날인지 알려주라	date
+무슨 날인지 알려주라	date
+며칠인지 알려주라	date
+요일 알려주라	date
+날짜 알려주라	date
+날짜 아시나요	date
+무슨 날짜인지 아시나요	date
+어떤 날짜인지 아시나요	date
+며칠 일까요	date
+무슨 날짜 일까요	date
+며칠인지 아니	date
+며칠일까	date
+무슨 날짜 일까	date
+날짜 뭐야	date
+날짜 궁금해	date
+며칠인지 궁금해	date
+며칠일까 궁금해	date
+며칠이였나 궁금해	date
+며칠이였는지 궁금해	date
+어떤 날인지 궁금해	date
+며칠인지 모르겠어	date
+날짜 모르겠어	date
+며칠일까 모르겠어	date
+며칠이였나 모르겠어	date
+며칠이였는지 모르겠어	date
+어떤 날인지 모르겠어	date
+오늘 며칠일까요	date
+오늘 요일 알려주세요	date
+오늘 요일 알고있나	date
+오늘 요일 알고싶어요	date
+오늘 무슨 요일인지 까먹었어	date
+오늘 무슨 요일이였더라	date
+오늘 무슨 요일인지 알려주세요	date
+오늘 무슨 요일인지 알려줘	date
+오늘 무슨 요일인지 알고있나	date
+오늘 날짜가 어떻게 되더라	date
+오늘 날짜를 까먹었어	date
+오늘 무슨 요일이였는지 까먹었어	date
+오늘 무슨 요일인지 알려줬으면 해	date
+오늘 요일 알려줬으면 해	date
+오늘 무슨 날짜인가요	date
+오늘 무슨 날짜인지 아니	date
+오늘 무슨 날짜인지 궁금해	date
+오늘 무슨 요일인지 궁금해	date
+오늘 무슨 요일이였는지 궁금해	date
+오늘 무슨 요일일까 궁금해	date
+오늘 날짜좀 알려줄래	date
+오늘 무슨 날짜인지 알려줄래	date
+오늘 어떤 날인지 알려줄래	date
+오늘 어떤 날인지 알려주라	date
+오늘 무슨 날인지 알려주라	date
+오늘 요일 알려주라	date
+오늘 날짜 알려주라	date
+오늘 날짜 아시나요	date
+오늘 무슨 날짜인지 아시나요	date
+오늘 어떤 날짜인지 아시나요	date
+오늘 며칠 일까요	date
+오늘 무슨 날짜 일까요	date
+오늘 며칠일까	date
+오늘 무슨 날짜 일까	date
+오늘 날짜 뭐야	date
+오늘 날짜 궁금해	date
+오늘 며칠인지 궁금해	date
+오늘 며칠일까 궁금해	date
+오늘 며칠이였나 궁금해	date
+오늘 며칠이였는지 궁금해	date
+오늘 어떤 날인지 궁금해	date
+오늘 며칠인지 모르겠어	date
+오늘 날짜 모르겠어	date
+오늘 며칠일까 모르겠어	date
+오늘 며칠이였나 모르겠어	date
+오늘 며칠이였는지 모르겠어	date
+오늘 어떤 날인지 모르겠어	date
+날씨 좋아	weather
+날씨 좋니	weather
+날씨 어떠니	weather
+영월 날씨 좋니	weather
+오늘 비 오나요	weather
+눈 오나요	weather
+날씨 비 와	weather
+오늘 눈 와	weather
+4월 12일 날씨 맑나요	weather
+이번주 토요일 맑나요	weather
+내일 맑나요	weather
+이번 주 맑아	weather
+다음 주 구름 꼈나요	weather
+이번 주 바람 부니	weather
+날씨	weather
+날씨도	weather
+날씨는	weather
+날씨는 어때	weather
+날씨는 어떠니	weather
+날씨도 알려줘	weather
+오늘 날씨 바람 부니	weather
+오늘 바람 부니	weather
+내일 구름 꼈나요	weather
+모레 구름 꼈나요	weather
+모레 비 올까	weather
+내일 눈 오나요	weather
+내일 눈 올까	weather
+모레 흐릴까	weather
+내일 흐리니	weather
+내일 흐려	weather
+모레 흐려	weather
+내일 날씨 흐려	weather
+모레 날씨 흐리니	weather
+모레 맑나요	weather
+오늘 맑은지 알려줘	weather
+포항 날씨 좋아	weather
+양양 오늘 날씨 알려줘	weather
+강릉 오늘 날씨좀 알려줄래	weather
+속초의 오늘 날씨는 어떨까	weather
+다다음 주 날씨 어때보여	weather
+글피 날씨 어때요	weather
+글피 날씨 알려줘	weather
+인천 날씨 어때요	weather
+오늘 날씨 알려줘	weather
+오늘 날씨좀 알려줄래	weather
+다음 달 날씨 어떨까	weather
+다음 주 날씨 어때보여	weather
+이번 주 날씨 어때요	weather
+내일 날씨 알려줘	weather
+오늘 날씨 알려주라	weather
+이번 주 전주 날씨 알려줘	weather
+이번 주 날씨 알려줘	weather
+내일 부산 날씨 알려줄래	weather
+다음 주 논산 날씨 알려줘	weather
+3월 15일 날씨 알려줘	weather
+9월 12일 대구 날씨 알려줄래	weather
+날씨 좀 알려줄 수 있겠니	weather
+날씨 어떠니 좋니	weather
+내일 비 오나요	weather
+전주 바람 많이 부니	weather
+대구 바람 많이 부니	weather
+서울 바람 부니	weather
+서울 바람 상태 어떠니	weather
+울산 바람 많이 부니	weather
+인천 바람 많이 부니	weather
+부산 바람 부니	weather
+대전 바람 상태 어떠니	weather
+덕진구 바람 많이 부니	weather
+서초구 바람 많이 부니	weather
+강릉 바람 부니	weather
+광주 바람 상태 어떠니	weather
+진천 바람 많이 부니	weather
+청주 바람 많이 부니	weather
+영등포 바람 부니	weather
+강남구 바람 상태 어떠니	weather
+춘천 바람 많이 부니	weather
+포항 바람 많이 부니	weather
+속초 바람 부니	weather
+제주 바람 상태 어떠니	weather
+군산 지금 눈 오나요	weather
+대구 눈 오나요	weather
+마포구 지금 비 오나요	weather
+여의도 비 오는지 알려줘	weather
+미룡동 지금 눈 오나요	weather
+울산 눈 오나요	weather
+동구 지금 비 오나요	weather
+제주 비 오는지 알려줘	weather
+울산 지금 눈 오나요	weather
+양양 눈 오나요	weather
+산천 지금 비 오나요	weather
+신천 비 오는지 알려줘	weather
+내일 구름 꼈니	weather
+모레 구름 꼈니	weather
+오늘 비 오니	weather
+내일 눈 오니	weather
+내일 눈 올까요	weather
+모레 흐릴까요	weather
+오늘 우산 챙길까	weather
+내일 우산 챙겨야 하니	weather
+오늘 우비 입을까	weather
+전주 날씨 어떠니	weather
+전주 우산 챙겨야 하니	weather
+부산 우산 챙길까	weather
+대전 비 옷 입을까	weather
+광주 비 옷 입을까	weather
+모레 전북 우비 입어야 하니	weather
+우비 입을까	weather
+우산 챙길까 말까	weather
+오늘 마포구 바람 많이 부니	weather
+내일 바람 많이 불려나	weather
+오늘 완산구 바람 많이 부니	weather
+오늘 동두천 바람 많이 부니	weather
+오늘 인천 바람 많이 부니	weather
+오늘 전주 우산 써야 하니	weather
+내일 우산 써야 하니	weather
+다음 주 광주 우산 써야 하니	weather
+우비 입을까 고민 돼요	weather
+오늘 날씨 좋니	weather
+날씨 어떤지 말해줄수 있을까	weather
+오늘 날씨 어때요	weather
+4월 12일 날씨 어때요	weather
+이번주 토요일 날씨 어때요	weather
+내일 날씨 어때요	weather
+다음 주 날씨 어때요	weather
+날씨가 어떻게 돼요	weather
+오늘 날씨좀 알려줄수 있니	weather
+내일 날씨 알려줄수 있어	weather
+이번 주 날씨 알려줄래	weather
+다음 주 날씨 알려줘	weather
+이번주 날씨 줘	weather
+다음주 날씨 알려줄래	weather
+오늘 역삼동 날씨 알려줘	weather
+오늘 마포구 우비 입을까	weather
+춘천 우산 챙겨야 하니	weather
+서울 우산 챙길까	weather
+모레 순천 우비 입어야 하니	weather
+이번 주 날씨는	weather
+이번 주 광명 날씨 알려줘	weather
+이번 주 울산 날씨 알려줘	weather
+이번 주 평택 날씨 알려줘	weather
+우비 입을까 고민 돼	weather
+우산 챙길지 고민되네	weather
+날씨 좋아요	weather
+날씨가 어떻게 돼	weather
+이번 주 광명 날씨 맑나요	weather
+이번 주 울산 날씨 비 오니	weather
+내일 비 오니	weather
+오늘 비 와	weather
+이번 달 비 오니	weather
+이번 달 눈 오니	weather
+내일 비 오는지 알려줘	weather
+오늘 날씨 맑은가요	weather
+이번 주 광명 맑은가요	weather
+이번 주 울산 날씨 맑은가요	weather
+이번 주 서산 날씨 비 오니	weather
+오늘 눈 오니	weather
+오늘 눈 오는지 알려줘	weather
+오늘 바람 부냐	weather
+오늘 바람 많이 부니	weather
+내일 모레 눈 오는지 알려주라	weather
+내일 전주 바람 많이 부니	weather
+내일 서울 날씨 바람 많이 부는지 알려줘	weather
+눈 오니	weather
+4월 12일 날씨 맑은가요	weather
+이번주 토요일 맑은가요	weather
+내일 맑은가요	weather
+이번 주 맑아요	weather
+다음 주 구름 꼈니	weather
+모레 비 올까요	weather
+모레 맑은가요	weather
+이번 주 광명 날씨 맑은가요	weather
+대전 눈 와	weather
+대구 달 비 오니	weather
+울산 달 눈 오니	weather
+인천 비 오는지 알려줘	weather
+이번 주 광명 날씨 맑니	weather
+오늘 눈 오나요	weather
+오늘 날씨 맑니	weather
+이번 주 광명 맑니	weather
+이번 주 울산 날씨 맑니	weather
+대전 눈 오나요	weather
+내일 서산 바람 많이 부니	weather
+바람 많이 불어	weather
+바람 어때	weather
+바람 많이 부는지 알려줄래	weather
+송도 내일 바람 많이 부니	weather
+오늘 대구 동구 바람 많이 부냐	weather
+오늘 구로구 바람 많이 부니	weather
+날씨 비 오나요	weather
+오늘 눈 오나	weather
+4월 12일 날씨 맑니	weather
+이번주 토요일 맑니	weather
+내일 맑니	weather
+모레 맑니	weather
+오늘 비 오나	weather
+송도 내일 바람 많이 부나요	weather
+오늘 구로구 바람 많이 부나요	weather
+오늘 바람 부나요	weather
+이번 주 바람 부나요	weather
+내일 전주 바람 많이 부나요	weather
+오늘 이천 우산 써야 하니	weather
+다음 주 울산 우산 써야 하니	weather
+다음 주 완주 우산 써야 하니	weather
+오늘 상주 우산 써야 하니	weather
+오늘 오산 우산 써야 하니	weather
+서울 맛집 말해줘	restraunt
+부산 맛집 어디에요	restraunt
+광명 맛집 어디에요	restraunt
+산천 맛집 어디지	restraunt
+대전 맛있는 음식점 알려줘요	restraunt
+마포구 맛집 어디에요	restraunt
+구로구 음식점 추천 좀요	restraunt
+맛있는 음식점 알려줘요	restraunt
+음식점 추천 좀요	restraunt
+음식점 추천 좀 해줘요	restraunt
+전주 맛집 추천해줘	restraunt
+부산 맛집 추천해줘	restraunt
+오늘 뭐 먹을까	restraunt
+먹을 거 추천해줘	restraunt
+뭐 먹을지 알려주세요	restraunt
+먹을 거 추천해줘요	restraunt
+대구 맛집 추천해줘요	restraunt
+먹을 음식 추천해주세요	restraunt
+뭐 먹을지 정해줘요	restraunt
+어떤거 먹을지 정해주세요	restraunt
+먹을 거 좀 알려줘요	restraunt
+부산 고깃집 추천해줘	restraunt
+전주 비빔밥 추천해줄래	restraunt
+서울 라멘집 추천해줘	restraunt
+대전 피자 맛집 어디있니	restraunt
+광주 떡갈비집 어디 맛있어	restraunt
+수원 왕갈비 어디 맛있니	restraunt
+성남에서 어디 제일 맛있니	restraunt
+대구에서 제일 맛있는 음식점 추천해주라	restraunt
+송천동 맛집 알려줘	restraunt
+홍대에서 제일 맛있는 음식점 어디니	restraunt
+송파구 술집 알려주라	restraunt
+학교 주변 떡볶이집 추천해줄래	restraunt
+요즘에 제일 맛있는 음식점 어디야	restraunt
+고기 어디 제일 맛있어	restraunt
+여수에서 제일 고기 맛집 어디야	restraunt
+익산 맛집 추천해주겠니	restraunt
+익산 맛집 추천해 주겠니	restraunt
+제주도 유명한 맛집 알려줘	restraunt
+제주도 맛집 추천 좀 해주겠니	restraunt
+서울 돈까스집 추천해줘	restraunt
+부산 케이크 알려주라	restraunt
+대구 순대 추천해줘	restraunt
+대전 치킨집 추천해줘	restraunt
+울산 치킨 알려주라	restraunt
+경주 덮밥 추천해줘	restraunt
+공주 볶음밥 알려줘	restraunt
+사천 김밥 맛집 추천해줘	restraunt
+광양 카페 추천해줘	restraunt
+노원구 샐러드 알려주라	restraunt
+충주 커피 맛집 알려줘	restraunt
+청주 아이스크림 추천해줘	restraunt
+진천 빵집 추천 좀 해줘	restraunt
+맛집 추천 좀 해줘	restraunt
+진천 맛집 추천 좀 해줘	restraunt
+진천 고깃집 추천 좀 해줘	restraunt
+강릉 빵 맛있는 곳 추천해줘	restraunt
+속초 마카롱 맛집 알려주라	restraunt
+양양 소시지 알려줘	restraunt
+마산 샤브샤브 추천해줘	restraunt
+세종 삼겹살 맛집 추천해줘	restraunt
+정읍 월남쌈 알려줘	restraunt
+남원 목살 추천해줘	restraunt
+순창 곱창 알려줘	restraunt
+여수 족발 맛집 알려주라	restraunt
+인천 파스타 알려줘	restraunt
+구리 폭립 추천해줘	restraunt
+부천 스테이크 알려줘	restraunt
+파주 규동 맛집 추천해줘	restraunt
+양주 가츠동 추천해줘	restraunt
+의정부 규카즈 알려줘	restraunt
+시흥 나베 맛집 알려주라	restraunt
+천안 꼬치 추천해줘	restraunt
+남양주 닭꼬치집 알려줘	restraunt
+동두천 양고치집 맛집 추천해줘	restraunt
+평택 닭꼬치 알려줘	restraunt
+포항 양고치 추천해줘	restraunt
+울진 치킨 알려주라	restraunt
+의왕 누룽지 맛집 알려줘	restraunt
+보령 피자집 추천해줘	restraunt
+고성 피자 추천해줘	restraunt
+진안 연어 알려줘	restraunt
+맛집 광어 맛집 추천해줘	restraunt
+서울 제육볶음 알려주라	restraunt
+양주 초밥집 추천해줘	restraunt
+진도 초밥 추천해줘	restraunt
+진해 육회 맛집 알려주라	restraunt
+안산 라면집 추천해줘	restraunt
+안양 국밥집 추천해줘	restraunt
+화성 냉면집 맛집 추천해줘	restraunt
+경주 우동집 알려주라	restraunt
+이천 닭갈비 추천해줘	restraunt
+여주 갈비 추천해줘	restraunt
+일산 돼지고기 맛집 알려주라	restraunt
+안성 돼지 갈비 추천해줘	restraunt
+울산 찜닭 추천해줘	restraunt
+아산 분식집 추천해줘	restraunt
+아산 김밥집 맛집 알려주라	restraunt
+아산 분식 추천해줘	restraunt
+경주 자장면 추천해줘	restraunt
+아산 짬뽕 알려주라	restraunt
+아산 탕수육 맛집 추천해줘	restraunt
+아산 팔보채 추천해줘	restraunt
+아산 깐풍기 추천해줘	restraunt
+아산 중국집 맛집 알려주라	restraunt
+아산 중국 음식 추천해줘	restraunt
+아산 만두 추천해줘	restraunt
+아산 국수 맛집 알려주라	restraunt
+경주 잔치국수 추천해줘	restraunt
+아산 비빔국수 추천해줘	restraunt
+아산 냉면 맛집 추천해줘	restraunt
+동두천 쫄면 추천해줘	restraunt
+아산 비빔냉면 알려주라	restraunt
+동두천 물냉면 맛집 추천해줘	restraunt
+아산 감자탕 추천해줘	restraunt
+송천동 수제버거 맛집 추천해줘	restraunt
+포항 수제 버거 추천해줘	restraunt
+아산 튀김 알려주라	restraunt
+포항 쌀국수 맛집 추천해줘	restraunt
+천안 죽집 추천해줘	restraunt
+아산 쌀국수 알려주세요	restraunt
+천안 아이스크림 추천해줘요	restraunt
+경주 음료수 맛집 추천해줘요	restraunt
+포항 음료수 추천해줘요	restraunt
+천안 음료수 알려주세요	restraunt
+당진 횟집 추천해줘요	restraunt
+상주 호두과자 추천해줘요	restraunt
+성주 맛집 알려주세요	restraunt
+대전 피자 맛집 어디있죠	restraunt
+광주 떡갈비집 어디 맛있어요	restraunt
+천안 왕갈비 어디 맛있죠	restraunt
+성남에서 어디 제일 맛있죠	restraunt
+대구에서 제일 맛있는 음식점 추천해주세요	restraunt
+송천동 맛집 알려줘요	restraunt
+홍대에서 제일 맛있는 음식점 어디죠	restraunt
+송파구 술집 알려주세요	restraunt
+학교 주변 떡볶이집 추천해줄래요	restraunt
+요즘에 제일 맛있는 음식점 어디에요	restraunt
+고기 어디 제일 맛있어요	restraunt
+여수에서 제일 고기 맛집 어디에요	restraunt
+익산 맛집 추천해주세요	restraunt
+익산 맛집 추천해 주세요	restraunt
+제주도 유명한 맛집 알려줘요	restraunt
+제주도 맛집 추천 좀 해주세요	restraunt
+주변 맛집 추천해줘	restraunt
+주변 음식점 추천해줘	restraunt
+주변 맛집 추천해주라	restraunt
+주변 음식점 추천해주라	restraunt
+주변 맛집 알려줘	restraunt
+주변 음식점 알려줘	restraunt
+주변 맛난 음식 알려주라	restraunt
+주변 충주 맛집 알려줘	restraunt
+주변 맛있는 음식 알려주라	restraunt
+주변 부산 맛집 알려줘	restraunt
+주변 김치 음식 알려줘	restraunt
+주변 라면 음식 알려줘	restraunt
+주변 고기 음식 말해	restraunt
+주변 이런 음식 알려줘	restraunt
+주변 먹을 음식 알려주라	restraunt
+주변 대전 피자 맛집 어디 있니	restraunt
+주변 맛집 어디 있지	restraunt
+주변 떡갈비집 어디 맛있어	restraunt
+주변 어디 맛있어	restraunt
+주변 어디 맛있니	restraunt
+군산주변 맛집 말해줘	restraunt
+거기주변 맛집 어디야	restraunt
+전주주변 맛집 어디 있어	restraunt
+서울주변 맛집 어디야	restraunt
+부산주변 맛집 어디 있냐	restraunt
+광명주변 맛집 말해줘	restraunt
+산천주변 맛집 말해줘	restraunt
+대전주변 맛있는 음식점 알려줘	restraunt
+마포구주변 맛집 어디야	restraunt
+구로구주변 음식점 추천 좀	restraunt
+주변에 맛있는 음식점 알려줘	restraunt
+마포구주변 맛집 말해줘	restraunt
+주변 음식점 추천 좀	restraunt
+주변 음식점 추천 좀 해줘	restraunt
+주변에 뭐 먹을까요	restraunt
+서울주변 맛집 추천해줘요	restraunt
+주변에 맛난 음식 추천해주세요	restraunt
+충주주변 맛집 추천해줘요	restraunt
+주변에 맛있는 음식 추천해주세요	restraunt
+부산주변 맛집 추천해줘요	restraunt
+주변에 김치 맛집 추천해줘요	restraunt
+주변에 라면 음식 추천해주세요	restraunt
+주변에 고기 음식 추천해줘요	restraunt
+주변에 이런 음식 추천해줘요	restraunt
+주변에 먹을 맛집 추천해주세요	restraunt
+서울주변 맛집 알려줘요	restraunt
+주변에 맛난 음식 알려주세요	restraunt
+주변에 충주 맛집 알려줘요	restraunt
+주변에 맛있는 음식 알려주세요	restraunt
+대전주변 피자 맛집 어디 있죠	restraunt
+주변에맛집 어디 있지요	restraunt
+전주주변 맛집 어디에요	restraunt
+서울주변 맛집 말해줘	restraunt
+부산주변 맛집 어디에요	restraunt
+광명주변 맛집 어디에요	restraunt
+산천주변 맛집 어디지	restraunt
+전주주변 비빔밥 추천해줄래	restraunt
+서울주변 라멘집 추천해줘	restraunt
+대전주변 피자 맛집 어디있니	restraunt
+광주주변 떡갈비집 어디 맛있어	restraunt
+수원주변 왕갈비 어디 맛있니	restraunt
+성남에서 주변어디 제일 맛있니	restraunt
+대구에서 주변에 제일 맛있는 음식점 추천해주라	restraunt
+송천동 주변에 맛집 알려줘	restraunt
+홍대 주변에 제일 맛있는 음식점 어디니	restraunt
+송파구 주변에 술집 알려주라	restraunt
+주변에 고기 어디 제일 맛있어	restraunt
