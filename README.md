@@ -69,39 +69,37 @@
   > _W07-1. TEANAPS를 활용해 데이터 시각화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-1_text-mining-for-practice_python-visualization.ipynb)_  
   > _W07-2. 단어 임베딩 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-2_text-mining-for-practice_python-w2v.ipynb) [(Model Download)](https://drive.google.com/file/d/1qBMDr-WSMt-OG1IO2CXeqVqodKGYIxr2/view?usp=sharing)_  
 
-#### WEEK 08. 군집화
-- 텍스트 데이터 군집화
-- 토픽모델링
-- 실습  
-  > _W08-1. 뉴스기사 군집화로 이슈 모아보기_  
-  > _W08-2. 뉴스기사에서 주제 찾아내기_  
-  
-#### WEEK 09. 분류
+#### WEEK 08. 분류
 - 머신러닝을 활용한 텍스트 데이터 분류
 - 텍스트 감성분석
 - 실습  
-  > _W09-1. 사전기반과 머신러닝 기반의 감성분석_  
+  > _W08-1. 문장의 의도 분류하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-1_text-mining-for-practice_text-classification.ipynb)_  
+  > _W08-2. 감성분석 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-2_text-mining-for-practice_sentiment-analysis.ipynb)_  
+
+#### WEEK 09. 군집화
+- 텍스트 데이터 군집화
+- 토픽모델링
+- 실습  
+  > _W09-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09-1_text-mining-for-practice_text-clustering.ipynb)_  
 
 #### WEEK 10. 요약
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W10-1. 문서요약 알고리즘 활용하기: TextRank, LSA_  
-  > _W10-2. 키워드추출 알고리즘 활용하기: PKEA, RKEA_
+  > _W10-1. 뉴스기사 요약하기: 추출요약 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_10/W10-1_text-mining-for-practice_text-summerization.ipynb)_  
 
 #### WEEK 11. Predictive Analysis
 - 예측 모델링을 위한 자질추출
 - 텍스트 분류문제를 예측에 활용하는 방법
 - 실습  
-  > _W11-1. 뉴스기사를 활용한 KOSPI 등락여부 예측하기_
+  > _W11-1. 개봉직후 영화리뷰를 활용해 최종 관객수 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_text-mining-for-practice_python-movie-viewer-prediction.ipynb)_  
 
 #### WEEK 12. Application
-- 비즈니스를 위한 텍스트 분석
+- Question & Answering
+- Chat-bot: 질의응답부터 일상대화 까지
+- 카카오 i 오픈빌더 
 - 실습  
-  > _W12-1. 머신러닝을 활용해 문서에 사용된 언어를 판별하기_  
-  > _W12-2. 머신러닝을 활용해 스팸문서, 중요문서 판별하기_  
-  > _W12-3. 딥러닝을 활용해 자동으로 기사 생성하기_  
-  > _W12-4. 딥러닝을 활용해 챗봇 만들기_  
+  > _W12-1. 카카오 i 오픈빌더를 활용해 Q/A 챗봇 구축하기_  
 
 ---
 ## References
@@ -114,6 +112,7 @@
 
 ---
 ## Update History
+> 2020.12.05. `WEEK 07~12` 강의자료 및 실습자료 업데이트    
 > 2020.11.08. `WEEK 01~06` 강의자료 및 실습자료 업데이트    
 > 2020.04.12. 목차 구성 수정  
 > 2019.11.23. `TEANAPS v0.0.6` 업데이트 반영  
