@@ -32,7 +32,6 @@
   > _W02-2. 텍스트 데이터를 다루기 위한 Python: 자료구조 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-2_text-mining-for-practice_python-data-structure.ipynb)_  
   > _W02-3. 텍스트 데이터를 다루기 위한 Python: 반복문과 조건문 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-3_text-mining-for-practice_python-conditional%26loop.ipynb)_  
   > _W02-4. 텍스트 데이터를 다루기 위한 Python: 함수와 파일입출력 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-4_text-mining-for-practice_python-function%26file.ipynb)_  
-  > _W02-5. 텍스트 데이터를 다루기 위한 Python: 패턴인식과 정규식 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_02/W02-5_text-mining-for-practice_python-regex.ipynb)_  
 
 #### WEEK 03. 텍스트 데이터 수집 1
 - 텍스트 데이터 유형 및 수집방법
@@ -45,57 +44,54 @@
 - 웹 스크래핑 자동화 및 실전 활용법
 - 텍스트 데이터 핸들링
 - 실습  
-  > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-1_text-mining-for-practice_python-crawling-practice-2.ipynb)_  
-  > _W04-2. 동적페이지 수집하기: 인스타그램 해시태그 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_04/W04-2_text-mining-for-practice_python-crawling-practice-3.ipynb)_  
+  > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글_  
+  > _W04-2. 동적페이지 수집하기: Apple 앱스토어_    
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
 - KoNLPy & NLTK & TEANAPS
 - 실습  
-  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-1_text-mining-for-practice_python-korean-nlp.ipynb)_  
-  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-2_text-mining-for-practice_python-english-nlp.ipynb)_  
-  > _W05-3. 개체명인식 수행하기: TEANAPS [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_05/W05-3_text-mining-for-practice_python-ner.ipynb)_  
+  > _W05-1. 한국어 텍스트 데이터 전처리하기: KoNLPy & TEANAPS_  
+  > _W05-2. 영어 텍스트 데이터 전처리하기: NLTK & TEANAPS_  
+  > _W05-3. 개체명인식 수행하기: TEANAPS NER_  
 
 #### WEEK 06. 단어의 가중치를 표현하는 방법
 - 단어빈도와 TF-IDF
 - 단어 네트워크와 중심성
 - 실습  
-  > _W06-1. 단어빈도와 TF-IDF 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-1_text-mining-for-practice_python-tf-idf.ipynb)_  
-  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_06/W06-2_text-mining-for-practice_python-co-word.ipynb)_  
+  > _W06-1. 단어빈도와 TF-IDF 계산하기_  
+  > _W06-2. 동시출현빈도 계산과 단어 네트워크 생성하기_  
 
-#### WEEK 07. 문서를 벡터로 표현하는 방법
-- 단어 단위 임베딩
-- 문장/문서 단위 임베딩
+#### WEEK 07. 텍스트 분석을 위한 머신러닝/딥러닝
+- 머신러닝 기초
+- 순차 레이블링: MM, HMM, CRF
+- 언어 모델링: Seq2Seq, Transformer
+
+#### WEEK 08. 텍스트 분석 방법론 1
+- CNN, RNN을 활용한 텍스트 데이터 분류
+- Transformer 모델 기반 텍스트 감성분석
 - 실습  
-  > _W07-1. TEANAPS를 활용해 데이터 시각화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-1_text-mining-for-practice_python-visualization.ipynb)_  
-  > _W07-2. 단어 임베딩 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_07/W07-2_text-mining-for-practice_python-w2v.ipynb) [(Model Download)](https://drive.google.com/file/d/1qBMDr-WSMt-OG1IO2CXeqVqodKGYIxr2/view?usp=sharing)_  
+  > _W07-1. 문장 의도분류 및 감성분석 수행하기_  
 
-#### WEEK 08. 분류
-- 머신러닝을 활용한 텍스트 데이터 분류
-- 텍스트 감성분석
-- 실습  
-  > _W08-1. 문장의 의도 분류하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-1_text-mining-for-practice_text-classification.ipynb)_  
-  > _W08-2. 감성분석 활용하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-2_text-mining-for-practice_sentiment-analysis.ipynb)_  
-
-#### WEEK 09. 군집화
-- 텍스트 데이터 군집화
+#### WEEK 09. 텍스트 분석 방법론 2
+- 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _W09-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09-1_text-mining-for-practice_text-clustering.ipynb)_  
+  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기_  
 
-#### WEEK 10. 요약
+#### WEEK 10. 텍스트 분석 방법론 3
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W10-1. 뉴스기사 요약하기: 추출요약 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_10/W10-1_text-mining-for-practice_text-summerization.ipynb)_  
+  > _W09-1. 뉴스기사 요약과 키워드 추출하기_  
 
-#### WEEK 11. Predictive Analysis
-- 예측 모델링을 위한 자질추출
-- 텍스트 분류문제를 예측에 활용하는 방법
+#### WEEK 11. 텍스트 분석 방법론 4
+- 그래프 기초이론과 네트워크 분석 
+- 단어 네트워크와 중심성
 - 실습  
-  > _W11-1. 개봉직후 영화리뷰를 활용해 최종 관객수 예측하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_text-mining-for-practice_python-movie-viewer-prediction.ipynb)_  
+  > _W10-1. 단어 네트워크 중심성 계산하기_  
 
-#### WEEK 12. Application
+#### WEEK 12. 머신러닝/딥러닝 기반 대화 모델링
 - Question & Answering
 - Chat-bot: 질의응답부터 일상대화 까지
 - 카카오 i 오픈빌더 
@@ -113,6 +109,7 @@
 
 ---
 ## Update History
+> 2021.09.11. 2021 하반기 커리큘럼 업데이트, `WEEK 01~03` 강의자료 및 실습자료 업데이트.  
 > 2020.12.05. `WEEK 07~12` 강의자료 및 실습자료 업데이트    
 > 2020.11.08. `WEEK 01~06` 강의자료 및 실습자료 업데이트    
 > 2020.04.12. 목차 구성 수정  
