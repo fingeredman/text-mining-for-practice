@@ -37,14 +37,15 @@
 - 웹 스크래핑 기초
 - 실습  
   > _W03-1. 데이터 크롤링 원리 이해하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-1_text-mining-for-practice_python-crawling-intro.ipynb)_  
-  > _W03-2. 정적페이지 수집하기: 실시간검색어, 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-2_text-mining-for-practice_python-crawling-practice-1.ipynb)_  
+  > _W03-2. 정적페이지 수집하기: 영화댓글 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_03/W03-2_text-mining-for-practice_python-crawling-practice-1.ipynb)_  
   
 #### WEEK 04. 텍스트 데이터 수집 2
 - 웹 스크래핑 자동화 및 실전 활용법
 - 텍스트 데이터 핸들링
 - 실습  
   > _W04-1. 동적페이지 수집하기: 네이버 카페 게시글/댓글_  
-  > _W04-2. 동적페이지 수집하기: Apple 앱스토어_    
+  > _W04-2. 동적페이지 수집하기: Google 플레이스토어, Apple 앱스토어_    
+  > _W04-3. 동적페이지 수집하기: 네이버 뉴스기사 본문/댓글_    
   
 #### WEEK 05. 텍스트 데이터 전처리
 - 형태소분석과 개체명인식
