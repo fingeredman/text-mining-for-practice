@@ -68,13 +68,13 @@
 - CNN, RNN을 활용한 텍스트 데이터 분류
 - Transformer 모델 기반 텍스트 감성분석
 - 실습  
-  > _W07-1. 문장 의도분류 및 감성분석 수행하기_  
+  > _W07-1. 문장 의도분류 및 감성분석 수행하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_08/W08-1_text-mining-for-practice_python_text-classification.ipynb)_  
 
 #### WEEK 09. 텍스트 분석 방법론 2
 - 텍스트 유사도와 군집화
 - 토픽모델링
 - 실습  
-  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기_  
+  > _W08-1. K-평균 군집화와 LDA 토픽모델링을 활용해 문서 군집화하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_09/W09_1_text_mining_for_practice_text_clustering.ipynb)_  
 
 #### WEEK 10. 텍스트 분석 방법론 3
 - 문서요약: 추출요약과 생성요약
@@ -106,8 +106,9 @@
 
 ---
 ## Update History
-> 2022.02.26. `WEEK 04~06` 강의자료 및 실습자료 업데이트.  
-> 2021.09.11. 2021 하반기 커리큘럼 업데이트, `WEEK 01~03` 강의자료 및 실습자료 업데이트.  
+> 2022.03.13. `WEEK 07~09` 강의자료 및 실습자료 업데이트  
+> 2022.02.26. `WEEK 04~06` 강의자료 및 실습자료 업데이트  
+> 2021.09.11. 2021 하반기 커리큘럼 업데이트, `WEEK 01~03` 강의자료 및 실습자료 업데이트  
 > 2020.12.05. `WEEK 07~12` 강의자료 및 실습자료 업데이트    
 > 2020.11.08. `WEEK 01~06` 강의자료 및 실습자료 업데이트    
 > 2020.04.12. 목차 구성 수정  
