@@ -1,0 +1,2922 @@
+날씨 좋아	weather
+날씨 좋니	weather
+날씨 어떠니	weather
+영월 날씨 좋니	weather
+오늘 비 오나요	weather
+눈 오나요	weather
+날씨 비 와	weather
+오늘 눈 와	weather
+4월 12일 날씨 맑나요	weather
+이번주 토요일 맑나요	weather
+내일 맑나요	weather
+이번 주 맑아	weather
+다음 주 구름 꼈나요	weather
+이번 주 바람 부니	weather
+날씨	weather
+날씨도	weather
+날씨는	weather
+날씨는 어때	weather
+날씨는 어떠니	weather
+날씨도 알려줘	weather
+오늘 날씨 바람 부니	weather
+오늘 바람 부니	weather
+내일 구름 꼈나요	weather
+모레 구름 꼈나요	weather
+모레 비 올까	weather
+내일 눈 오나요	weather
+내일 눈 올까	weather
+모레 흐릴까	weather
+내일 흐리니	weather
+내일 흐려	weather
+모레 흐려	weather
+내일 날씨 흐려	weather
+모레 날씨 흐리니	weather
+모레 맑나요	weather
+오늘 맑은지 알려줘	weather
+포항 날씨 좋아	weather
+양양 오늘 날씨 알려줘	weather
+강릉 오늘 날씨좀 알려줄래	weather
+속초의 오늘 날씨는 어떨까	weather
+다다음 주 날씨 어때보여	weather
+글피 날씨 어때요	weather
+글피 날씨 알려줘	weather
+인천 날씨 어때요	weather
+오늘 날씨 알려줘	weather
+오늘 날씨좀 알려줄래	weather
+다음 달 날씨 어떨까	weather
+다음 주 날씨 어때보여	weather
+이번 주 날씨 어때요	weather
+내일 날씨 알려줘	weather
+오늘 날씨 알려주라	weather
+이번 주 전주 날씨 알려줘	weather
+이번 주 날씨 알려줘	weather
+내일 부산 날씨 알려줄래	weather
+다음 주 논산 날씨 알려줘	weather
+3월 15일 날씨 알려줘	weather
+9월 12일 대구 날씨 알려줄래	weather
+날씨 좀 알려줄 수 있겠니	weather
+날씨 어떠니 좋니	weather
+내일 비 오나요	weather
+전주 바람 많이 부니	weather
+대구 바람 많이 부니	weather
+서울 바람 부니	weather
+서울 바람 상태 어떠니	weather
+울산 바람 많이 부니	weather
+인천 바람 많이 부니	weather
+부산 바람 부니	weather
+대전 바람 상태 어떠니	weather
+덕진구 바람 많이 부니	weather
+서초구 바람 많이 부니	weather
+강릉 바람 부니	weather
+광주 바람 상태 어떠니	weather
+진천 바람 많이 부니	weather
+청주 바람 많이 부니	weather
+영등포 바람 부니	weather
+강남구 바람 상태 어떠니	weather
+춘천 바람 많이 부니	weather
+포항 바람 많이 부니	weather
+속초 바람 부니	weather
+제주 바람 상태 어떠니	weather
+군산 지금 눈 오나요	weather
+대구 눈 오나요	weather
+마포구 지금 비 오나요	weather
+여의도 비 오는지 알려줘	weather
+미룡동 지금 눈 오나요	weather
+울산 눈 오나요	weather
+동구 지금 비 오나요	weather
+제주 비 오는지 알려줘	weather
+울산 지금 눈 오나요	weather
+양양 눈 오나요	weather
+산천 지금 비 오나요	weather
+신천 비 오는지 알려줘	weather
+내일 구름 꼈니	weather
+모레 구름 꼈니	weather
+오늘 비 오니	weather
+내일 눈 오니	weather
+내일 눈 올까요	weather
+모레 흐릴까요	weather
+오늘 우산 챙길까	weather
+내일 우산 챙겨야 하니	weather
+오늘 우비 입을까	weather
+전주 날씨 어떠니	weather
+전주 우산 챙겨야 하니	weather
+부산 우산 챙길까	weather
+대전 비 옷 입을까	weather
+광주 비 옷 입을까	weather
+모레 전북 우비 입어야 하니	weather
+우비 입을까	weather
+우산 챙길까 말까	weather
+오늘 마포구 바람 많이 부니	weather
+내일 바람 많이 불려나	weather
+오늘 완산구 바람 많이 부니	weather
+오늘 동두천 바람 많이 부니	weather
+오늘 인천 바람 많이 부니	weather
+오늘 전주 우산 써야 하니	weather
+내일 우산 써야 하니	weather
+다음 주 광주 우산 써야 하니	weather
+우비 입을까 고민 돼요	weather
+오늘 날씨 좋니	weather
+날씨 어떤지 말해줄수 있을까	weather
+오늘 날씨 어때요	weather
+4월 12일 날씨 어때요	weather
+이번주 토요일 날씨 어때요	weather
+내일 날씨 어때요	weather
+다음 주 날씨 어때요	weather
+날씨가 어떻게 돼요	weather
+오늘 날씨좀 알려줄수 있니	weather
+내일 날씨 알려줄수 있어	weather
+이번 주 날씨 알려줄래	weather
+다음 주 날씨 알려줘	weather
+이번주 날씨 줘	weather
+다음주 날씨 알려줄래	weather
+오늘 역삼동 날씨 알려줘	weather
+오늘 마포구 우비 입을까	weather
+춘천 우산 챙겨야 하니	weather
+서울 우산 챙길까	weather
+모레 순천 우비 입어야 하니	weather
+이번 주 날씨는	weather
+이번 주 광명 날씨 알려줘	weather
+이번 주 울산 날씨 알려줘	weather
+이번 주 평택 날씨 알려줘	weather
+우비 입을까 고민 돼	weather
+우산 챙길지 고민되네	weather
+날씨 좋아요	weather
+날씨가 어떻게 돼	weather
+이번 주 광명 날씨 맑나요	weather
+이번 주 울산 날씨 비 오니	weather
+내일 비 오니	weather
+오늘 비 와	weather
+이번 달 비 오니	weather
+이번 달 눈 오니	weather
+내일 비 오는지 알려줘	weather
+오늘 날씨 맑은가요	weather
+이번 주 광명 맑은가요	weather
+이번 주 울산 날씨 맑은가요	weather
+이번 주 서산 날씨 비 오니	weather
+오늘 눈 오니	weather
+오늘 눈 오는지 알려줘	weather
+오늘 바람 부냐	weather
+오늘 바람 많이 부니	weather
+내일 모레 눈 오는지 알려주라	weather
+내일 전주 바람 많이 부니	weather
+내일 서울 날씨 바람 많이 부는지 알려줘	weather
+눈 오니	weather
+4월 12일 날씨 맑은가요	weather
+이번주 토요일 맑은가요	weather
+내일 맑은가요	weather
+이번 주 맑아요	weather
+다음 주 구름 꼈니	weather
+모레 비 올까요	weather
+모레 맑은가요	weather
+이번 주 광명 날씨 맑은가요	weather
+대전 눈 와	weather
+대구 달 비 오니	weather
+울산 달 눈 오니	weather
+인천 비 오는지 알려줘	weather
+이번 주 광명 날씨 맑니	weather
+오늘 눈 오나요	weather
+오늘 날씨 맑니	weather
+이번 주 광명 맑니	weather
+이번 주 울산 날씨 맑니	weather
+대전 눈 오나요	weather
+내일 서산 바람 많이 부니	weather
+바람 많이 불어	weather
+바람 어때	weather
+바람 많이 부는지 알려줄래	weather
+송도 내일 바람 많이 부니	weather
+오늘 대구 동구 바람 많이 부냐	weather
+오늘 구로구 바람 많이 부니	weather
+날씨 비 오나요	weather
+오늘 눈 오나	weather
+4월 12일 날씨 맑니	weather
+이번주 토요일 맑니	weather
+내일 맑니	weather
+모레 맑니	weather
+오늘 비 오나	weather
+송도 내일 바람 많이 부나요	weather
+오늘 구로구 바람 많이 부나요	weather
+오늘 바람 부나요	weather
+이번 주 바람 부나요	weather
+내일 전주 바람 많이 부나요	weather
+오늘 이천 우산 써야 하니	weather
+다음 주 울산 우산 써야 하니	weather
+다음 주 완주 우산 써야 하니	weather
+오늘 상주 우산 써야 하니	weather
+오늘 오산 우산 써야 하니	weather
+사과가 아랍어로 뭐야	translation
+움직이다는 영어로 뭐야	translation
+영어로 번역해줘	translation
+지하철은 일본어로 뭐야	translation
+안녕하세요 일본어로	translation
+안녕하세요 영어로	translation
+가을은 영어로 뭐야	translation
+만년필은 영어로 뭐야	translation
+신난다는 영어로 뭐야	translation
+걸어간다를 영어로 하면	translation
+사과를 영어로 하면	translation
+바이올린은 일본어로 뭐야	translation
+사과는 영어로 뭐라고 해	translation
+바이올린은 일본어로 뭐라고 해	translation
+책은 러시아어로 뭐야	translation
+바이올린은 중국어로 뭐라고 해	translation
+안녕하세요를 일본어로 뭐라고 해	translation
+안녕하세요는 영어로 뭐야	translation
+안녕하세요는 중국어로 뭐야	translation
+안녕하세요를 중국어로 뭐라고 해	translation
+마스크는 중국어로 뭐야	translation
+악기는 태국어로 뭐야	translation
+단풍은 태국어로 뭐라고 해	translation
+달리다를 중국어로 뭐라고 해	translation
+달리다는 중국어로 뭐야	translation
+흐르다는 중국어로 뭐야	translation
+푸르다는 프랑스어로 뭐야	translation
+지금을 영어로 하면	translation
+숙제하다를 영어로 하면	translation
+노트북은 일본어로 뭐야	translation
+충전은 영어로 뭐야	translation
+일본어로 가방은 뭐라고 해	translation
+러시아어로 가방은 뭐라고 해	translation
+중국어로 가방은 뭐라고 해	translation
+도로를 영어로 해봐	translation
+기차를 일본어로 말해봐	translation
+도로를 일본어로 해봐	translation
+도서관을 영어로 해봐	translation
+단풍을 러시아어로 말해봐	translation
+등산을 태국어로 말해봐	translation
+건물을 독일어로 말해봐	translation
+단풍을 일본어로 말해봐	translation
+전기를 러시아어로 말해봐	translation
+태국어로 안녕하세요는 뭐야	translation
+중국어로 안녕하세요는 뭐라고 하나요	translation
+영어로 만년필은 뭐라고 하나요	translation
+여행은 일본어로 뭐라고 하나요	translation
+여행을 일본어로 하면 뭐야	translation
+운전하다를 러시아어로 하면 뭐야	translation
+운전 러시아어로	translation
+책상 태국어로	translation
+집 아랍어로	translation
+나무 일본어로	translation
+집 독일어로	translation
+독일어로 달리다는 뭐야	translation
+프랑스어로 쓰다는 뭐야	translation
+연주하다는 중국어로 뭐야	translation
+일본어로 인사 어떻게 해	translation
+중국어로 인사 어떻게 해	translation
+영어로 인사 어떻게 해	translation
+러시아어로 인사 어떻게 해요	translation
+태국어로 인사 어떻게 해요	translation
+일본어로 번역해줘	translation
+한국어로 번역해줘	translation
+러시아어로 번역해줘	translation
+태국어로 번역해줘	translation
+아랍어로 번역해줘	translation
+프랑스어로 번역해줘	translation
+독일어로 번역해줘	translation
+이탈리아어로 번역해줘	translation
+중국어로 번역해줘	translation
+영어로 번역하면	translation
+일본어로 번역하면	translation
+프랑스어로 번역하면	translation
+영어로 번역하면 뭐야	translation
+일본어로 번역하면 뭐야	translation
+러시아어로 번역하면 뭐야	translation
+프랑스어로 번역하면 뭐야	translation
+태국어로 번역하면 뭐야	translation
+집은 프랑스어로 무엇인가요	translation
+사과는 일본어로 무엇인가요	translation
+집은 독일어로 무엇인가요	translation
+아프다는 영어로 무엇인가요	translation
+공부하다는 중국어로 무엇인가요	translation
+집은 일본어로 뭐니	translation
+기차역은 영어로 뭐니	translation
+달리다는 독일어로 뭐니	translation
+숙제하다는 러시아어로 뭐니	translation
+졸리다는 프랑스어로 뭐니	translation
+영어로 무슨 뜻이니	translation
+중국어로 무슨 뜻이니	translation
+한국어로 무슨 뜻이니	translation
+러시아어로 무슨 뜻이니	translation
+일본어로 무슨 뜻이니	translation
+영어로 무슨 뜻인가요	translation
+중국어로 무슨 뜻인가요	translation
+한국어로 무슨 뜻인가요	translation
+아프리카어로 무슨 뜻인가요	translation
+러시아어로 무슨 뜻인가요	translation
+아랍어로 무슨 뜻인가요	translation
+커피를 태국어로 하면 뭐야	translation
+영어로 무슨 뜻인지 알려줘	translation
+러시아어로 무슨 뜻인지 알려줘	translation
+한국어로 무슨 뜻인지 알려줘	translation
+일본어로 무슨 뜻인지 알려줘	translation
+중국어로 무슨 뜻인지 알려줘	translation
+소리가 너무 작아요	sound
+소리가 너무 커요	sound
+소리가 너무 작은데	sound
+소리가 너무 큰데	sound
+소리 줄여줘	sound
+소리 키워줘	sound
+소리 켜줘	sound
+소리 꺼줘	sound
+소리 꺼주세요	sound
+소리 켜주세요	sound
+소리 줄여주세요	sound
+소리 키워주세요	sound
+소리 좀 키워줘	sound
+소리 좀 줄여줘	sound
+볼륨 높여	sound
+볼륨 줄여	sound
+잘 안들려	sound
+잘 들려	sound
+소리가 너무 작아	sound
+소리가 너무 작아요 	sound
+소리가 너무 커	sound
+볼륨 높여줘	sound
+볼륨 줄여줘	sound
+볼륨이 너무 커	sound
+볼륨이 너무 작아	sound
+사운드가 너무 작아	sound
+잘 안 들리는 것 같은데	sound
+잘 안 들리는 것 같아	sound
+잘 안 들려요	sound
+잘 안 들림	sound
+잘 안 들리는데	sound
+잘 안 들려	sound
+볼륨이 좀 작아요	sound
+볼륨이 좀 작아	sound
+볼륨 좀 높여	sound
+볼륨 좀 높여주세요	sound
+볼륨이 좀 커요	sound
+볼륨이 좀 커	sound
+소리 더 키워줘	sound
+소리 더 줄여줘	sound
+볼륨 더 키워줘	sound
+볼륨 더 줄여줘	sound
+소리 조금만 키워줘	sound
+소리 조금만 줄여줘	sound
+소리 조금만 작게	sound
+소리 조금만 크게	sound
+사운드 조금만 더 크게 해줘	sound
+사운드 조금만 더 작게 해줘	sound
+소리 좀 더 크게 해주세요	sound
+소리 좀 더 작게 해주세요	sound
+소리 좀 더 크게 해줘	sound
+소리 좀 더 작게 해줘	sound
+소리 올려줘	sound
+소리 낮춰줘	sound
+볼륨 올려줘	sound
+볼륨 낮춰줘	sound
+소리 너무 크니까 줄여줘	sound
+소리 너무 작으니까 키워줘	sound
+사운드 줄여줘	sound
+사운드가 너무 커	sound
+사운드가 너무 커요	sound
+사운드가 안 들려요	sound
+소리가 안 들려요	sound
+소리가 안 들려	sound
+볼륨이 너무 큰데	sound
+볼륨이 너무 커요	sound
+소리가 안 들리는 것같아	sound
+뭐라고 하는지 안 들려	sound
+뭐라고 하는지 하나도 안 들려	sound
+좀 더 크게 말해줘	sound
+조금만 더 크게 말해줘	sound
+조금만 더 작게 말해줘	sound
+너무 시끄러워	sound
+너무 조용해	sound
+시끄러우니까 소리 줄여줘	sound
+너무 안 들리니까 소리 키워줘	sound
+너무 시끄러우니까 볼륨 낮춰줘	sound
+사운드 올려줘	sound
+사운드 낮춰줘	sound
+사운드 조절해줘	sound
+사운드 조절해주세요	sound
+사운드 올려주세요	sound
+사운드 낮춰주세요	sound
+소리 조절해줘	sound
+소리 많이 줄여줄 수 있어	sound
+소리 많이 키워줄 수 있어	sound
+볼륨 많이 키워줄 수 있어	sound
+볼륨 많이 줄여줄 수 있어	sound
+방탄소년단 노래 제목 알려줘	song
+요즘 인기 있는 노래 말해줘	song
+노래 순위 알려줘	song
+신나는 노래 추천해줘	song
+슬픈 노래 알려줘	song
+신나는 노래 알려줘	song
+슬픈 노래 추천해줘	song
+블랙핑크 노래 알려줘	song
+외국 인기곡 알려줘	song
+외국 인기곡 추천해줘	song
+힙합 노래 추천해줘	song
+힙합 노래 알려줘	song
+신나는 트로트 노래 알려줘	song
+트로트 노래 추천해줘	song
+임영웅 노래 알려줘	song
+임영웅 노래 추천해줘	song
+방탄소년단 노래 추천해줘	song
+랩 노래 추천해줘	song
+스윙스 노래 추천해줘	song
+스윙스 노래 알려줘	song
+노래 추천	song
+요즘 노래	song
+재밌는 노래 알려줘	song
+재밌는 노래 추천해줘	song
+마마무 노래 알려줘	song
+마마무 노래 추천해줘	song
+폴킴 노래 알려줘	song
+요즘 인기 있는 뮤직은 뭐야	song
+지드래곤 프로듀싱 곡 알려줘	song
+방시혁이 프로듀싱한 노래 알려줘	song
+방탄소년단 플레이리스트 보여줘	song
+마마무 플레이리스트 알려줘	song
+발라드 추천해줘	song
+발라드 뮤직 알려줘	song
+유행하는 노래 추천해줘	song
+알앤비 뮤직 추천해줘	song
+알앤비 노래 하나 알려줘	song
+윤종신이 부른 노래 알려줘	song
+강호동이 부른 노래 제목 알려줘	song
+부르기 쉬운 노래 알려줘	song
+부르기 쉬운 노래 추천해줘	song
+여자 가수 노래 추천해줘	song
+남자 가수 노래 추천해줘	song
+여자 발라드 알려줘	song
+여자 발라드 추천해줘	song
+남자 발라드 알려줘	song
+남자 랩 노래 추천해줘	song
+여자 댄스곡 추천해줘	song
+여자 아이돌 노래 알려줘	song
+여자 아이돌 노래 추천해줘	song
+단체 곡 알려줘	song
+밴드 음악 추천해줘	song
+안테나 뮤직 가수 앨범 추천해줘	song
+자기 전에 듣기 좋은 노래 추천해줘	song
+공부할 때 도움되는 노래 알려줘	song
+공부할 때 집중되는 노래 추천해줘	song
+차안에서 들을만한 노래 알려줘	song
+비올 때 듣기 좋은 노래 추천해줘	song
+차안에서 듣기 좋은 발라드 알려줘	song
+90년대 히트곡 알려줘	song
+90년대 댄스곡 추천해줘	song
+90년대 아이돌 노래 알려줘	song
+트와이스 빼고 여자 아이돌 노래 알려줘	song
+2000년대 힙합 노래 알려줘	song
+2000년대 댄스곡 알려줘	song
+1세대 아이돌 노래 알려줘	song
+룰라 노래 추천해줘	song
+여행갈 때 듣기 좋은 노래 추천해줘	song
+버스 안에서 듣기 좋은 노래 알려줘	song
+운동할 때 도움되는 노래 알려줘	song
+틱톡에 나오는 노래 알려줘	song
+드라마 주제곡 알려줘	song
+영화 테마곡 추천해줘	song
+영화 bgm 알려줘	song
+오늘의 노래 추천해줘	song
+오늘 나오는 노래 알려줘	song
+이번 주 차트에 있는 노래 알려줘	song
+작년에 가장 인기있는 곡 알려줘	song
+작년 탑 100 노래 알려줘	song
+식당에서 틀을만한 노래 알려줘	song
+춤추기 좋은 노래 알려줘	song
+클래식 추천해주세요	song
+지킬앤하이드 뮤지컬 곡 알려주세요	song
+따라 부르기 쉬운 노래	song
+우울할 때 듣는 노래	song
+슬플 때 듣기 좋은 노래들	song
+피아노 연주곡 틀어줘	song
+바이올린 연주곡 알려줘	song
+뮤직뱅크 1등 노래 알려줘	song
+아무 연주곡 추천해주세요	song
+드라마 주제곡 중 좋은 노래 알려주세요	song
+추억의 노래 틀어주세요	song
+부모님이 좋아하실 노래 알려주세요	song
+빈지노 랩 추천	song
+판소리 노래 알려주세요	song
+발라드 추천곡이 뭐야	song
+언제나 들어도 좋은 노래가 뭐야	song
+따라 부르기 어려운 노래 알려줘	song
+슈퍼스타 케이 경연곡 알려주세요	song
+나훈아 노래 알려주세요	song
+광고 음악 알려주세요	song
+중국 노래 추천해주세요	song
+레드벨벳 노래 추천해줘	song
+엑소 새로운 음원 발표 언제야	song
+NCT 신곡 제목 알려줘	song
+레드벨벳 몬스터 노래 반응 어떠니	song
+트와이스 노래 아무거나 틀어줘	song
+볼빨간사춘기 2018년도 나온 노래 어떤게 있니	song
+1990년대 노래 틀어줘	song
+슬픈 멜로디 음악 틀어주세요	song
+기분좋아지는 노래 알려줘	song
+가사에 제주도가 들어간 노래 알려줘	song
+밤에 듣기좋은 노래 틀워주세요	song
+스승의 은혜 노래 틀어줘	song
+엑소 신곡 틀어줘	song
+신화 노래 추천해줘	song
+트로트곡 추천해줘	song
+임영웅 음원 발표 언제야	song
+스타트업 ost 틀어줘	song
+백지영이 부른 노래 모두 틀어줘	song
+원더걸스 음악 추천해줘	song
+10월달에 1위한 노래 알려줘	song
+케이윌 노래 알려줘	song
+이번달 내가 제일 많이 들은 노래 알려줘	song
+요즘 핫한 곡 알려줘	song
+인기 있는 힙합 들려줘	song
+꿀잠오는 R&B 틀어줘	song
+인기 있는 트로트 틀어줘	song
+인기 있는 발라드곡 들려줘	song
+내가 좋아할 만한 노래 추천해줘	song
+아이유 최신앨범 들려줘	song
+퇴근길에 들으면 좋은 노래	song
+축가로 가장 많이 부르는 노래	song
+여행가서 들으면 좋은 노래	song
+매장에서 가장 많이 틀은 노래	song
+40대가 가장 많이 듣는 노래	song
+30대가 가장 많이 듣는 노래	song
+10대가 가장 많이 듣는 노래	song
+20대가 가장 좋아하는 노래	song
+출근길에 들으면 좋은 노래 	song
+아이유 노래 추천해줘	song
+노래 추천해줘	song
+코요태 순정 틀어줘	song
+아리아나그란데 노래 추천해줘	song
+영탁 노래 틀어줘	song
+댄스 장르 노래 틀어줘	song
+댄스 노래 추천해줘	song
+발라드 추천	song
+이승기 노래 틀어줘	song
+200년대 1위 노래	song
+다이나익 듀오 노래틀어줘	song
+천국의 계단 ost 틀어줘	song
+김범수가 부른 노래 알려줘	song
+바닷가에서 들으면 좋은 노래	song
+연인과 함께 들으면 좋은 노래	song
+친구와 함께 들으면 좋은 노래	song
+가족과 함께 들으면 좋은 노래	song
+신나는 아이돌 노래 틀어줘	song
+여자 아이들 신곡 틀어줘 	song
+마마무 별이빛나는 밤에 틀어줘	song
+장윤정 노래 추천해줘	song
+장윤정 신곡 틀어줘	song
+장기자랑에 부를 노래 추천	song
+프로포즈할 때 트는 노래 추천	song
+영화 ost 추천	song
+이승기가 부른 노래 틀어줘	song
+미스터 션샤인 ost 틀어줘	song
+이병헌이 출연한 드라마 ost 추천	song
+비오는 날 들으면 좋은 노래 추천	song
+재즈 음악 아무거나 틀어줘	song
+비 노래 틀어줘	song
+에이핑크 노래 추천해줘	song
+에이핑크 8월 신곡 들려줘	song
+서태지와 아이들 노래 추천	song
+30대 여성이 가장 많이 들은 노래	song
+30대 남성이 가장 많이 틀은 노래	song
+20대 여성이 가장 많이 틀은 노래	song
+20대 남성이 가장 많이 들은 노래	song
+40대 남성이 가장 좋아하는 노래	song
+어린이가 좋아하는 노래	song
+심심할 때 들으면 신나는 노래	song
+드라이브 노래 추천	song
+독서할때 듣기 좋은 노래	song
+음악 추천	song
+블랙핑크 노래 추천	song
+black이 포함된 노래 제목 알려줘	song
+도자캣이 부른 노래	song
+가호 최신앨범 들줘	song
+블랙핑크 최신앨범 들려줘	song
+비 최신앨범 틀어줘	song
+싹쓰리 최신앨범 들려줘	song
+엄정화 최신앨범 틀어줘	song
+가을에 듣기 좋은 노래	song
+여름에 듣기 좋은 노래	song
+겨울에 듣기 좋은 노래	song
+봄에 듣기 좋은 노래	song
+시원한 노래	song
+따듯한 노래	song
+90년대 영화 ost 틀어줘	song
+80년대 인기차트 곡 추천	song
+90년대 인기차크 곡 틀어줘	song
+자신감을 넘치게해주는 노래	song
+김범수 최신앨범	song
+김광석이 부른 노래 전부 틀어줘	song
+남자친구랑 들으면 좋은 노래	song
+자기 전 마음이 편해지는 노래	song
+클래식 음악 틀어줘	song
+클래식 음악 추천해줘	song
+모차르트 피아노 곡 틀어줘	song
+바이올린 음악 추천해줘	song
+9월에 나온 노래 추천	song
+8월에 나온 노래 추천	song
+12월에 나온 노래 추천	song
+11월에 나온 노래 추천	song
+10월에 나온 노래 추천	song
+1월에 나온 노래 추천	song
+2월에 나온 노래 추천	song
+3월에 나온 노래 추천	song
+4월에 나온 노래 추천	song
+5월에 나온 노래 추천	song
+6월에 나온 노래 추천	song
+7월에 나온 노래 추천	song
+7월에 출시된 음반 추천	song
+1월에 출시된 음반 어떤거 있어	song
+2월에 출시된 음반 추천해줘	song
+3월에 출시된 음반 어떤거 있어	song
+4월에 인기있던 걸그룹 노래 틀어줘	song
+5월에 인기있던 보이그룹 노래 추천	song
+6월에 출시된 음반 추천	song
+8월에 출시된 음반 추천	song
+9월에 출시된 음반 추천	song
+10월에 출시된 음반 추천	song
+학교가는 길 알려줘	road
+학교가는 길 알려주세요	road
+학교가는 빠른 길 알려줘	road
+학교로 가는 빠른 길 알려주세요	road
+학교가는 버스	road
+집에서 학교가는 길 알려줘	road
+집에서 학교까지 어떻게 가	road
+집에서 학교 뭐타고 가	road
+가장 가까운 정류장이 어디야	road
+가까운 정류장 어디니	road
+학교에서 가까운 정류장 어디야	road
+학교 앞 정류장이 어디야	road
+연세대학교까지 빠른길 알려줘	road
+연세대학교가 어디야	road
+집까지 가는길 알려줘	road
+집가는 버스 어디서 타	road
+학교가는 막차가 언제야	road
+집가는 막차가 언제야	road
+집가는 가장 빠른 길 알려줘	road
+학교가는 가장 빠른 길 알려줘	road
+학교가는 가장 빠른 버스 알려줘	road
+집까지 안막히는 길 알려줘	road
+집 주변 공사하는 도로 알려줘	road
+주변에 정류장 어딨어	road
+주변에 정류장 알려줘	road
+주변에 정류장 가까운곳 어디야	road
+주변 정류장 가까운곳으로 안내해줘	road
+주변 정류장가는 가까운 길 알려줘	road
+가까운 정류장 가는 길 알려줘	road
+가까운 정류장까지 가는 길 알려줘	road
+가까운 정류장의 버스 알려줘	road
+가까운 정류장까지 가는 시간 알려줘	road
+연세대학교 주변 정류장 알려줘	road
+연세대학교 주변 정류장 어디야	road
+연세대학교에서 가까운 정류장 알려줘	road
+연세대학교에서 가까운 정류장 안내해	road
+연세대학교에서 가까운 정류장 어디야	road
+연세대학교에서 홍대까지 어떻게 가	road
+연세대학교에서 홍대가는 길 알려줘	road
+연세대에서 홍대가는 버스 알려줘	road
+연세대에서 홍대가는 버스 뭐야	road
+연세대에서 건대입구 가는 시간 알려줘	road
+연세대에서 건대입구 얼마나 걸려	road
+연세대에서 건대입구 어떻게 가	road
+연세대에서 건대입구로 안내해줘	road
+470번 버스 노선 알려줘	road
+470번 버스 언제와	road
+470번 버스 막차시간이 언제야	road
+연세대학교 정류장 470번 버스 몇 분 후에 오는지 알려줘	road
+470번 버스 요금 얼마야	road
+연세대에서 470번 버스로 어디 갈 수 있어	road
+가장빨리 도착하는 버스 몇 번이야	road
+빨리 도착하는 버스 알려줘	road
+연세대까지 갈 수 있는 최단시간 알려줘	road
+연세대까지 최소거리로 갈 수 있는 법 알려줘	road
+연세대학교까지 제일 빨리 어떻게 가	road
+연세대까지 빨리 가는 방법 알려줘	road
+연세대까지 안막히는 길 알려줘	road
+연세대까지 한 번에 가는 버스 알려줘	road
+연세대까지 환승 안하는 버스 알려줘	road
+학교까지 가는 루트 알려줘	road
+학교로 가는 가장 빠른길로 안내해	road
+학교가는 가장 빠른길 안내해	road
+집가는 가장 빠른길 안내해	road
+집으로 가는 가장 빠른길로 안내해	road
+학교가는 길로 안내해줘	road
+학교가는 길 안내해	road
+집가는 길 안내해	road
+집가는 경로 알려줘	road
+학교가는 경로 안내해	road
+학교까지 가는 경로 알려줘	road
+집까지 가는 경로 알려줘	road
+집까지 가는 경로 안내해	road
+집으로 가는 가장 빠른 경로 안내해	road
+학교로 가는 가장 빠른 경로 안내해	road
+학교가는 길 다른 경로 알려줘	road
+학교가는 길 다른 경로 안내해	road
+집가는 길 다른 경로 알려줘	road
+집가는 길 다른 경로 안내해	road
+집가는 길 다른 루트로 알려줘	road
+학교가는 길 다른 루트로 안내해	road
+집가는 길 다른 루트로 안내해	road
+학교가는 길 다른 루트로 알려줘	road
+집가는 길 더 빠른 길 알려줘	road
+학교가는 길 더 빠른 길 알려줘	road
+집까지 제일 빠른 루트 알려줘	road
+집까지 가장 빠른 루트 알려줘	road
+학교까지 제일 빠른 길 알려줘	road
+학교까지 가장 빠른 루트 알려줘	road
+집에서 학교까지 가장 빠른 루트 안내해	road
+집에서 학교까지 가장 빠른 루트 알려줘	road
+집에서 학교까지 가장 빠른 길 어떻게 가	road
+집에서 학교까지 가장 빠른 방법 뭐야	road
+집에서 학교까지 가장 빠른 방법 알려줘	road
+집에서 학교까지 가장 빠른 방법 안내해	road
+집에서 학교까지 거리가 어떻게 돼	road
+집에서 학교까지 최단거리 알려줘	road
+집에서 학교까지 최단거리 안내해	road
+집에서 학교까지 최단거리로 안내해줘	road
+집으로 가자	road
+서울 맛집 말해줘	restraunt
+부산 맛집 어디에요	restraunt
+광명 맛집 어디에요	restraunt
+산천 맛집 어디지	restraunt
+대전 맛있는 음식점 알려줘요	restraunt
+마포구 맛집 어디에요	restraunt
+구로구 음식점 추천 좀요	restraunt
+맛있는 음식점 알려줘요	restraunt
+음식점 추천 좀요	restraunt
+음식점 추천 좀 해줘요	restraunt
+전주 맛집 추천해줘	restraunt
+부산 맛집 추천해줘	restraunt
+오늘 뭐 먹을까	restraunt
+먹을 거 추천해줘	restraunt
+뭐 먹을지 알려주세요	restraunt
+먹을 거 추천해줘요	restraunt
+대구 맛집 추천해줘요	restraunt
+먹을 음식 추천해주세요	restraunt
+뭐 먹을지 정해줘요	restraunt
+어떤거 먹을지 정해주세요	restraunt
+먹을 거 좀 알려줘요	restraunt
+부산 고깃집 추천해줘	restraunt
+전주 비빔밥 추천해줄래	restraunt
+서울 라멘집 추천해줘	restraunt
+대전 피자 맛집 어디있니	restraunt
+광주 떡갈비집 어디 맛있어	restraunt
+수원 왕갈비 어디 맛있니	restraunt
+성남에서 어디 제일 맛있니	restraunt
+대구에서 제일 맛있는 음식점 추천해주라	restraunt
+송천동 맛집 알려줘	restraunt
+홍대에서 제일 맛있는 음식점 어디니	restraunt
+송파구 술집 알려주라	restraunt
+학교 주변 떡볶이집 추천해줄래	restraunt
+요즘에 제일 맛있는 음식점 어디야	restraunt
+고기 어디 제일 맛있어	restraunt
+여수에서 제일 고기 맛집 어디야	restraunt
+익산 맛집 추천해주겠니	restraunt
+익산 맛집 추천해 주겠니	restraunt
+제주도 유명한 맛집 알려줘	restraunt
+제주도 맛집 추천 좀 해주겠니	restraunt
+서울 돈까스집 추천해줘	restraunt
+부산 케이크 알려주라	restraunt
+대구 순대 추천해줘	restraunt
+대전 치킨집 추천해줘	restraunt
+울산 치킨 알려주라	restraunt
+경주 덮밥 추천해줘	restraunt
+공주 볶음밥 알려줘	restraunt
+사천 김밥 맛집 추천해줘	restraunt
+광양 카페 추천해줘	restraunt
+노원구 샐러드 알려주라	restraunt
+충주 커피 맛집 알려줘	restraunt
+청주 아이스크림 추천해줘	restraunt
+진천 빵집 추천 좀 해줘	restraunt
+맛집 추천 좀 해줘	restraunt
+진천 맛집 추천 좀 해줘	restraunt
+진천 고깃집 추천 좀 해줘	restraunt
+강릉 빵 맛있는 곳 추천해줘	restraunt
+속초 마카롱 맛집 알려주라	restraunt
+양양 소시지 알려줘	restraunt
+마산 샤브샤브 추천해줘	restraunt
+세종 삼겹살 맛집 추천해줘	restraunt
+정읍 월남쌈 알려줘	restraunt
+남원 목살 추천해줘	restraunt
+순창 곱창 알려줘	restraunt
+여수 족발 맛집 알려주라	restraunt
+인천 파스타 알려줘	restraunt
+구리 폭립 추천해줘	restraunt
+부천 스테이크 알려줘	restraunt
+파주 규동 맛집 추천해줘	restraunt
+양주 가츠동 추천해줘	restraunt
+의정부 규카즈 알려줘	restraunt
+시흥 나베 맛집 알려주라	restraunt
+천안 꼬치 추천해줘	restraunt
+남양주 닭꼬치집 알려줘	restraunt
+동두천 양고치집 맛집 추천해줘	restraunt
+평택 닭꼬치 알려줘	restraunt
+포항 양고치 추천해줘	restraunt
+울진 치킨 알려주라	restraunt
+의왕 누룽지 맛집 알려줘	restraunt
+보령 피자집 추천해줘	restraunt
+고성 피자 추천해줘	restraunt
+진안 연어 알려줘	restraunt
+맛집 광어 맛집 추천해줘	restraunt
+서울 제육볶음 알려주라	restraunt
+양주 초밥집 추천해줘	restraunt
+진도 초밥 추천해줘	restraunt
+진해 육회 맛집 알려주라	restraunt
+안산 라면집 추천해줘	restraunt
+안양 국밥집 추천해줘	restraunt
+화성 냉면집 맛집 추천해줘	restraunt
+경주 우동집 알려주라	restraunt
+이천 닭갈비 추천해줘	restraunt
+여주 갈비 추천해줘	restraunt
+일산 돼지고기 맛집 알려주라	restraunt
+안성 돼지 갈비 추천해줘	restraunt
+울산 찜닭 추천해줘	restraunt
+아산 분식집 추천해줘	restraunt
+아산 김밥집 맛집 알려주라	restraunt
+아산 분식 추천해줘	restraunt
+경주 자장면 추천해줘	restraunt
+아산 짬뽕 알려주라	restraunt
+아산 탕수육 맛집 추천해줘	restraunt
+아산 팔보채 추천해줘	restraunt
+아산 깐풍기 추천해줘	restraunt
+아산 중국집 맛집 알려주라	restraunt
+아산 중국 음식 추천해줘	restraunt
+아산 만두 추천해줘	restraunt
+아산 국수 맛집 알려주라	restraunt
+경주 잔치국수 추천해줘	restraunt
+아산 비빔국수 추천해줘	restraunt
+아산 냉면 맛집 추천해줘	restraunt
+동두천 쫄면 추천해줘	restraunt
+아산 비빔냉면 알려주라	restraunt
+동두천 물냉면 맛집 추천해줘	restraunt
+아산 감자탕 추천해줘	restraunt
+송천동 수제버거 맛집 추천해줘	restraunt
+포항 수제 버거 추천해줘	restraunt
+아산 튀김 알려주라	restraunt
+포항 쌀국수 맛집 추천해줘	restraunt
+천안 죽집 추천해줘	restraunt
+아산 쌀국수 알려주세요	restraunt
+천안 아이스크림 추천해줘요	restraunt
+경주 음료수 맛집 추천해줘요	restraunt
+포항 음료수 추천해줘요	restraunt
+천안 음료수 알려주세요	restraunt
+당진 횟집 추천해줘요	restraunt
+상주 호두과자 추천해줘요	restraunt
+성주 맛집 알려주세요	restraunt
+대전 피자 맛집 어디있죠	restraunt
+광주 떡갈비집 어디 맛있어요	restraunt
+천안 왕갈비 어디 맛있죠	restraunt
+성남에서 어디 제일 맛있죠	restraunt
+대구에서 제일 맛있는 음식점 추천해주세요	restraunt
+송천동 맛집 알려줘요	restraunt
+홍대에서 제일 맛있는 음식점 어디죠	restraunt
+송파구 술집 알려주세요	restraunt
+학교 주변 떡볶이집 추천해줄래요	restraunt
+요즘에 제일 맛있는 음식점 어디에요	restraunt
+고기 어디 제일 맛있어요	restraunt
+여수에서 제일 고기 맛집 어디에요	restraunt
+익산 맛집 추천해주세요	restraunt
+익산 맛집 추천해 주세요	restraunt
+제주도 유명한 맛집 알려줘요	restraunt
+제주도 맛집 추천 좀 해주세요	restraunt
+주변 맛집 추천해줘	restraunt
+주변 음식점 추천해줘	restraunt
+주변 맛집 추천해주라	restraunt
+주변 음식점 추천해주라	restraunt
+주변 맛집 알려줘	restraunt
+주변 음식점 알려줘	restraunt
+주변 맛난 음식 알려주라	restraunt
+주변 충주 맛집 알려줘	restraunt
+주변 맛있는 음식 알려주라	restraunt
+주변 부산 맛집 알려줘	restraunt
+주변 김치 음식 알려줘	restraunt
+주변 라면 음식 알려줘	restraunt
+주변 고기 음식 말해	restraunt
+주변 이런 음식 알려줘	restraunt
+주변 먹을 음식 알려주라	restraunt
+주변 대전 피자 맛집 어디 있니	restraunt
+주변 맛집 어디 있지	restraunt
+주변 떡갈비집 어디 맛있어	restraunt
+주변 어디 맛있어	restraunt
+주변 어디 맛있니	restraunt
+군산주변 맛집 말해줘	restraunt
+거기주변 맛집 어디야	restraunt
+전주주변 맛집 어디 있어	restraunt
+서울주변 맛집 어디야	restraunt
+부산주변 맛집 어디 있냐	restraunt
+광명주변 맛집 말해줘	restraunt
+산천주변 맛집 말해줘	restraunt
+대전주변 맛있는 음식점 알려줘	restraunt
+마포구주변 맛집 어디야	restraunt
+구로구주변 음식점 추천 좀	restraunt
+주변에 맛있는 음식점 알려줘	restraunt
+마포구주변 맛집 말해줘	restraunt
+주변 음식점 추천 좀	restraunt
+주변 음식점 추천 좀 해줘	restraunt
+주변에 뭐 먹을까요	restraunt
+서울주변 맛집 추천해줘요	restraunt
+주변에 맛난 음식 추천해주세요	restraunt
+충주주변 맛집 추천해줘요	restraunt
+주변에 맛있는 음식 추천해주세요	restraunt
+부산주변 맛집 추천해줘요	restraunt
+주변에 김치 맛집 추천해줘요	restraunt
+주변에 라면 음식 추천해주세요	restraunt
+주변에 고기 음식 추천해줘요	restraunt
+주변에 이런 음식 추천해줘요	restraunt
+주변에 먹을 맛집 추천해주세요	restraunt
+서울주변 맛집 알려줘요	restraunt
+주변에 맛난 음식 알려주세요	restraunt
+주변에 충주 맛집 알려줘요	restraunt
+주변에 맛있는 음식 알려주세요	restraunt
+대전주변 피자 맛집 어디 있죠	restraunt
+주변에맛집 어디 있지요	restraunt
+전주주변 맛집 어디에요	restraunt
+서울주변 맛집 말해줘	restraunt
+부산주변 맛집 어디에요	restraunt
+광명주변 맛집 어디에요	restraunt
+산천주변 맛집 어디지	restraunt
+전주주변 비빔밥 추천해줄래	restraunt
+서울주변 라멘집 추천해줘	restraunt
+대전주변 피자 맛집 어디있니	restraunt
+광주주변 떡갈비집 어디 맛있어	restraunt
+수원주변 왕갈비 어디 맛있니	restraunt
+성남에서 주변어디 제일 맛있니	restraunt
+대구에서 주변에 제일 맛있는 음식점 추천해주라	restraunt
+송천동 주변에 맛집 알려줘	restraunt
+홍대 주변에 제일 맛있는 음식점 어디니	restraunt
+송파구 주변에 술집 알려주라	restraunt
+주변에 고기 어디 제일 맛있어	restraunt
+가까운 공항 알려줘	navigation
+가까운 지하철역 알려줘	navigation
+가까운 화장실 알려줘	navigation
+가는 길 알려줘	navigation
+강변북로 가는 길 알려줘	navigation
+개포동 가려면 어떻게 해요	navigation
+거기까지 가는 길 알려줘	navigation
+거기까지 어떻게 가	navigation
+걸어가는 길 알려줘	navigation
+고려대 안내해주세요	navigation
+공항 가는 방법 알려주세요	navigation
+공항 가는 법 알려줘	navigation
+공항가는 길 알려줘	navigation
+공항까지 어떻게 가나요	navigation
+구로구로 안내해줘	navigation
+대구 가는 길 알려줘	navigation
+대전 가는 길 알려줘	navigation
+대전까지 어떻게 가	navigation
+대치동 가려면 어떻게 하나요	navigation
+두물머리 가는 길 알려줘	navigation
+롯데백화점 안내해줘	navigation
+목동역 가는 길 알려주세요	navigation
+목동역 안내해줘	navigation
+목동은 어느 쪽으로 가야하나요	navigation
+버스역 가려면 어떻게 해야해	navigation
+부산 가는 길 알아	navigation
+부산 어떻게 가	navigation
+북촌 가는 길 알려줘	navigation
+서울대병원 안내해줘	navigation
+서울대병원은 어느 쪽으로 가야해	navigation
+서울역 가려면 어떻게 해	navigation
+서울역 안내해줘	navigation
+서울역 어떻게 하야하나요	navigation
+성동구 가려면 어떻게 해야하나요	navigation
+성북구 가려면 어떻게 해야해	navigation
+속초 가는 길 알려줘	navigation
+속초 가는 길 알아	navigation
+속초로 안내해줘	navigation
+숭례문 안내해줘	navigation
+신도림 가는 길 알려줘	navigation
+신도림 가는 길 알아	navigation
+신도림 가는 방법 알려줘	navigation
+신도림 가려면 어떻게 해	navigation
+신도림은 어느 쪽으로 가야해	navigation
+암사동 가는 길 알려줘	navigation
+암사동은 어느 쪽으로 가야해	navigation
+여의도 가는 길 알려줘	navigation
+여의도 가려면 어떻게 해야해요	navigation
+여의도 어떻게 가	navigation
+연세대 어떻게 가	navigation
+영등포역 가는 길 알려줘	navigation
+올림픽대로 안내해주세요	navigation
+올림픽대로로 안내해줘	navigation
+우리집 가는 길 안내해줘	navigation
+우리집 가는 길 알려주세요	navigation
+우리집 안내해줘	navigation
+인사동 가는 길 알려줘	navigation
+인사동 어떻게 가나요	navigation
+인천공항 어떻게 가	navigation
+자전거 길 알려줘	navigation
+제주도 어떻게 가	navigation
+중림동 가는 방법 아나요	navigation
+지하철역 가려면 어떻게 해야해	navigation
+집 안내해줘	navigation
+집까지 가는 길 알려줘	navigation
+집에 가려면 어떻게 해야해	navigation
+집으로 안내	navigation
+천호동 안내해줘	navigation
+청계산 가는 방법 알려줘	navigation
+청주 가려면 어떻게 해	navigation
+충정로역 가는 길 알아	navigation
+판교 가는 길 안내해줘	navigation
+판교 가는 방법 알려줘	navigation
+판교 가는 방법 알아	navigation
+판교까지 어떻게 가나요	navigation
+포항 가는 길 알려주세요	navigation
+한양대 가는 길 알려줘	navigation
+한양대 안내해주세요	navigation
+합정 어떻게 가야 하나요	navigation
+기차역 가는 길 알려줘	navigation
+홍대입구역까지 어떻게 가	navigation
+판교역까지 어떻게 가	navigation
+연세대까지 어떻게 가	navigation
+암사동까지 어떻게 가	navigation
+서울대병원까지 어떻게 가요	navigation
+포항까지 어떻게 가요	navigation
+대구역으로 가는 길 알려줘	navigation
+청주역으로 가는 길 알려줘	navigation
+청주공항 가는 길 알려주세요	navigation
+신도림까지 안내해줘	navigation
+천호초등학교 안내해줘	navigation
+선유고등학교 가는 길 알려줘	navigation
+집으로 안내해줘	navigation
+북한산 가는 길 알려줘	navigation
+아산역으로 안내해줘	navigation
+서울에서 부산까진 어떻게 가지	navigation
+명동까지 가는 길 알려줘	navigation
+제일 빠른 경로가 뭐지	navigation
+어디로 가야 빠른 길일까	navigation
+추천 경로 알려줘	navigation
+연세대학교까지 자전거 가는 길 알려줘	navigation
+어떻게 가면 목적지까지 빨리 가나	navigation
+여의도에서 강남까지 어떻게 가	navigation
+이륜차로 갈 수 있는 길만 알려줘	navigation
+종로 경유하는 길 알려줘	navigation
+우리집까지 최적 경로 추천해줘	navigation
+연세대학교에서 신촌역 걸어가는 길 알려주세요	navigation
+동대문에서 김포공항 지하철 경로 알려줘	navigation
+남대문에서 여의도 경유하고 양재 가는 길 알려주세요	navigation
+공덕에서 자전거로 분당가는 경로 추천해주세요	navigation
+건대입구에서 오토바이로 당산 가는 길 알려줘	navigation
+서울역에서 강남까지 버스로 가는 경로 추천해줘	navigation
+자동차 전용 도로만 알려줘	navigation
+목동에서 청량리까지 지하철로 가는 길 말해줘	navigation
+올림픽대로 타지 않고 강남에서 김포공항 가는 길 알려주세요	navigation
+마포대교 안건너고 여의도에서 서울역 가는 경로 추천해줘	navigation
+서울에서 부산까지 국도로만 가는 길 좀 알려줘	navigation
+요금 안내는 길로 분당까지 경로 알려줘	navigation
+막히지 않는 길로만 안내해줘	navigation
+여기서 강남까지 영등포 우회하는 길로 안내해주세요	navigation
+명동에서 차 막히지 않는 길로 선릉까지 안내해줘	navigation
+가장 빠른 길이 뭐야	navigation
+최적 경로로 안내해줘	navigation
+안전 주행 모드로 가장 빠른 길 안내해줘	navigation
+홍대입구에서 지하철로 서울역 가는 방법 알려줘	navigation
+동대문에서 서대문까지 최적 경로 안내해주세요	navigation
+자전거 전용 도로만 안내해주세요	navigation
+도보로 여기서 신촌역까지 안내해줘	navigation
+여기서 대학로까지 택시로 어떻게 가는지 알려줘	navigation
+청량리까지 택시 요금 가장 낮은 경로 알려줘	navigation
+도곡역에서 환승 없이 독립문 가는 지하철 경로 알려줘	navigation
+동부간선도로 우회하는 길 안내해줘	navigation
+서부간선도로 통과하는 경로로 알려줘	navigation
+신도림에서 환승하는 지하철로 강남까지 안내해주세요	navigation
+남산 가는 방법 알려줘	navigation
+버스랑 지하철 둘 다 이용해서 연세대학교 가는 방법 알려줘	navigation
+여의도에서 환승하는 경로 안내해줘	navigation
+서울에서 부산까지 휴게소 한 번 쉬고 가는 경로 안내해	navigation
+가장 차 없는 길로만 알려줘	navigation
+4차선 이상 도로로만 안내해줘	navigation
+버스전용차로 없는 경로로 안내해	navigation
+강릉까지 가장 비용 적게 드는 길 알려줘	navigation
+우리집으로 안내해주세요	navigation
+무료도로로만 안내해줘	navigation
+유로도로 포함 가장 빠른 길로 안내해주세요	navigation
+회사까지 안막히는 길로 안내해	navigation
+DMC에서 환승하면서 일산 가는 경로 추천해줘	navigation
+종암동에서 이대까지 대중교통 추천해줘	navigation
+남양주에서 서울로 가는 편안한 길 추천	navigation
+연세대학교 새천년관까지 신촌역부터 걸어서 가는 경로 안내	navigation
+사당에서 충정로까지 최적 경로로 안내해줘	navigation
+광화문 안거치고 종로3가로 가는 길 알려줘	navigation
+지하철이랑 버스 중에서 우리집까지 더 빠르게 가는 것 추천해줘	navigation
+환승없이 광화문까지 경로 알려줘	navigation
+신호 최소로 받는 경로 추천해줘	navigation
+오토바이가 갈 수 있는 도로만 알려줘	navigation
+경로안내	navigation
+최적의 경로로 안내 부탁해	navigation
+교통사고 없는 길로만 안내해주세요	navigation
+우회도로 추천 부탁해	navigation
+대구까지 비행기랑 기차 중 더 빠른걸로 알려줘	navigation
+부산에서 서울까지 가장 편안한 길 추천해주세요	navigation
+자전거 전용 도로로만 안내해줘	navigation
+강서에서 강동까지 올림픽대로랑 강변북로 중 빠른 것 알려줘	navigation
+안막히는 경부고속도로 진입로 알려줘	navigation
+김포공항에서 수서역까지 지하철 경로 안내해줘	navigation
+운전하기 좋은 길로 안내 부탁할게	navigation
+회전 교차로는 피해서 안내해줘	navigation
+우리집에서 서울역까지 갔다가 되돌아오는 경로 알려줘	navigation
+전기차 충전소 지나는 길 안내해	navigation
+주유소 거쳐서 수원역까지 가는 경로 알려주세요	navigation
+최적 경로 추천	navigation
+최단 경로 추천	navigation
+편한길 우선 경로 추천	navigation
+자전거 경로 추천	navigation
+최적의 경로로만 알려주세요	navigation
+최적 경로만 알려주라	navigation
+빠른 길로 알려주라	navigation
+지선버스로 광화문에서 명동 가는 방법 추천	navigation
+1시간 뒤에 출발하는 최적 경로 안내	navigation
+최단 경로 안내	navigation
+2시간 뒤에 출발하는 최단 경로 안내해줘	navigation
+3시간 뒤에 출발하는 최적 경로 추천해주세요	navigation
+안전 운행 모드로 최단 경로 추천	navigation
+주행 거리 짧은 길로 안내해줘	navigation
+지하도 없는 경로로 안내해줘	navigation
+인천에서 서울까지 대중교통 추천	navigation
+휴게소 경유하는 고속도로 경로 추천	navigation
+고속도로 이용하지 않는 대전까지 경로 알려줘	navigation
+지하철로만 우리집까지 가는 길 알려주라	navigation
+가장 짧은 이동 거리로만 안내해	navigation
+도보로 한강까지 가는 짧은 길 알려주세요	navigation
+무료도로로 대전까지 안내해주라	navigation
+추천 경로 중에서 빠른 경로 알려줘	navigation
+제일 빠른 경로로 알려줘	navigation
+멜론 1위 추천곡 알려줘	music
+지니뮤직 1위 곡 알려줘	music
+사람들이 많이 듣는 음악 틀어줘	music
+유명한 음악 틀어줘	music
+좋은 음악 뭔지 알려줘	music
+자주 듣는 음악 틀어줘	music
+여자아이들 음악 틀어줘	music
+벤 음악 틀어줘	music
+제니 음악 틀어줘	music
+하은 음악 틀어줘	music
+엠씨더맥스 음악 틀어줘	music
+송민호 음악 틀어줘	music
+위너 음악 틀어줘	music
+폴킴 음악 틀어줘	music
+트와이스 음악 틀어줘	music
+청하 음악 틀어줘	music
+헤이즈 음악 틀어줘	music
+케이윌 음악 틀어줘	music
+엑소 음악 틀어줘	music
+바이브 음악 틀어줘	music
+아이유 음악 틀어줘	music
+양다일 음악 틀어줘	music
+아리아나그란데 음악 틀어줘	music
+허각 음악 틀어줘	music
+숀 음악 틀어줘	music
+비투비 음악 틀어줘	music
+임창정 음악 틀어줘	music
+임한별 음악 틀어줘	music
+루피 음악 틀어줘	music
+방탄소년단 음악 틀어줘	music
+씨아 음악 틀어줘	music
+워너원 음악 틀어줘	music
+닐로 음악 틀어줘	music
+블랙핑크 음악 틀어줘	music
+아이즈원 음악 틀어줘	music
+김동률 음악 틀어줘	music
+마마무 음악 틀어줘	music
+장덕철 음악 틀어줘	music
+선미 음악 틀어줘	music
+저스디스 음악 틀어줘	music
+로이킴 음악 틀어줘	music
+윤건 음악 틀어줘	music
+노을 음악 틀어줘	music
+펀치 음악 틀어줘	music
+로꼬 음악 틀어줘	music
+먼데이 키즈 음악 틀어줘	music
+레드벨벳 음악 틀어줘	music
+자이언티 음악 틀어줘	music
+다비치 음악 틀어줘	music
+Queen 음악 틀어줘	music
+기리보이 음악 틀어줘	music
+오반 음악 틀어줘	music
+에일리 음악 틀어줘	music
+수퍼비 음악 틀어줘	music
+아이콘 음악 틀어줘	music
+볼빨간사춘기 음악 틀어줘	music
+엑시드 음악 틀어줘	music
+멜로망스 음악 틀어줘	music
+김범수 음악 틀어줘	music
+웬디 음악 틀어줘	music
+정승환 음악 틀어줘	music
+180도 라는 곡 틀어줘	music
+SOLO 라는 곡 틀어줘	music
+신용재 라는 곡 알려줘	music
+넘쳐흘러 라는 곡 틀어줘	music
+아낙네 라는 곡 틀어줘	music
+밀리언즈 라는 곡 틀어줘	music
+너를 만나 라는 곡 틀어줘	music
+예스오어예스 라는 곡 틀어줘	music
+내 생에 아름다운 라는 곡 틀어줘	music
+모든 날 모든 순간 라는 곡 틀어줘	music
+러브샷 라는 곡 틀어줘	music
+가을 타나 봐 라는 곡 틀어줘	music
+삐삐 라는 곡 틀어줘	music
+고백 라는 곡 틀어줘	music
+땡큐 넥스트 라는 곡 틀어줘	music
+흔한 이별 라는 곡 틀어줘	music
+웨이백홈 라는 곡 틀어줘	music
+아름답고도 아프구나 라는 곡 틀어줘	music
+열애중 라는 곡 틀어줘	music
+하루도 그대를 사랑하지 않은 적이 없었다 라는 곡 틀어줘	music
+템포 라는 곡 틀어줘	music
+습관 라는 곡 틀어줘	music
+이별하러 가는 길 라는 곡 틀어줘	music
+Good Day 라는 곡 틀어줘	music
+IDOL 라는 곡 틀어줘	music
+Snowman 라는 곡 틀어줘	music
+봄바람 라는 곡 틀어줘	music
+지나오다 라는 곡 틀어줘	music
+뚜두뚜두 라는 곡 틀어줘	music
+라비앙로즈 라는 곡 틀어줘	music
+동화 라는 곡 틀어줘	music
+윈드플라워라는 곡 틀어줘	music
+알았다면 라는 곡 틀어줘	music
+사이렌이라는 곡 틀어줘	music
+인디고라는 곡 틀어줘	music
+우리 그만하자 라는 곡 틀어줘	music
+댄스더나잇어웨이 라는 곡 틀어줘	music
+너도 그냥 날 놓아주면 돼 라는 곡 틀어줘	music
+너는 어땠을까 라는 곡 틀어줘	music
+밤편지 라는 곡 틀어줘	music
+헤어지는 중 라는 곡 틀어줘	music
+시간이 들겠지 라는 곡 틀어줘	music
+미안해 라는 곡 틀어줘	music
+비 라는 곡 틀어줘	music
+산타텔미 라는 곡 틀어줘	music
+가을 안부 라는 곡 틀어줘	music
+멋지게 인사하는 법 라는 곡 틀어줘	music
+꿈처럼 내린 라는 곡 틀어줘	music
+FAKE LOVE 라는 곡 틀어줘	music
+보헤미안 랩소디 라는 곡 틀어줘	music
+그때 헤어지면 돼 라는 곡 틀어줘	music
+사계 라는 곡 틀어줘	music
+행복 라는 곡 틀어줘	music
+봄날 라는 곡 틀어줘	music
+첫눈처럼 너에게 가겠다 라는 곡 틀어줘	music
+너 없인 안 된다 라는 곡 틀어줘	music
+사랑 알 수 없나봐 라는 곡 틀어줘	music
+이별길이라는 곡 틀어줘	music
+그리워하다 라는 곡 틀어줘	music
+여행 라는 곡 틀어줘	music
+알러뷰 라는 곡 틀어줘	music
+선물 라는 곡 틀어줘	music
+DNA 라는 곡 틀어줘	music
+사랑을 했다 라는 곡 틀어줘	music
+그날처럼 라는 곡 틀어줘	music
+첫눈처럼 너에게 가겠다라는 곡 틀어줘	music
+에너제틱 라는 곡 틀어줘	music
+트라우마 라는 곡 틀어줘	music
+뉴이스트 음악 틀워줘	music
+방탄소년단 음악 알려줘	music
+요새 유행하는 노래 알려줘	music
+최근 인기곡 알려줘	music
+요새 잘나가는 노래 뭐야	music
+인기 많은 노래 뭐지	music
+사람들이 많이 듣는 곡 틀어줘	music
+요즘 사람들이 좋아하는 노래 뭐야	music
+방탄소년단 최근 신곡 틀어줘	music
+블랙핑크 제일 인기 많은 곡 알려줘	music
+트와이스 새로 나온 노래 뭐야	music
+엔시티 신곡 뭐지	music
+최신 가요 틀어줘	music
+요새 유명한 트로트 노래 알려줘	music
+요새 가장 인기 많은 힙합곡 뭐야	music
+비오는 날 어울리는 노래 틀어줘	music
+새벽 감성에 맞는 음악 알려줘	music
+제일 많이 듣는 팝송 뭐야	music
+잔잔한 노래 추천해줘	music
+운동할 때 듣기 좋은 음악 틀어줘	music
+자기 전에 듣기 좋은 노래 알려줘	music
+신나는 팝송 추천해줘	music
+소녀시대 데뷔곡 알려줘	music
+최신 OST 알려줘	music
+새로 나온 발라드곡 틀어줘	music
+요새 1위 곡 뭐야	music
+요즘 유행하는 노래 뭐야	music
+신나는 노래 틀어줘	music
+운전할 때 들을만한 노래 추천해줘	music
+요새 유행하는 걸그룹 노래 추천해줘	music
+요즘 인기많은 아이돌 노래 뭐야	music
+좋은 발라드곡 추천해줘	music
+재즈 명곡 틀어줘	music
+올드팝송 랜덤으로 틀어줘	music
+요새 유명한 노래 뭐야	music
+오늘 날씨에 어울리는 노래 추천해줘	music
+가을 감성에 맞는 노래 뭐 있을까	music
+산책할 때 들을만한 노래 틀어줘	music
+따뜻한 음색의 노래 추천해줘	music
+피아노 반주가 들어간 노래 틀어줘	music
+최신 음악 랜덤으로 재생해줘	music
+내가 즐겨 듣던 노래들 듣고 싶어	music
+여성 팝가수 노래 들을래	music
+지금 상황에 추천해줄만한 노래 없어	music
+요새 제일 인기있는 노래 들을래	music
+슬플 때 들을만한 노래 있어	music
+신나는 댄스곡 추천해줘	music
+겨울에 들으면 좋을 만한 노래 없을까	music
+봄에 어울리는 클래식 틀어줘	music
+요즘 히트 친 노래들 추천해줘	music
+산뜻한 가요 뭐 있을까	music
+지금 차트 1위 곡 들려줘	music
+잔잔한 노래 뭐 없을까	music
+오늘 들을만한 노래 추천해줘 요새 유행하는 노래 알려줘	music
+오늘 들을만한 노래 추천해줘	music
+최신 유행곡 틀어줘	music
+라라랜드에 나온 노래 뭐야	music
+인터스텔라 OST 들려줘	music
+엑소 데뷔곡 뭐야	music
+샤이니 노래 중에 좋은 곡 추천해줘	music
+오랜만에 캐롤 듣고 싶어	music
+분위기 좋은 노래 뭐 있을까	music
+최신 유행 노래 들을래	music
+추억의 아이돌 노래 들을만한 거 추천해줘	music
+작년에 가장 유행했던 노래 뭐야	music
+20대가 제일 많이 듣는 노래 틀어줘	music
+SM 가수들 노래 랜덤으로 들려줘	music
+선미의 보라빛밤 틀어줘	music
+레드벨벳 러시안룰렛 들려줘	music
+요새 유행하는 노래 뭐야	music
+인어공주 OST 틀어줘	music
+알라딘 주제가 들려줘	music
+요새 제일 잘 나가는 노래 뭐 있어	music
+겨울에 듣기 좋은 노래 추천	music
+가사가 좋은 곡 틀어줘	music
+NCT의 make a wish 들을래	music
+요즘 잘 나가는 노래 뭐 있을까	music
+새벽 감성에 어울리는 노래 듣고 싶어	music
+청하 노래 중에 좋은 곡 추천해줘	music
+멜로디가 좋은 곡 틀어줘	music
+감각적인 비트의 노래	music
+요즘 1위 곡 추천해줘	music
+여성 힙합 가수 노래 틀어줘	music
+유럽 쪽 음악 틀어줘	music
+영화 노래 좋은 곡 추천해줘	music
+요새는 어떤 음악이 제일 유행해	music
+요새 무슨 노래가 가장 인기 많아	music
+최신 가요 추천해줘	music
+힙합 음악 들을래	music
+중국어로 된 가사 음악 추천 좀	music
+90년대에 유행했던 음악 뭐 있어	music
+7080 노래 틀어줘	music
+유명한 뮤지컬 넘버 추천해줘	music
+최신 댄스곡 들을래	music
+한국에서 인기있는 노래 100개 추천	music
+비틀즈 명곡	music
+레이디가가 최신 앨범 재생	music
+저스틴 비버 제일 유명한 노래가 뭐야	music
+내가 좋아할 만한 음악 재생해줘	music
+기타 반주 노래 틀어줘	music
+슬픈 가사 노래	music
+뭐 들을만한 노래 없을까	music
+청소할 때 들으면 좋은 노래 틀어줘	music
+웅장한 영화 음악 재생	music
+인기 드라마 삽입곡 들을래	music
+유명한 리메이크곡 뭐 있을까	music
+오아시스 대표곡 틀어줘	music
+퀸 음악 듣고싶어	music
+요새 뜨는 노래 틀어줘	music
+블랙핑크 신곡	music
+요새 뜨는 노래 뭐야	music
+방탄 인기곡	music
+가사가 서정적인 노래 추천 좀	music
+위로가 되는 노래 추천해줘	music
+홍콩 영화 유명한 노래 추천 좀 해줘	music
+어제 티비에 나온 노래 뭐야	music
+랩 노래 추천	music
+여자 아이돌 노래 들려줘	music
+스마트폰 광고에 나온 노래 뭐야	music
+봄에 어울릴만한 노래 추천	music
+트로트 노래 추천	music
+우리 할머니가 좋아할만한 노래 들려줘	music
+슈퍼주니어 노래 좋은 거 뭐 있을까	music
+제목이 신기한 노래 추천해줘	music
+바닷가에 어울리는 노래	music
+하이틴 영화에 나올만한 곡	music
+여행갈 때 듣기 좋은 노래 추천해줘	music
+댄스곡 들려줘	music
+최신 발매 앨범 추천	music
+은은한 분위기 노래 추천	music
+투피엠 제일 인기있던 노래가 뭐야	music
+라틴 풍 좋은 노래 뭐 있을까	music
+길거리에서 많이 나오는 노래 요새 뭐 있어	music
+베이스가 돋보이는 노래	music
+알앤비 곡 추천해줘	music
+테크노 노래 들려줘	music
+제이팝 곡 추천	music
+남자 아이돌 최신 곡	music
+멜로디가 달달한 노래 틀어줘	music
+상큼한 노래 추천해줘	music
+작년에 인기있던 노래 들을래	music
+이번에 보아 새 앨범 재생해줘	music
+응원할 때 좋은 노래	music
+가사가 재밌는 노래 틀어줘	music
+뮤직비디오가 멋진 노래 듣고 싶어	music
+비발디의 사계	music
+오마이걸 1집 타이틀곡	music
+악동뮤지션 2집 수록곡 유명한 거 틀어줘	music
+송가인 노래 중에 제일 유명한 거 뭐야	music
+너바나 제일 유명한 노래 뭐야	music
+성악곡 중에 인기있는 노래 틀어줘	music
+청량한 노래 추천해줘	music
+발라드 노래 들려주라	music
+아이돌 음악 찾아서 들려줘	music
+엔시티 드림 노래 추천 좀	music
+이 노래 뭐야	music
+노래 추천해줘	music
+요즘 핫한 노래 어떤거야	music
+지금 나오는 노래 뭐야	music
+이 곡 제목이 뭐야	music
+작곡가 이름이 뭐지	music
+지금 곡 알려줘	music
+음악 어떤게 좋을까	music
+낭만적인 음악 추천해줘요	music
+신나는 음악 추천해줘	music
+로맨틱한 음악 추천해줘	music
+신나는 곡 추천해줘	music
+요즘 핫한 노래 찾아줘	music
+잔잔한 음악 추천해줘	music
+요즘 뜨는 가수 누구야	music
+그 가수 곡 찾아줘	music
+이 곡 가수가 누구야	music
+좋은 가수 추천해줘	music
+노래 틀어줘	music
+로맨틱한 곡 틀어줘	music
+어떤 곡이 잘 나가니	music
+잘나가는 음악 틀어줘	music
+공부하기 좋은 음악 추천해줘	music
+일하기 좋은 음악 틀어줘	music
+공부하기 좋은 음악 틀어줘	music
+일하기 좋은 음악 추천해줘	music
+비오는 날 듣기 좋은 음악 틀어줘	music
+조용한 음악 틀어줘	music
+이 노래 작곡가가 누구야	music
+이 노래 제목이 뭐야	music
+좋은 음악 틀어줘	music
+어떤 음악이 핫하니	music
+옛날 노래 틀어줘	music
+피아노 곡 추천해줘	music
+클래식 음악 틀어줘	music
+클래식 음악 추천해줘	music
+어떤 노래 들을까	music
+어떤 곡 들을까	music
+좋은 음악 추천해주세요	music
+음악 재생	music
+음악 틀어줘	music
+노동요 추천해줘	music
+노동요 틀어줘	music
+노동요 어떤게 좋아	music
+일할 때 좋은 곡 추천해주세요	music
+바이올린 곡 추천해줘	music
+피아노 음악 추천해주세요	music
+재즈 음악 틀어줘	music
+재즈 곡 추천해줘	music
+음악 꺼줘	music
+음악 켜줘	music
+요즘 인기있는 노래 틀어줘	music
+요즘 인기있는 곡 틀어줘	music
+요즘 인기있는 음악이 뭐야	music
+좋아하는 노래가 뭐야	music
+좋아하는 음악 있어	music
+좋아하는 곡 틀어줘	music
+노래 꺼줘	music
+노래 켜줘	music
+음악 소리 줄여줘	music
+음악 소리 키워줘	music
+노래 소리 키워줘	music
+노래 소리 줄여줘	music
+이 곡 작곡가가 누구야	music
+좋은 노래 추천해주세요	music
+음악 추천해줘	music
+곡 추천해줘	music
+드라이브 할 때 좋은 음악 틀어줘	music
+가을에 듣기 좋은 음악 추천해주세요	music
+가을에 듣기 좋은 노래 추천해줘	music
+최신 곡 추천해줘	music
+최신 음악 추천해줘	music
+최신 팝송 추천해줘	music
+팝송 추천해줘	music
+팝송 잘 부르는 법 알려줘	music
+요즘 팝송 틀어줘	music
+노래 잘 부르는 법 알려줘	music
+부르기 좋은 노래 알려줘	music
+노래방에서 부르기 좋은 곡 추천해주세요	music
+카페 음악 추천해줘	music
+잘 때 듣기 좋은 노래 추천해줘	music
+잠 잘 오는 곡 추천해줘	music
+잠 잘 오는 노래 틀어줘	music
+남자 노래 추천해줘	music
+발라드 음악 추천해줘	music
+발라드 추천해줘	music
+발라드 틀어줘	music
+발라드 곡 추천해주세요	music
+이 노래 찾아줘	music
+재즈 추천해줘	music
+잠잘 때 듣기 좋은 음악 틀어줘	music
+신나는 재즈 추천해줘	music
+조용한 재즈 틀어줘	music
+조용한 팝송 틀어줘	music
+굿데이 최신곡 듣고싶어 	music
+김태욱 음악으로 불러봐 	music
+하루종일 듣고 싶은 노래 틀어줘 	music
+MAP6 가요 틀어볼래 	music
+강타 음악 불러주세요 	music
+신화 옛날 노래 불러봐 	music
+빅플로 가요 틀어볼래 	music
+타루 옛날 노래 틀어볼래 	music
+CIX 노래 찾아봐 	music
+로티플스카이 최신곡 듣고싶어 	music
+현진영 음악 있을까 	music
+김형섭 노래 틀어주세요 	music
+매장에서 듣기 좋은 최신 노래 찾아봐 	music
+세븐틴 옛날 노래 있을까 	music
+강균성 최신곡 들을래 	music
+주희 가요 틀어봐 	music
+적우 옛날 노래 있을까 	music
+김설 옛날 노래 틀어볼래 	music
+메이다니 부른 노래 틀어봐 	music
+Hitchhiker 가장 최근 음악으로 틀어봐 	music
+남영주 가요 찾아주세요 	music
+김광진 가요 큐 	music
+김소희 최신곡 틀어줘 	music
+달빛요정역전만루홈런 음악으로 있을까 	music
+김수찬 가장 최근 음악으로 큐 	music
+심수봉 최신곡 들려주세요 	music
+이상은 음악 틀어볼래 	music
+KATIE 노래로 틀어봐 	music
+이정 가장 최근 음악으로 부탁해 	music
+황보 최신 노래 들려주세요 	music
+한혜진 음악으로 들려주세요 	music
+방실이 옛날 노래 틀어 	music
+씨스타 가요 틀어봐 	music
+NCT 가요 찾아볼래 	music
+박서진 음악으로 있을까 	music
+DAY6 부른 노래 찾아주세요 	music
+제시카 부른 노래 찾아봐 	music
+유튜브에서 가장 많은 조회수의 최신 노래 있을까 	music
+멜로망스 가장 최근 음악으로 들려줘 	music
+세븐틴 노래 부탁해 	music
+애즈원 옛날 노래 찾아볼래 	music
+문명진 옛날 노래 찾아주세요 	music
+제스트 가장 최근 음악으로 틀어주세요 	music
+미스터미스터 부른 노래 들려줘 	music
+김종서 노래 큐 	music
+장문복 음악으로 불러봐 	music
+금사향 옛날 노래 틀어 	music
+이정은 최신곡 찾아줘 	music
+에이젝스 가장 최근 음악으로 틀어볼래 	music
+길은정 가장 최근 음악으로 찾아볼래 	music
+한영주 최신곡 틀어봐 	music
+ZE:A 가장 최근 음악으로 틀어 	music
+김용임 옛날 노래 틀어줘 	music
+이해리 최신곡 틀어봐 	music
+아이즈 옛날 노래 틀어주세요 	music
+소나무 노래로 찾아줘 	music
+박재홍 옛날 노래 틀어봐 	music
+양지원 가장 최근 음악으로 부탁해요 	music
+이윤정 가요 틀어 	music
+LC9 가장 최근 음악으로 있을까 	music
+이수만 가요 들려주세요 	music
+현준 최신 노래 찾아줘 	music
+최희준 가장 최근 음악으로 틀어줘 	music
+다비치 최신 노래 틀어봐 	music
+설운도 음악 틀어주세요 	music
+SURAN 가요 들려주세요 	music
+남훈 음악 찾아봐 	music
+써드아이 옛날 노래 듣고싶어 	music
+김현철 가요 찾아주세요 	music
+NTX 최신 노래 불러주세요 	music
+버즈 가요 들려주세요 	music
+남궁옥분 음악으로 큐 	music
+이나 부른 노래 불러주세요 	music
+하림 가요 틀어 	music
+D.COY 가장 최근 음악으로 있을까 	music
+우연이 음악 부탁해 	music
+이선희 음악 듣고싶어 	music
+바이칼 최신곡 불러주세요 	music
+다비치 음악으로 불러주세요 	music
+스펙트럼 최신곡 틀어볼래 	music
+박미경 최신곡 불러주세요 	music
+이은미 옛날 노래 큐 	music
+안녕하신가영 음악으로 찾아줘 	music
+화요비 가요 틀어봐 	music
+송소희 음악으로 찾아줘 	music
+S.I.S 음악 들려주세요 	music
+나미 가장 최근 음악으로 틀어 	music
+에이블 음악 틀어줘 	music
+김환성 최신 노래 틀어줘 	music
+운동할 때 신나는 최신곡 찾아봐 	music
+황인선 가요 찾아봐 	music
+신고은 가장 최근 음악으로 들려주세요 	music
+박정민 가요 틀어주세요 	music
+멜로디데이 가요 부탁해 	music
+황금심 옛날 노래 큐 	music
+길학미 음악으로 틀어볼래 	music
+임창정 옛날 노래 찾아볼래 	music
+조태준 가요 부탁해 	music
+옥상달빛 음악으로 찾아주세요 	music
+채연 부른 노래 틀어봐 	music
+빅플로 음악 불러주세요 	music
+유선호 가요 큐 	music
+백설희 음악으로 듣고싶어 	music
+김소희 음악으로 틀어봐 	music
+이상우 최신곡 찾아줘 	music
+D-CRUNCH 최신곡 불러주세요 	music
+골든차일드 음악 찾아볼래 	music
+BUMZU 노래 듣고싶어 	music
+조현민 가요 틀어볼래 	music
+문지은 가장 최근 음악으로 틀어주세요 	music
+장문복 부른 노래 부탁해요 	music
+벅 부른 노래 들을래 	music
+SE7EN 가요 찾아주세요 	music
+전영록 부른 노래 부탁해요 	music
+이성우 최신 노래 틀어주세요 	music
+임정희 가요 있을까 	music
+위너 최신곡 부탁해 	music
+신해철 옛날 노래 찾아줘 	music
+S.M.THEBALLAD 옛날 노래 들을래 	music
+양수경 부른 노래 불러주세요 	music
+안치환 노래로 들을래 	music
+하진 가요 들을래 	music
+장은숙 가장 최근 음악으로 있을까 	music
+최선원 최신 노래 부탁해 	music
+서지영 음악으로 찾아볼래 	music
+김광석 부른 노래 틀어 	music
+김경록 옛날 노래 찾아주세요 	music
+노을 부른 노래 찾아주세요 	music
+더보이즈 음악으로 부탁해 	music
+채연 가장 최근 음악으로 틀어 	music
+LC9 최신 노래 듣고싶어 	music
+골든차일드 최신 노래 틀어볼래 	music
+한명숙 부른 노래 틀어줘 	music
+와썹 최신 노래 들려줘 	music
+정준일 부른 노래 틀어줘 	music
+지친 마음을 달래주는 노래 찾아봐 	music
+신지 최신 노래 틀어 	music
+전소미 최신곡 찾아볼래 	music
+온앤오프 부른 노래 부탁해요 	music
+윤상 최신 노래 들을래 	music
+네이버 뮤직에서,지니에서 노래 부탁해요 	music
+설운도 최신 노래 찾아줘 	music
+오마이걸반하나 부른 노래 틀어볼래 	music
+위너 음악 불러주세요 	music
+손진영 음악으로 틀어봐 	music
+김정구 가요 불러주세요 	music
+임병수 옛날 노래 들려주세요 	music
+송가인 노래 찾아봐 	music
+LC9 노래로 들을래 	music
+이금희 최신곡 있을까 	music
+조하문 음악으로 틀어줘 	music
+김완선 가장 최근 음악으로 부탁해 	music
+바이칼 최신 노래 부탁해 	music
+이정은 최신곡 큐 	music
+임재범 부른 노래 틀어봐 	music
+사문영 최신곡 부탁해 	music
+6to8 가장 최근 음악으로 들을래 	music
+손진영 가요 불러주세요 	music
+러블리즈 부른 노래 틀어줘 	music
+신성우 부른 노래 틀어봐 	music
+남훈 음악으로 틀어볼래 	music
+김민기 노래 찾아주세요 	music
+고복수 가요 틀어주세요 	music
+임팩트 부른 노래 찾아볼래 	music
+6to8 부른 노래 찾아줘 	music
+김원중 가장 최근 음악으로 듣고싶어 	music
+제이세라 음악으로 찾아주세요 	music
+유뷰브에서 인기있는 음악 찾아줘 	music
+윤건 노래 부탁해 	music
+김형준 음악 틀어봐 	music
+한복남 가요 틀어 	music
+G.NA 음악 부탁해 	music
+이가희 최신 노래 불러주세요 	music
+남영주 가요 틀어줘 	music
+AB6IX 음악으로 찾아봐 	music
+강승윤 옛날 노래 들려주세요 	music
+백지영 최신 노래 틀어볼래 	music
+박진영 노래 큐 	music
+배다해 최신곡 부탁해 	music
+양수경 옛날 노래 듣고싶어 	music
+임정희 최신곡 들을래 	music
+오브로젝트 최신 노래 들을래 	music
+최헌 노래 불러주세요 	music
+최광수 가장 최근 음악으로 찾아줘 	music
+이소은 가요 틀어 	music
+유니 최신곡 들려줘 	music
+차지연 가장 최근 음악으로 들을래 	music
+서인국 최신곡 틀어주세요 	music
+장은숙 부른 노래 찾아볼래 	music
+GOT7 음악으로 들려줘 	music
+SE7EN 노래 들려줘 	music
+V.One 가장 최근 음악으로 부탁해요 	music
+최연제 음악으로 찾아봐 	music
+이문세 최신 노래 찾아주세요 	music
+워너원 최신 노래 부탁해 	music
+박서진 노래 틀어 	music
+벤 노래로 틀어줘 	music
+김성면 음악으로 틀어주세요 	music
+조정현 최신 노래 틀어 	music
+진성 최신 노래 틀어봐 	music
+워너비 노래 부탁해 	music
+오브로젝트 음악으로 불러봐 	music
+바다 음악 틀어 	music
+김희진 가요 들을래 	music
+러블리즈 부른 노래 듣고싶어 	music
+권인하 음악 들려줘 	music
+TRCNG 노래 찾아줘 	music
+손담비 가장 최근 음악으로 틀어 	music
+김연우 최신 노래 틀어주세요 	music
+별 부른 노래 찾아주세요 	music
+나미 가요 틀어볼래 	music
+박기영 최신 노래 큐 	music
+정다경 가요 들려주세요 	music
+배다해 부른 노래 틀어봐 	music
+NC.A 가요 찾아줘 	music
+오프로드 가장 최근 음악으로 들을래 	music
+노을 옛날 노래 틀어주세요 	music
+김윤희 부른 노래 들려주세요 	music
+기리보이 최신곡 틀어주세요 	music
+엘리스 부른 노래 불러주세요 	music
+환희 가요 찾아볼래 	music
+D.COY 가요 불러주세요 	music
+단발머리 옛날 노래 부탁해요 	music
+달샤벳 최신곡 불러봐 	music
+윤복희 노래 찾아주세요 	music
+천명훈 노래 들려주세요 	music
+15& 가요 불러주세요 	music
+메이다니 최신 노래 틀어 	music
+샤넌 부른 노래 틀어주세요 	music
+문주란 옛날 노래 불러주세요 	music
+김소리 노래로 찾아주세요 	music
+손헌수 가장 최근 음악으로 불러주세요 	music
+장수원 옛날 노래 틀어 	music
+슈퍼주니어 가장 최근 음악으로 찾아주세요 	music
+쇼콜라 가장 최근 음악으로 부탁해요 	music
+바다 최신곡 큐 	music
+이난영 가장 최근 음악으로 있을까 	music
+현아 최신 노래 찾아주세요 	music
+박재범 최신곡 틀어볼래 	music
+옥주현 가요 불러주세요 	music
+알트 부른 노래 불러봐 	music
+김종수 음악 틀어봐 	music
+김종수 부른 노래 듣고싶어 	music
+오마이걸 노래 들려주세요 	music
+서인영 최신 노래 틀어볼래 	music
+배일호 노래 부탁해 	music
+자두 가장 최근 음악으로 불러봐 	music
+왁스 가장 최근 음악으로 큐 	music
+조정현 노래 틀어줘 	music
+조미미 가장 최근 음악으로 틀어볼래 	music
+Zion.T 가요 들려주세요 	music
+유희열 노래 찾아볼래 	music
+이석 옛날 노래 틀어봐 	music
+DAY6 노래로 들려주세요 	music
+김민우 가장 최근 음악으로 틀어주세요 	music
+태진아 옛날 노래 틀어주세요 	music
+수란 부른 노래 틀어볼래 	music
+아이비 가요 찾아볼래 	music
+김준 최신 노래 틀어봐 	music
+옥상달빛 부른 노래 찾아볼래 	music
+메이다니 음악으로 부탁해요 	music
+정수라 음악 불러봐 	music
+SuperM 옛날 노래 듣고싶어 	music
+싸이 부른 노래 불러봐 	music
+유키스 부른 노래 들을래 	music
+소유 옛날 노래 찾아봐 	music
+에이션 음악으로 찾아봐 	music
+임현정 음악으로 틀어줘 	music
+백년설 노래로 들을래 	music
+김장훈 노래 찾아주세요 	music
+구자명 노래 틀어주세요 	music
+얀(Yarn) 노래로 들을래 	music
+선하 노래 틀어줘 	music
+방성우 옛날 노래 불러봐 	music
+김태욱 음악으로 찾아주세요 	music
+신효범 노래 찾아주세요 	music
+벅스에서 최신 음악으로 큐 	music
+빅뱅 음악 틀어봐 	music
+버즈 부른 노래 틀어줘 	music
+서동욱 가요 듣고싶어 	music
+김현성 노래로 찾아볼래 	music
+현아 음악으로 들려줘 	music
+나미 가장 최근 음악으로 큐 	music
+백지영 음악으로 틀어 	music
+이나 가장 최근 음악으로 틀어주세요 	music
+스펙트럼 음악으로 찾아주세요 	music
+문성훈 부른 노래 틀어볼래 	music
+정기고 가장 최근 음악으로 있을까 	music
+김종서 옛날 노래 틀어볼래 	music
+박정민 부른 노래 들을래 	music
+김지수 부른 노래 틀어 	music
+신철 음악으로 찾아봐 	music
+GOT7 음악 틀어봐 	music
+아스트로 옛날 노래 부탁해요 	music
+서연 가요 불러봐 	music
+방탄소년단 가장 최근 음악으로 찾아주세요 	music
+윤수일 가요 틀어볼래 	music
+김여희 노래 찾아주세요 	music
+현인 옛날 노래 불러주세요 	music
+키스 노래 듣고싶어 	music
+온리원오브 가장 최근 음악으로 틀어볼래 	music
+유정석 음악으로 듣고싶어 	music
+BDC 부른 노래 찾아줘 	music
+서영은 부른 노래 불러주세요 	music
+D1CE 음악 들려주세요 	music
+스테이씨 최신 노래 들을래 	music
+이문세 노래로 부탁해 	music
+오마이걸 가장 최근 음악으로 부탁해 	music
+김국환 부른 노래 찾아줘 	music
+아이유 최신곡 불러봐 	music
+써드아이 가장 최근 음악으로 틀어볼래 	music
+서재호 노래 들을래 	music
+김소희 최신곡 들려줘 	music
+채동하 음악으로 있을까 	music
+애즈원 옛날 노래 틀어 	music
+레인보우블랙 가요 큐 	music
+K.WILL 부른 노래 불러주세요 	music
+이융진 최신곡 불러주세요 	music
+인피니트 노래 불러주세요 	music
+로미오 최신 노래 찾아봐 	music
+동방신기 가요 있을까 	music
+원팀 최신 노래 찾아볼래 	music
+신용재 가장 최근 음악으로 틀어볼래 	music
+제이세라 부른 노래 들을래 	music
+HEYNE 최신곡 부탁해 	music
+라붐 노래 큐 	music
+지아 음악으로 부탁해 	music
+최백호 가요 틀어줘 	music
+김민종 부른 노래 틀어줘 	music
+문명진 옛날 노래 찾아볼래 	music
+장현 가장 최근 음악으로 부탁해 	music
+모모랜드 가요 부탁해요 	music
+아이즈 최신곡 들을래 	music
+나르샤 노래로 찾아볼래 	music
+흥겨운 옛날 노래 들을래 	music
+김민우 노래 부탁해요 	music
+B1A4 음악 틀어 	music
+성은 최신 노래 들려주세요 	music
+쿨 최신 노래 들려주세요 	music
+슈퍼주니어 최신 노래 찾아주세요 	music
+비 노래 찾아줘 	music
+하동균 부른 노래 부탁해 	music
+김정호 음악으로 틀어봐 	music
+김희진 가장 최근 음악으로 틀어볼래 	music
+김현정 최신 노래 틀어줘 	music
+채동하 음악으로 큐 	music
+에이션 노래 들려주세요 	music
+박미경 가요 틀어봐 	music
+한명숙 노래로 찾아줘 	music
+정훈희 노래 부탁해요 	music
+로켓펀치 부른 노래 틀어볼래 	music
+이정선 부른 노래 찾아봐 	music
+GOT7 노래 틀어 	music
+금잔디 가요 들을래 	music
+김정민 최신 노래 찾아볼래 	music
+소나무 부른 노래 틀어 	music
+젝스키스 옛날 노래 틀어볼래 	music
+멜로망스 가요 있을까 	music
+백아연 노래로 찾아주세요 	music
+CLC 부른 노래 찾아주세요 	music
+듀크 노래 불러봐 	music
+김민우 최신곡 틀어주세요 	music
+김현정 가장 최근 음악으로 큐 	music
+박남정 최신 노래 들을래 	music
+ZE:A 노래로 있을까 	music
+오마이걸 최신 노래 불러봐 	music
+엘라스트 부른 노래 듣고싶어 	music
+댄스 가요 있을까 	music
+최유나 노래로 찾아줘 	music
+하리 가요 부탁해 	music
+현진영 최신 노래 틀어 	music
+김종수 가요 틀어주세요 	music
+김혜연 가요 틀어줘 	music
+솔비 최신 노래 들려주세요 	music
+손가인 노래로 찾아봐 	music
+TOO 음악으로 큐 	music
+이가이 최신곡 틀어 	music
+와썹 최신곡 부탁해요 	music
+이진아 노래 있을까 	music
+스누퍼 최신곡 들려주세요 	music
+문희준 음악으로 찾아볼래 	music
+동방신기 최신 노래 부탁해 	music
+유뷰브에서 인기있는 최신 노래 들려주세요 	music
+이규호 노래 찾아볼래 	music
+AB6IX 옛날 노래 틀어 	music
+죠앤 노래로 찾아주세요 	music
+황금심 옛날 노래 부탁해 	music
+진주 최신 노래 불러주세요 	music
+기동대 옛날 노래 찾아볼래 	music
+세정 최신곡 틀어주세요 	music
+By진성 가장 최근 음악으로 듣고싶어 	music
+방실이 옛날 노래 찾아봐 	music
+어위크 최신곡 찾아주세요 	music
+민경훈 음악으로 들려주세요 	music
+베이비복스 최신곡 찾아줘 	music
+손진영 옛날 노래 틀어볼래 	music
+EXO 옛날 노래 틀어봐 	music
+디바 음악으로 들을래 	music
+이난영 부른 노래 불러봐 	music
+허민 옛날 노래 틀어주세요 	music
+가희 최신곡 불러봐 	music
+효연 부른 노래 틀어볼래 	music
+원팀 최신 노래 찾아봐 	music
+스누퍼 옛날 노래 큐 	music
+이보람 가요 틀어봐 	music
+임팩트 노래로 찾아주세요 	music
+이하이 노래로 부탁해요 	music
+MCND 부른 노래 틀어볼래 	music
+아이돌 부른 노래 들려주세요 	music
+윤태규 노래로 부탁해요 	music
+노유민 가장 최근 음악으로 듣고싶어 	music
+레인보우픽시 가장 최근 음악으로 틀어주세요 	music
+김소리 옛날 노래 큐 	music
+황보 가장 최근 음악으로 불러봐 	music
+엠씨더맥스 최신 노래 찾아줘 	music
+정준영 가장 최근 음악으로 틀어주세요 	music
+조정현 노래 부탁해 	music
+수지 최신곡 찾아주세요 	music
+신은성 옛날 노래 부탁해요 	music
+임수정 가요 불러봐 	music
+윤복희 최신곡 부탁해 	music
+비 부른 노래 찾아줘 	music
+김그림 가장 최근 음악으로 들려주세요 	music
+현인 옛날 노래 들을래 	music
+김현중 노래로 틀어 	music
+이무송 음악으로 불러주세요 	music
+카페에서 듣기 좋은 최신곡 들을래 	music
+S.M.THEBALLAD 노래 듣고싶어 	music
+걸스데이 최신 노래 불러봐 	music
+박상태 가요 들려주세요 	music
+숙희 노래로 찾아줘 	music
+김정구 최신곡 틀어 	music
+주니엘 음악으로 부탁해 	music
+레드벨벳 옛날 노래 찾아봐 	music
+S.E.S. 최신 노래 있을까 	music
+박효신 노래 들려주세요 	music
+조덕배 노래로 찾아줘 	music
+NCT 옛날 노래 불러주세요 	music
+민티 노래 들을래 	music
+수지 최신 노래 들려줘 	music
+스누퍼 음악으로 들려줘 	music
+흥겨운 최신곡 찾아주세요 	music
+김건모 최신곡 틀어 	music
+폴킴 최신 노래 찾아주세요 	music
+소유 가요 찾아봐 	music
+15& 가요 찾아주세요 	music
+제스트 부른 노래 찾아봐 	music
+크리샤츄 최신곡 부탁해요 	music
+임창정 최신곡 불러주세요 	music
+원더걸스 최신 노래 찾아볼래 	music
+어위크 음악으로 들려주세요 	music
+두리 부른 노래 틀어볼래 	music
+G.NA 옛날 노래 틀어주세요 	music
+신고은 부른 노래 찾아볼래 	music
+카페에서 듣기 좋은 가요 있을까 	music
+JK김동욱 부른 노래 들려주세요 	music
+스트레이키즈 가장 최근 음악으로 불러봐 	music
+씨스타 최신곡 부탁해요 	music
+BUMZU 최신곡 큐 	music
+에이블 노래 들을래 	music
+알파벳 옛날 노래 부탁해 	music
+김현철 노래로 틀어줘 	music
+김민우 노래 들려주세요 	music
+엄정화 가요 듣고싶어 	music
+고복수 음악 불러주세요 	music
+양준일 음악으로 틀어 	music
+김규종 최신 노래 찾아주세요 	music
+구피 최신 노래 틀어주세요 	music
+싸이 음악으로 부탁해 	music
+원어스 최신 노래 들려주세요 	music
+H&D 최신곡 틀어봐 	music
+DJDOC 옛날 노래 있을까 	music
+김수희 노래 틀어 	music
+정태춘 최신곡 찾아봐 	music
+지아 최신 노래 들려줘 	music
+B1A4 음악으로 틀어볼래 	music
+소방차 옛날 노래 듣고싶어 	music
+아스트로 노래 듣고싶어 	music
+바이칼 최신곡 듣고싶어 	music
+민아 노래 찾아주세요 	music
+민효린 최신 노래 찾아줘 	music
+김종환 최신곡 듣고싶어 	music
+다비치 음악으로 찾아볼래 	music
+윤미래 옛날 노래 듣고싶어 	music
+듀크 가장 최근 음악으로 들려주세요 	music
+케빈박 노래 틀어봐 	music
+이현 최신곡 찾아줘 	music
+오승은 음악으로 부탁해 	music
+김용임 노래 틀어주세요 	music
+길은정 옛날 노래 불러봐 	music
+김정구 노래 틀어 	music
+이준오 최신 노래 있을까 	music
+이성진 옛날 노래 틀어봐 	music
+한명숙 노래 듣고싶어 	music
+전효성 가장 최근 음악으로 찾아주세요 	music
+모세 옛날 노래 들을래 	music
+박건 음악으로 찾아볼래 	music
+김현성 옛날 노래 부탁해요 	music
+HAIL 최신 노래 틀어 	music
+옥주현이 레베카에서 부른 노래 좀 틀어줘	music
+아이유가 가장 최근에 낸 앨범 타이틀 곡 제목이 뭐지	music
+노래중에서 후렴구가 도미도솔솔라시도인 노래 뭐야	music
+난 너를 사랑해~ 이렇게 가사가 시작되는 노래 제목 알아	music
+지금 나오는 이 노래 제목이 뭐야	music
+혼자있고 싶을 때 듣는 노래 추천해줘	music
+공부하면서 어떤 노래 듣는걸 좋아해	music
+도깨비 OST로 나온 가장 유명한 노래 뭐야	music
+뷰티인사이트 영화 OST 중에서 가장 유명한 노래가 뭐지	music
+카페에 잘 어울리는 노래 추천해줘	music
+소녀시대 유리가 솔로로 처음 낸 곡이 뭐였더라	music
+이번 주 음악중심에서 1위한 노래 듣고싶어	music
+이슬을 주제로 하는 노래가 뭐가 있어	music
+가사가 없는 부드러운 기타 선율이 들어가는 노래 틀어줘	music
+비긴어게인 방송에서 이수현이 헨리랑 듀엣으로 부른 노래 뭐야	music
+듀엣으로 같이 부를 수 있을 만한 노래 추천해줘	music
+결혼식 축가로 요즘 많이 부르는 노래 추천해줘	music
+교회에서 소향이 특송으로 부른 노래 추천해줘	music
+요새 20대 여성이 많이 듣는 노래 추천해줘	music
+후렴구가 중독성이 있는 노래가 뭐가 있더라	music
+머라이어캐리가 부른 그 노래 제목이 뭐지 	music
+박효신 노래 중에서 야생화 후렴 처음 시작이 어떻게 되니	music
+내가 많이 듣는 노래 궁금해	music
+내가 좋아하는 음악 스타일은 어떤걸까	music
+스트레스 풀고 싶을 때 들을만한 노래 뭐가 있을까	music
+OST가 좋은 영화들 OST 리스트가 필요해	music
+지브리 노래 중에서 잔잔한 노래 듣고 싶어	music
+잔잔한 피아노 솔로로 이루어진 노래 뭐가 있을까	music
+오늘 우울한데 어떤 노래 들으면 좀 풀릴까	music
+캐리비안의 해적에 유명한 노래있잖아 그거 가사가 있었나	music
+가을하면 생각나는 노래 뭐가 있지	music
+2020년에 빌보드 차트 1위했던 곡들 다 알려줘	music
+BTS가 빌보드 HOT100으로 상받은 노래가 뭐였지	music
+이번 여름에 싹쓰리가 냈던 노래들 반복 재생해줘	music
+환불원정대 노래 돈터치미 후렴구만 들려줄래	music
+지금 탁구 경기하는데 배경음악으로 깔 수있는 노래 좀 추천해줘	music
+바이올린 선율이 아름다운 노래 추천해줘	music
+드럼이 멋진 노래 뭐가 있을까	music
+소녀시대 태연이 비긴어게인에 가서 부른 노래들 가장 뜬게 뭐였더라	music
+기분이 너무 신날 때 더 신나려고 듣는 노래좀 알려줘	music
+기분이 낙심될 때 힘내라고 용기내라고 해주는 노래 틀어줘	music
+겨울에 코코아 한 잔 마시면서 듣기 좋은 노래 뭐가 있을까	music
+낙엽이 떨어진 길을 걸으면서 듣기 좋은 상큼한 곡 좀 추천해줘	music
+오늘 한라산 등반할껀데 가면서 듣기 좋은 노래 틀어줘	music
+헬스하면서 들으면 힘이 막 나는 그런 곡 뭐가 있어	music
+들으면 막 눈물 뚝뚝 떨어지는 그런 노래 틀어줘	music
+심장박동 소리가 배경으로 깔리는 그 노래 뭐지	music
+예전에 버즈가 한창 떴을때 어떤 노래로 유명했었지	music
+HOT 노래 가장 유명했던 곡들 좀 골라줘	music
+아까 식당에서 밥먹을 때 나왔던 노래 알려줘	music
+내가 자주 듣는 노래 중에서 밤에 자주 듣는 노래좀 알려줘	music
+비트박스가 들어간 노래 있나	music
+스스의 날 기념곡 좀 알려줘	music
+생일 파티 때 빵빠레하면서 나오는 노래 알려줘	music
+머라이어캐리 전성기때 부른 노래 들려줘	music
+퀸의 보헤미안 랩소디 틀어줘	music
+성시경이 부른 두 사람 틀어줘	music
+유희열이 작곡하고 성시경이 부른 노래 뭐가 있지	music
+조수미가 부른 나가거든을 리메이크한 작품이 또 있을까	music
+성악과 국악이 같이 믹스된 노래가 있을까	music
+악기 아쟁이랑 피아노로만 이루어진 곡이 있나	music
+이번주에 놀면뭐하니 인트로 때 나온 노래 뭐가있는지 아니	music
+불안장애로 힘들 때 이런 노래 들으면 안정된다 그런거 있니	music
+마음을 차분하게 해주는 그런 곡 뭐가 있을까	music
+이번주 가장 재생이 많이된 노래 틀어줘	music
+도깨비에서 김고은이 공유 죽는거 볼때 나왔던 노래 알려줘	music
+가사랑 노래가 잘 어울리는 노래 좀 듣고 싶다	music
+뮤직비디오중에 김태희가 까메오로 출연하는 노래가 있었나	music
+여자들이 축가할때 많이 부르는 노래 뭐가 있을까	music
+뷔페에서 배경음악으로 많이 하는 노래 뭐가 있지	music
+비행이라는 단어가 제목에 들어가는 노래 뭐가 있지	music
+CCM 중에서 이번주 가장 많이 들은 노래 들려줘	music
+재즈 피아노 곡 중에서 한국 사람들이 많이 듣는 노래 뭐가 있더라	music
+듣기만 해도 눈물이 뚝뚝 떨어지는 그런 노래 제목 좀 알려줘	music
+아카펠라로 유명한 펜타 어쩌구 하는 가수가 부른 노래 뭐가 있더라	music
+성시경이랑 아이유랑 듀엣으로 불렀던 노래 뭐가 있지	music
+랩인데 너무 선정적이지 않고 좋은 노래 뭐가 있을까	music
+Eye of tigers라는 노래 좀 듣고 싶어	music
+오늘 멜론 차트 1일 기준 1위에서 5위곡 좀 듣고 싶어	music
+불면증으로 어려울 때 자기전에 들으면 좋은 노래 뭐가 있지	music
+윤종신의 좋니라는 노래 답가가 있었던거 같은데 그게 뭐였더라	music
+악동뮤지션이 처음에 나와서 부른 노래가 뭐였지	music
+성악곡을 모티브로 만들어진 노래들 좀 알려줘	music
+소소한 행복을 느낄 때 들으면 좋은 노래 뭐가 있을까	music
+공포 영화 OST 좀 틀어줘	music
+이소라 노래 중에서 가장 유명한 노래 뭐가 있지	music
+노래인데 나중에 북소리로 끝나는 그런 노래가 있을까	music
+빌리아일리쉬 노래 중에서 인기 많은거 TOP5만 들려줘	music
+예전에 베스킨라빈스 광고에서 꼬마 여자애 나올 때 배경음악이 뭐였더라	music
+스타벅스 매장에서 틀어주는 노래 좀 반복재생해줘	music
+축가에서 망가질때 많이 쓰는 노래 뭐가 있을까	music
+예전에 엉덩이춤으로 유명했던 그 여자 아이돌들이 부른 노래 뭐였더라	music
+가장 리메이크가 많이 된 노래는 어떤 노래일까	music
+엄마가 보고 싶어질 때 들으면 좋은 노래 뭐가 있지	music
+스타크래프트에서  이겼을 때 나오는 곡들 뭐가 있더라	music
+아모르파티 노래 좀 듣고 싶어	music
+사랑과 전쟁에서 일촉즉발의 상황에서 나오는 배경음악 궁금해	music
+유럽 사람들이 가장 좋아하는 BTS 노래는 뭘까	music
+박정현이 부른 꿈에 틀어줘	music
+가사가 너무 좋은 노래들 듣고 싶다	music
+요즘 인기많은 노래가 뭐야? 	music
+멜론 top100이 뭐야?          	music
+최신 신나는 노래 뭐있어?    	music
+최신 조용한 노래 뭐있어?    	music
+신나는 노래 뭐있어?           	music
+몽환적인 노래 추천해줘      	music
+한국 발라드 추천해줘         	music
+한국 힙합 추천해줘            	music
+한국 댄스 추천해줘            	music
+한국 아이돌 노래 추천해줘  	music
+한국 R&B 추천해줘            	music
+한국 락 추천해줘               	music
+일본 발라드 추천해줘         	music
+일본 힙합 추천해줘            	music
+일본 댄스 뭐있어?              	music
+일본 아이돌 노래 추천해줘  	music
+일본 R&B 추천해줘            	music
+일본 락 추천해줘               	music
+미국 POP 추천해줘            	music
+미국 힙합 추천해줘            	music
+미국 R&B 추천해줘            	music
+영국 락 추천해줘               	music
+최신 한국 발라드 추천해줘         	music
+최신 한국 힙합 추천해줘            	music
+최신 한국 댄스 추천해줘            	music
+최신 한국 아이돌 노래 추천해줘  	music
+최신 한국 R&B 추천해줘            	music
+최신 한국 락 추천해줘               	music
+가장 인기 많은 일본 발라드 추천해줘         	music
+가장 인기 많은 일본 힙합 추천해줘            	music
+가장 인기 많은 일본 댄스는 뭐야?              	music
+가장 인기 많은 일본 아이돌 노래 추천해줘  	music
+가장 인기 많은 일본 R&B 추천해줘            	music
+가장 인기 많은 일본 락 추천해줘               	music
+가장 인기 많은 미국 POP 추천해줘            	music
+가장 인기 많은 미국 힙합 추천해줘            	music
+가장 인기 많은 미국 R&B 추천해줘            	music
+가장 인기 많은 영국 락 추천해줘               	music
+BTS 노래가 빌보드에서 몇위야?            	music
+가장 인기 많은 BTS 노래 알려줘           	music
+가장 인기 많은 송가인 노래 알려줘       	music
+가장 인기 많은 Maroon5 노래 알려줘    	music
+가장 인기 많은 빈지노 노래 알려줘       	music
+90년대 한국 발라드 추천해줘         	music
+90년대 한국 힙합 추천해줘            	music
+90년대 한국 댄스 추천해줘            	music
+90년대 한국 아이돌 노래 추천해줘  	music
+90년대 한국 R&B 추천해줘            	music
+90년대 한국 락 추천해줘               	music
+90년대 일본 발라드 추천해줘         	music
+90년대 일본 힙합 추천해줘            	music
+90년대 일본 댄스 뭐있어?              	music
+90년대 일본 아이돌 노래 추천해줘  	music
+90년대 일본 R&B 추천해줘            	music
+90년대 일본 락 추천해줘               	music
+90년대 미국 POP 추천해줘            	music
+90년대 미국 힙합 추천해줘            	music
+90년대 미국 R&B 추천해줘            	music
+90년대 영국 락 추천해줘               	music
+어벤져스 OST 알려줘	music
+디즈니 OST 추천해줘	music
+가장 인기많은 디즈니 노래가 뭐야?	music
+한국에서 가장 인기많은 디즈니 노래가 뭐야?	music
+미국에서 가장 인기많은 디즈니 노래가 뭐야?	music
+일본에서 가장 인기많은 디즈니 노래가 뭐야?	music
+중국에서 가장 인기많은 디즈니 노래가 뭐야?	music
+한국에서 가장 인기많은 노래 장르가 뭐야?	music
+일본에서 가장 인기많은 노래 장르가 뭐야?	music
+중국에서 가장 인기많은 노래 장르가 뭐야?	music
+미국에서 가장 인기많은 노래 장르가 뭐야?	music
+한국 동요 추천해줘         	music
+일본 동요 추천해줘         	music
+중국 동요 추천해줘         	music
+미국 동요 추천해줘         	music
+한국 트로트 추천해줘            	music
+신나는 노래 추천해줘	music
+조용한 노래 추천해줘	music
+최신 신나는 노래 추천해줘	music
+최신 조용한 노래 추천해줘	music
+일본 신나는 노래 추천해줘   	music
+몽환적인 노래 뭐있어?   	music
+미국 신나는 노래 추천해줘	music
+저스틴 비버 노래 추천해줘	music
+가장 인기많은 저스틴 비버 노래가 뭐야?	music
+가장 인기많은 저스틴 비버 노래 추천해줘	music
+겨울왕국 OST 추천해줘	music
+가장 인기 많은 겨울왕국 OST가 뭐야?	music
+10대가 가장 많이 듣는 장르가 뭐야?	music
+20대가 가장 많이 듣는 장르가 뭐야?	music
+30대가 가장 많이 듣는 장르가 뭐야?	music
+40대가 가장 많이 듣는 장르가 뭐야?	music
+50대가 가장 많이 듣는 장르가 뭐야?	music
+10대가 가장 많이 듣는 노래 추천해줘	music
+20대가 가장 많이 듣는 노래 추천해줘	music
+30대가 가장 많이 듣는 노래 추천해줘	music
+40대가 가장 많이 듣는 노래 추천해줘	music
+50대가 가장 많이 듣는 노래 추천해줘	music
+산책할 때 듣기 좋은 노래 추천해줘	music
+운동할 때 듣기 좋은 노래 추천해줘	music
+이 노래 제목 뭐야?	music
+잔잔한 노래 알려줘	music
+빅뱅 노래 중에 발라드 추천해줘	music
+블랙핑크 노래 알려주라	music
+노래 제목 알려줘	music
+페스티벌 노래 알려줘	music
+뷰티풀민트라이프 노래 들려줘	music
+이 노래 부른 가수 누구에요	music
+이 노래 누구꺼야	music
+노래 부른 가수 알려줘	music
+우울할 때 듣는 노래 알려줘	music
+이별 노래 들려주세요	music
+가장 인기있는 노래 뭐야	music
+드라마 노래 알려주라	music
+2000년대 노래 들려줘	music
+1990년대 노래 알려주세요	music
+이 노래 부른 가수 누구야	music
+이 노래 부른 기수 노래 들려줘	music
+적재 노래 알려줘	music
+아이유 노래 들려줘	music
+아이유꺼 신나는 노래 틀어줘	music
+봄에 듣기 좋은 노래 뭐야	music
+잠자기 전에 좋은 노래 들려줘	music
+이 노래 좋아요 해줘	music
+나 이 노래 싫어	music
+20대 인기 노래 알려줘	music
+10대들이 좋아하는 노래 뭐야	music
+빅뱅 노래 틀어줘	music
+미스터트롯 노래 알려줘	music
+영탁이 노래 들려줘	music
+이 노래 싫어	music
+이 노래 그만 듣고 싶어	music
+이 노래만 계속 들을래	music
+아이유 발라드 추천해줘	music
+적재 신나는 음악 알려줘	music
+카페에서 듣기 좋은 음악 뭐야	music
+지금 노래랑 비슷한 노래 들려줘	music
+페스티벌 노래 틀어줘	music
+호텔델루나 노래 들려줘	music
+드라마 OST 틀어줘	music
+사랑의 불시착 노래 틀어줘	music
+최신 트로트 노래 들려줘	music
+인기있는 트로트는 뭐야	music
+인기있는 힙합 노래 들려줘	music
+발라드 노래 알려줘	music
+동요 들려줘	music
+아기가 듣기 좋은 노래 알려줘	music
+오늘 신곡 궁금해	music
+오늘 나온 노래 뭐야	music
+오늘 새로운 노래 들려줘	music
+이번주 신곡 있어	music
+이번주 신곡은 뭐야	music
+새로 나온 노래 알려줘	music
+새로 나온 노래 들려줘	music
+2008년 인기곡은 뭐야	music
+2010년 인기 노래 알려줘	music
+2020년 새로 나온 노래 들려줘	music
+1992년 인기 있던 노래 틀어줘	music
+잘 때 듣기 좋은 들려줘	music
+아침에 듣기 좋은 노래 알려줘	music
+크리스마스 노래 알려줘	music
+성탄절 노래 들려줘	music
+설날 노래 알려줘	music
+추석에 듣기 좋은 노래 뭐야	music
+가족끼리 듣기 좋은 노래 알려줘	music
+고백 관련된 노래 들려줘	music
+제주도랑 잘어울리는 노래 틀어줘	music
+여행에 좋은 노래 알려줘	music
+드라이브 추천 노래 들려줘	music
+불멍할 때 듣기 좋은 노래 알려줘	music
+캠핑에 추천하는 노래 틀어줘	music
+캠핑할 때 좋은 노래는	music
+시원한 노래 알려줘	music
+느긋한 노래 들려줘	music
+그루브있는 노래 틀어줘	music
+집에 있을 때 좋은 노래 추천해줘	music
+편안한 느낌의 노래 추천해줘	music
+잠오는 노래 추천해줘	music
+아기 재울 때 좋은 노래 추천해줘	music
+춤추고 싶을 때 좋은 노래 알려줘	music
+밤사 노래 틀어줘	music
+별밤 노래 들려줘	music
+춤추기 좋은 노래 들려줘	music
+연말 느낌나는 노래 알려줘	music
+신년 파티에 어울리는 노래 추천해줘	music
+연말 파티에 어울리는 노래 알려줘	music
+카페에서 듣기 좋은 노래 들려줘	music
+잠깰 수 있는 노래 추천해줘	music
+드라마랑 어울리는 노래 알려줘	music
+여행이랑 어울리는 노래 추천해줘	music
+드라이브랑 어울리는 노래 들려줘	music
+신나는 느낌의 곡 추천해주세요	music
+이 노래 제목이 뭐에요	music
+이 노래 부른 가수가 누구에요	music
+지금 노래 부른 가수 알려주세요	music
+이 노래 제목 알려주세요	music
+데이트에 어울리는 노래 알려줘	music
+데이트랑 어울리는 곡 추천해줘요	music
+공부할 때 좋은 노래 추천해줘	music
+공부할 때 어울리는 곡 알려줘	music
+위로가 되는 노래 추천해줘요	music
+운동할 때 듣기 좋은 노래 알려줘	music
+운동에 어울리는 곡 추천해줘	music
+짝사랑 소재의 노래 알려줘	music
+면역이 뭐야	medicine
+감기에 약물치료보다 면역 강화가 필요한 이유가 뭐야	medicine
+임산부 면역력 관리 차원에서 주의해야 할 감염 질환은 뭐가 있을까	medicine
+면역력 높이는 법 알려줘	medicine
+피로가 잘 풀리지 않는데 이게 면역력이랑 관련이 있을까	medicine
+감기에 자주 걸리고 잘 낫지 않는데 면역력이 낮아진걸까	medicine
+입안이 헐거나 입 주위에 물집이 생기는데 면역력 때문일까	medicine
+눈에 염증이 자주 생기는데 이게 면역력이 낮아져서 그런거야	medicine
+스트레스가 자주 쌓이는데 이것도 면역력 때문일까	medicine
+상처가 잘 낫지 않아서 걱정인데 면역력이 낮아져서일까	medicine
+요즘들어 인내력도 줄어들고 끈기도 없어지는데 면역력이랑 관계된걸까	medicine
+최근에 배탈이나 설사가 잦은데 이거 면역력이 낮아져서 그런걸까	medicine
+눈 밑에 다크서클이 자주 생기는데 면역력이랑 관계된걸까	medicine
+면역력을 키우는데 식이가 얼마나 중요해	medicine
+균형잡힌 식사를 하면 면역력을 증진시키는데 도움이 될까	medicine
+면역력과 관련된 영양소들 좀 알려줘	medicine
+면역력이 높아지는 데 도움이 되는 식단을 알려줄래	medicine
+녹차나 결명자차가 면역력을 높이는데 도움이 될까	medicine
+보통 면역력이 떨어진다는걸 어떻게 느껴	medicine
+햇볕을 쬐는게 면역력을 높이는데 도움이 돼	medicine
+적당한 체온을 유지하면 면역력이 높아질까	medicine
+잠을 충분히 자면 면역력이 높아진다는데 맞아	medicine
+면역의 종류에는 뭐가 있어	medicine
+면역학자들은 어떤걸 연구할까	medicine
+우리 면역 체계가 병원체에 대해 반응하는 순서가 어떻게 돼	medicine
+코로나 바이러스가 언제 처음 발생했어	medicine
+오늘 우리나라에서 코로나 바이러스 감염자가 몇 명이나 발생했어	medicine
+코로나 바이러스의 공통적인 증상에는 뭐가 있어	medicine
+코로나 바이러스를 왜 COVID-19라고 불러	medicine
+코로나 바이러스는 어떻게 확산돼	medicine
+따뜻한 날씨가 코로나 바이러스 발병을 막을 수 있어	medicine
+모기나 진드기가 코로나 바이러스를 퍼뜨릴 수 있을까	medicine
+우편물이나 소포, 상품으로 인해 코로나 바이러스에 걸릴 위험이 있을까	medicine
+코로나 바이러스에 걸린 사람이 헌혈을 해도 괜찮아	medicine
+콘택트렌즈 착용자는 코로나 바이러스 예방을 위해 특별한 조치를 취해야해	medicine
+코로나 바이러스 예방을 위해 비누나 물 또는 손 소독제를 사용해야해	medicine
+코로나 바이러스 때문에 내가 아프거나 가족들이 아프면 어떡해	medicine
+코로나 바이러스에 걸린 사람과 밀접 접촉을 했다면 어떻게 해야하지	medicine
+코로나 바이러스가 유발할 수 있는 증상 및 합병증에는 뭐가 있어	medicine
+코로나 바이러스에 걸린 경우 언제 응급 치료를 받아야해	medicine
+독감과 코로나 바이러스에 동시에 감염될 수도 있어	medicine
+코로나 바이러스 검사에서 음성 판정을 받았다가 나중에 양성 판정을 받을 수도 있어	medicine
+어떤 사람들이 코로나 바이러스 중증질환 고위험군에 속해	medicine
+코로나 바이러스에 걸린 경우 복용을 피해야 하는 약이 있어	medicine
+코로나 바이러스 확산을 막으려면 자동차 시트와 부스터 시트에 추가적인 청소나 소독을 해야해	medicine
+애완 동물이나 다른 동물을 통해 코로나 바이러스가 전파될 수 있어	medicine
+야생 동물이 코로나 바이러스를 사람이나 애완 동물에게 전파할 수 있어	medicine
+코로나 바이러스가 하수도 시스템을 통해서도 퍼질 수 있어	medicine
+코로나 바이러스가 수영장, 온수 욕조 또는 물놀이터의 물을 통해 사람에게 전파될 수 있어	medicine
+코로나 바이러스에 대한 지역사회 완화 조치가 뭐야	medicine
+우리는 왜 늙을까	medicine
+늙지 않는게 가능해	medicine
+노화하면서 발생하는 신체적 변화에는 어떤 것들이 있어	medicine
+피부가 거칠고 윤택이 없어졌으면 노화한거야	medicine
+검버섯이나 주근깨, 잔주름이 늘면 늙은걸까	medicine
+장수하기 위한 식사법이나 생활 습관에는 어떤 것들이 있을까	medicine
+예전보다 눈이 작아진 느낌이 들며 눈이 자주 붓는데 이게 늙어서 그런걸까	medicine
+눈 밑이 예전보다 볼록 튀어나오고 늘어진 느낌인데 이게 노화랑 관련이 있을까	medicine
+거울을 보면 예전보다 얼굴이 크고 부어보이는데 나이가 들어서 그런거야	medicine
+세포 노화의 원인들에는 어떤게 있어	medicine
+세포는 어떻게 늙어가	medicine
+자연에는 해파리나 바닷가재와 같이 노화를 겪지 않는 생물들이 존재하는데, 인간도 그럴 수 있을까	medicine
+노화가 여러 질병들과 깊은 관련이 있어	medicine
+노화로 인해 발생하는 대표적인 질환들에는 어떤게 있을까	medicine
+노화와 수명은 유전적으로 타고나는걸까	medicine
+활성산소를 잡으면 노화가 억제돼	medicine
+활성산소 발생을 억제하는 방법에는 뭐가 있어	medicine
+운동이 노화 억제에 도움이 된다는데 사실이야	medicine
+간헐적 단식을 하면 덜 빠르게 늙을 수 있다는데 맞는 말일까	medicine
+백신을 맞듯 노화를 막는 약물을 접종하는 시대가 올까	medicine
+지속적인 줄기세포 분열이 노화 억제의 열쇠일까	medicine
+여성의 조기 노화를 유발하는 요인에는 뭐가 있어	medicine
+조기 노화를 예방하기 위해 피해야 할 음식에는 어떤게 있을까	medicine
+곧 젊어지는 방법이 발견될까	medicine
+항노화 치료에 임상적인 근거가 있어	medicine
+암 자가진단 방법에는 어떤 것들이 있을까	medicine
+덩어리나 혹이 만져지면 암의 위험이 있는걸까	medicine
+기침이 오래 지속되거나 쉰 목소리가 나면 암을 의심해봐야해	medicine
+변비가 오래 지속되거나 변이 가늘어지는게 대장암의 전조증상일까	medicine
+소변 습관이 변화되었거나 방광에 통증이 있으면 신장암 및 방광암, 전립선암으로 이어질 수 있을까	medicine
+통증이 오래 이어지면 뼈의 암이나 난소암일 가능성이 있을까	medicine
+목의 통증이 계속되면 후두암 등의 질환을 의심해봐야 할까	medicine
+급격한 체중 감소가 있는게 암의 첫 징후가 될 수 있어	medicine
+음식물을 삼키기 힘들어지는게 식도암이나 위암 등과 관련이 있을까	medicine
+출혈과 암의 상관 관계는 뭘까	medicine
+대장암 위치에 따라 증상이 다른 이유가 뭐야	medicine
+사람들은 왜 암에 걸릴까	medicine
+일상에서 암을 유발하는 원인에는 어떤 것들이 있어	medicine
+암이 전이, 재발되는 원인과 대책에는 어떤 것들이 있을까	medicine
+한국인의 사망 원인 1위가 암이라던데 사실이야	medicine
+담배를 끊으면 폐암 발생 위험이 줄어들까	medicine
+스트레스는 암과 상관관계가 있을까	medicine
+최근에 한국인에게서 대장암이 증가하는 이유는 뭐야	medicine
+혈액암의 원인과 증상, 종류에는 어떤게 있는지 알려줘	medicine
+면역항암제가 뭐야	medicine
+면역항암제 치료를 받을 수 있는 암에는 어떤게 있어	medicine
+면역항암제가 정말 안전한 약물이야	medicine
+면역항암제는 왜 일부 암 환자에게만 효능을 보일까	medicine
+면역항암제가 듣지 않는 환자에게는 새로운 방법이 있을까	medicine
+면역항암제와 면역세포치료가 같은거야 다른거야	medicine
+너무 슬퍼	emotion
+너무 슬퍼요	emotion
+정말 슬퍼	emotion
+쉬고 싶다	emotion
+집에 가고 싶다	emotion
+집 가고 싶다	emotion
+집 가고 싶어	emotion
+힘들어	emotion
+힘들어요	emotion
+자고 싶다	emotion
+자고 싶어	emotion
+잠 온다	emotion
+졸려	emotion
+너무 졸려	emotion
+눈이 감긴다	emotion
+피곤해	emotion
+개피곤해	emotion
+짱피곤해	emotion
+미친듯 피곤해	emotion
+울고 싶어	emotion
+소리내서 울고 싶어	emotion
+울고 싶다	emotion
+망했다	emotion
+망했어	emotion
+내일이 안 왔으면 좋겠어	emotion
+내일이 안 왔으면 좋겠어요	emotion
+하기 싫어	emotion
+너무 하기 싫어요	emotion
+피하고 싶어	emotion
+미치겠다	emotion
+미칠 거 같다	emotion
+버겁다	emotion
+버거워요	emotion
+지친다	emotion
+지쳤어	emotion
+아무 것도 못 하겠어	emotion
+아무 것도 못 하겠어요	emotion
+해도 안 될 거 같아	emotion
+한다고 될까	emotion
+해도 안 될 거 같아요	emotion
+한다고 해도 무슨 소용인가 싶어요	emotion
+무슨 소용일까 싶어	emotion
+막막해	emotion
+막막하다	emotion
+막막해요	emotion
+힘이 안 나	emotion
+힘이 하나도 안 나요	emotion
+기운 없어	emotion
+기운이 안 나	emotion
+기운이 없어요	emotion
+기운이 안 나요	emotion
+손가락 하나도 까딱하지 못 하겠어	emotion
+힘이 하나도 없어	emotion
+일이 너무 많아	emotion
+시간이 너무 부족해	emotion
+외로워	emotion
+쓸쓸해	emotion
+가을 타나	emotion
+겨울이라 그런가	emotion
+재미있는 일이 없어	emotion
+망할 거 같아	emotion
+죽을 거 같아	emotion
+우울해	emotion
+우울했어	emotion
+하루종일 우울했어	emotion
+울먹해	emotion
+슬퍼	emotion
+이유없이 눈물나	emotion
+짜증나	emotion
+내 문제가 뭐지	emotion
+내가 다 잘못한 거 같아	emotion
+난 못났어	emotion
+내가 너무 싫어	emotion
+내가 뭐지	emotion
+탈진이야	emotion
+지쳐버렸어	emotion
+다 그만하고 싶어	emotion
+맞는 일을 하는 건지 잘 모르겠어	emotion
+지금까지 뭐 한 거지	emotion
+다 쓸모 없는 거 같아	emotion
+내가 너무 한심해	emotion
+내가 아무 것도 아닌 거 같아	emotion
+아직도 해결 못 하겠어	emotion
+여전히 힘들어	emotion
+포기할까	emotion
+머리가 터질 거 같아	emotion
+이래도 괜찮을까	emotion
+다 싫어	emotion
+삶이 왜 이럴까	emotion
+내 인생은 왜 이럴까	emotion
+그냥 슬퍼	emotion
+이유 없이 슬퍼	emotion
+원인 없이 슬퍼	emotion
+까닭 없이 슬퍼	emotion
+위로가 필요해	emotion
+번아웃인가	emotion
+번아웃 온 거 같아	emotion
+번아웃인 거 같아	emotion
+그만두고 싶어	emotion
+그만할 때인 거 같아	emotion
+내가 너무 바보같아	emotion
+내가 한심해	emotion
+탈진상태야	emotion
+탈진 올 거 같아	emotion
+힐링이 필요해	emotion
+몇시야	date
+몇시지	date
+몇시일까	date
+몇시게	date
+시간	date
+몇시	date
+시간 알려줘	date
+지금 몇시야	date
+지금 몇시지	date
+몇시인지 알아	date
+몇시인지 알려줘	date
+몇신지 알려줘	date
+시간좀 알려줘	date
+몇시인지를 모르겠네	date
+오늘 며칠이야	date
+오늘 날짜	date
+오늘 날짜 알려줘	date
+오늘 몇 일이지	date
+며칠이지	date
+날짜	date
+오늘 몇일이에요	date
+오늘 몇일이죠	date
+몇일이니	date
+몇일이야	date
+오늘 몇일인지 아시나요	date
+오늘 며칠인지 알아	date
+오늘 며칠인지 아시나요	date
+몇일이나요	date
+몇일이에요	date
+몇일이였지	date
+몇일이라그랬더라	date
+오늘 몇일이야	date
+오늘 몇일이지	date
+몇일이지	date
+오늘 몇일인지 아니	date
+오늘 몇일인지 알려주라	date
+오늘 몇일인지좀 알려주라	date
+날짜 알려줘	date
+오늘 날짜는	date
+오늘 무슨 요일이지	date
+무슨 요일이지	date
+오늘 무슨 날이지	date
+무슨 날이야	date
+오늘 며칠인지 아니	date
+오늘 요일 아니	date
+오늘 요일 알려줘	date
+오늘 날짜 좀 알려줘	date
+오늘 무슨 날인지 알려줄래	date
+오늘 며칠인지 알려주라	date
+오늘 무슨 날이니	date
+며칠이니	date
+며칠이야	date
+오늘 며칠이에요	date
+오늘 날짜요	date
+오늘 날짜 알려줘요	date
+오늘 몇 일이죠	date
+며칠이죠	date
+날짜요	date
+날짜 알려줘요	date
+오늘 날짜는요	date
+오늘 무슨 요일이죠	date
+무슨 요일이죠	date
+오늘 무슨 날이죠	date
+무슨 날이에요	date
+오늘 요일 아시나요	date
+오늘 요일 알려줘요	date
+오늘 날짜 좀 알려줘요	date
+오늘 무슨 날인지 알려줄래요	date
+오늘 며칠인지 알려주세요	date
+오늘 무슨 날이니요	date
+며칠이니요	date
+며칠이에요	date
+오늘 몇 일인가요	date
+며칠인가요	date
+오늘 무슨 요일인가요	date
+무슨 요일인가요	date
+오늘 무슨 날인가요	date
+오늘 며칠이더라	date
+며칠인데	date
+오늘 며칠이지	date
+며칠인지 모르겠네	date
+며칠이더라	date
+며칠인데 그래	date
+며칠이였지	date
+날짜알려줘요	date
+몇 일인가요	date
+날짜는요	date
+무슨 날인가요	date
+오늘 무슨 날이에요	date
+며칠인지 아시나요	date
+며칠인지 아세요	date
+며칠인지 알려줘요	date
+며칠인지 알려줘	date
+오늘 며칠인지 알려줘요	date
+오늘 며칠인지 알려줘	date
+오늘 며칠이였지	date
+오른 며칠인데	date
+오늘 며칠인지 모르겠네	date
+며칠일까요	date
+요일 알려주세요	date
+요일 알고있나	date
+요일 알고싶어요	date
+무슨 요일인지 까먹었어	date
+무슨 요일이였더라	date
+무슨 요일인지 알려주세요	date
+무슨 요일인지 알려줘	date
+무슨 요일인지 알고있나	date
+날짜가 어떻게 되더라	date
+날짜를 까먹었어	date
+무슨 요일이였는지 까먹었어	date
+무슨 요일인지 알려줬으면 해	date
+요일 알려줬으면 해	date
+무슨 날짜인가요	date
+무슨 날짜인지 아니	date
+무슨 날짜인지 궁금해	date
+무슨 요일인지 궁금해	date
+무슨 요일이였는지 궁금해	date
+무슨 요일일까 궁금해	date
+날짜좀 알려줄래	date
+무슨 날짜인지 알려줄래	date
+어떤 날인지 알려줄래	date
+무슨 날인지 알려줄래	date
+어떤 날인지 알려주라	date
+무슨 날인지 알려주라	date
+며칠인지 알려주라	date
+요일 알려주라	date
+날짜 알려주라	date
+날짜 아시나요	date
+무슨 날짜인지 아시나요	date
+어떤 날짜인지 아시나요	date
+며칠 일까요	date
+무슨 날짜 일까요	date
+며칠인지 아니	date
+며칠일까	date
+무슨 날짜 일까	date
+날짜 뭐야	date
+날짜 궁금해	date
+며칠인지 궁금해	date
+며칠일까 궁금해	date
+며칠이였나 궁금해	date
+며칠이였는지 궁금해	date
+어떤 날인지 궁금해	date
+며칠인지 모르겠어	date
+날짜 모르겠어	date
+며칠일까 모르겠어	date
+며칠이였나 모르겠어	date
+며칠이였는지 모르겠어	date
+어떤 날인지 모르겠어	date
+오늘 며칠일까요	date
+오늘 요일 알려주세요	date
+오늘 요일 알고있나	date
+오늘 요일 알고싶어요	date
+오늘 무슨 요일인지 까먹었어	date
+오늘 무슨 요일이였더라	date
+오늘 무슨 요일인지 알려주세요	date
+오늘 무슨 요일인지 알려줘	date
+오늘 무슨 요일인지 알고있나	date
+오늘 날짜가 어떻게 되더라	date
+오늘 날짜를 까먹었어	date
+오늘 무슨 요일이였는지 까먹었어	date
+오늘 무슨 요일인지 알려줬으면 해	date
+오늘 요일 알려줬으면 해	date
+오늘 무슨 날짜인가요	date
+오늘 무슨 날짜인지 아니	date
+오늘 무슨 날짜인지 궁금해	date
+오늘 무슨 요일인지 궁금해	date
+오늘 무슨 요일이였는지 궁금해	date
+오늘 무슨 요일일까 궁금해	date
+오늘 날짜좀 알려줄래	date
+오늘 무슨 날짜인지 알려줄래	date
+오늘 어떤 날인지 알려줄래	date
+오늘 어떤 날인지 알려주라	date
+오늘 무슨 날인지 알려주라	date
+오늘 요일 알려주라	date
+오늘 날짜 알려주라	date
+오늘 날짜 아시나요	date
+오늘 무슨 날짜인지 아시나요	date
+오늘 어떤 날짜인지 아시나요	date
+오늘 며칠 일까요	date
+오늘 무슨 날짜 일까요	date
+오늘 며칠일까	date
+오늘 무슨 날짜 일까	date
+오늘 날짜 뭐야	date
+오늘 날짜 궁금해	date
+오늘 며칠인지 궁금해	date
+오늘 며칠일까 궁금해	date
+오늘 며칠이였나 궁금해	date
+오늘 며칠이였는지 궁금해	date
+오늘 어떤 날인지 궁금해	date
+오늘 며칠인지 모르겠어	date
+오늘 날짜 모르겠어	date
+오늘 며칠일까 모르겠어	date
+오늘 며칠이였나 모르겠어	date
+오늘 며칠이였는지 모르겠어	date
+오늘 어떤 날인지 모르겠어	date
+데스크탑 추천해줘	computer
+노트북 추천해줘	computer
+조립 피시 어디서 사는지 알려줘	computer
+노트북 브랜드 알려줘	computer
+삼성 노트북 어때	computer
+맥북 어때	computer
+갤럭시북 어때	computer
+그램 어때	computer
+엘지 노트북 추천해줘	computer
+애플 노트북 추천해줘	computer
+씨피유가 뭐야	computer
+씨피유 추천해줘	computer
+인텔이랑 AMD 중에 어디가 좋아	computer
+인텔이랑 라이젠 중에 어디가 좋아	computer
+램은 어디가 좋아	computer
+램 몇 기가로 사야해	computer
+삼성 램 어때	computer
+맥북 너무 비싸	computer
+에이수스 노트북 알려줘	computer
+에이서 노트북 알려줘	computer
+델 노트북 알려줘	computer
+레노버 노트북 알려줘	computer
+아수스 노트북 알려줘	computer
+아수스 어때	computer
+에이서 어때	computer
+델 어때	computer
+레노버 어때	computer
+한성 어때	computer
+한성 노트북 사고싶어	computer
+그래픽카드 어떤 게 좋을까	computer
+쿨러는 어떤게 좋아	computer
+메인보드 뭘 사야해	computer
+모니터는 뭘 사야해	computer
+엘지 모니터 살까	computer
+삼성 모니터 살까	computer
+키보드 추천해줘	computer
+저소음 키보드 추천해줘	computer
+기계식 키보드 추천해줘	computer
+10만원 이하 키보드 추천해줘	computer
+마우스 어디가 좋아	computer
+로지텍 마우스 어때	computer
+무선 마우스 살까	computer
+유선 마우스 살까	computer
+노트북 고장났어	computer
+컴퓨터 고장났어	computer
+서피스북 어때	computer
+서피스 프로 어때	computer
+모니터 고장났어	computer
+키보드 고장났어	computer
+마우스 고장났어	computer
+윈도우 어떻게 깔아	computer
+파티션 나누고 싶어	computer
+리눅스 설치하고 싶어	computer
+메인보드 고장났어	computer
+부팅이 되지 않아요	computer
+용량이 부족해요	computer
+SSD를 살까요	computer
+HDD를 살까요	computer
+용량 몇 기가를 살까요	computer
+노트북 팔고 싶어	computer
+블루스크린이 떴습니다	computer
+노트북을 떨어뜨렸어요	computer
+전원이 들어오지 않아요	computer
+수냉쿨러 어떤가요	computer
+노트북 소리가 안나요	computer
+노트북 카메라가 안나와요	computer
+노트북 마이크가 안돼요	computer
+발열이 너무 심합니다	computer
+컴퓨터가 멈췄어요	computer
+SSD를 추가 할까요	computer
+램을 추가 할까요	computer
+그래픽카드 추가 할까요	computer
+지포스 그래픽카드 살까요	computer
+지포스 20으로 살까요	computer
+지포스 30으로 살까요	computer
+편집용 노트북 추천해주세요	computer
+사무용 피시 추천해주세요	computer
+사무용 랩탑 추천해주세요	computer
+편집용 랩탑 추천해주세요	computer
+윈도우 노트북 중에 브랜드 추천해주세요	computer
+메인보드 브랜드 뭐가 좋나요	computer
+씨피유 브랜드 뭐가 좋나요	computer
+램 브랜드 뭐가 좋나요	computer
+쿨러 브랜드 뭐가 좋나요	computer
+파워 브랜드 뭐가 좋나요	computer
+파워 몇W를 사야 할까요	computer
+분석용 피시 추천해주세요	computer
+분석용 랩탑 추천해주세요	computer
+윈도우 어디서 사나요	computer
+리눅스 어디서 다운 받나요	computer
+노트북 소음이 심해요	computer
+노트북이 너무 무거워요	computer
+노트북이 느려요	computer
+컴퓨터가 너무 느려요	computer
+저렴한 노트북 추천해주세요	computer
+가성비 노트북 추천해주세요	computer
+사운드 좋은 노트북 추천해주세요	computer
+돌비 사운드 되나요	computer
+배터리가 너무 빨리 닳아져요	computer
+노트북이 충전기 없으면 안돼요	computer
+노트북 배터리 갈 수 있나요	computer
+노트북 업그레이드 할 수 있나요	computer
+게이밍 피시 추천해주세요	computer
+게임용 피시 추천해주세요	computer
+게이밍 노트북 추천해주세요	computer
+게이밍 피씨 추천해주세요	computer
+압구정에 맛있는 커피집 어디야	cafe
+강남에 카페 추천해줘	cafe
+강동구에 커피마실 곳 추천해줘	cafe
+대구에 커피 맛있는 곳 있나?	cafe
+산미 있는 커피 파는 카페가고 싶어	cafe
+카페 요새 핫한 곳이 어디야	cafe
+커피집 가까운데 가고 싶네	cafe
+신촌에서 합정역 사이에 커피 잘하는 곳 있나?	cafe
+커피 원두 잘 볶는 카페 어디야	cafe
+신사역에 카페 많이 가는 곳 어디야	cafe
+가로수길에 프랜차이즈 카페 알려줘	cafe
+반포동에 스타벅스 어딨는지 알려줘	cafe
+잠원동에 지금 열린 카페 추천해줘	cafe
+잠원동에 원두 파는 카페 추천해줘	cafe
+아침 8시에 열린 카페 추천해줘	cafe
+시끄럽지 않은 카페 추천해줘	cafe
+커피 가격 싼 곳 추천해줘	cafe
+지금 내가 드라이브 스루할 수 있는 카페 알려줘	cafe
+강남에 커피파는 카페 추천해줘	cafe
+논현에 카페 추천해줘	cafe
+학동에 카페 추천해줘	cafe
+고속 터미널에 카페 추천해줘	cafe
+금호역에 커피파는 카페 추천해줘 	cafe
+삼각지역 카페 추천해줘	cafe
+노들 카페 추천해줘	cafe
+흑석동 중앙대 근처 카페 추천해줘	cafe
+이촌역과 서빙고역 사이 카페 추천해줘	cafe
+총신대 입구에 좀 괜찮은 카페 있나?	cafe
+서울대 본관 근처에 카페가 있나?	cafe
+고려대 근처 카페 추천해줘	cafe
+신이문 근처 카페 추천해줘	cafe
+석계 근처 카페 추천해줘	cafe
+아차산 근처 카페 추천해줘	cafe
+한양대 근처 카페 추천해줘	cafe
+강동구청 근처 카페 추천해줘	cafe
+용두 근처 카페 추천해줘	cafe
+제기동 근처 카페 추천해줘	cafe
+청량리에 좀 괜찮은 카페 없나	cafe
+회기 카페 추천해줘	cafe
+광운대에서 멀지 않은 곳에 카페 없나	cafe
+경기도 광주에 근처 카페 추천해줘	cafe
+전라도 광주에 근처 카페 추천해줘	cafe
+제주도에 카페 추천해줘	cafe
+애월읍 근처 카페 추천해줘	cafe
+함덕 앞바다 근처 카페 추천해줘	cafe
+서귀포 근처 카페 추천해줘	cafe
+성산 일출봉 근처 카페 추천해줘	cafe
+위미 동백꽃 군락지 근처 카페 추천해줘	cafe
+제주도 포도호텔 근처 카페 추천해줘	cafe
+부산에 카페 추천해줘	cafe
+서면 근처에 갈만한 카페 있나	cafe
+깡통시장에 원두 맛있는 카페 추천해줘	cafe
+국제시장 근처 카페 추천	cafe
+해운대에서 멀지 않은 카페	cafe
+웨스틴 조선 호텔 부산점 카페 추천해줘	cafe
+부산역 근처에 10분만에 갈 수 있는 카페 추천해줘	cafe
+부산대학교에서 사람 별로 없는 카페 가고 싶어	cafe
+부산대 근처에 프랜차이즈 카페 어떤 거 있어	cafe
+경북대학교 근처에 카페 추천하는 곳 있어	cafe
+경북대학교 근처에 파나마 게이샤 원두 파는 곳 있어	cafe
+경대 근처에 카페 사람들 많이 가는 곳 있어?	cafe
+경대 근처에 도보 거리로 10분 이내에 카페 있어?	cafe
+도봉구 카페 추천해줘	cafe
+은평구 카페 추천해줘	cafe
+서대문구 카페 추천해줘	cafe
+강서 카페 추천해줘	cafe
+구로 카페 추천해줘	cafe
+금천 카페 추천해줘	cafe
+관악 카페 추천해줘	cafe
+영등포 카페 추천해줘	cafe
+동작 카페 추천해줘	cafe
+양천 카페 추천해줘	cafe
+마포 카페 추천해줘	cafe
+은평 카페 추천해줘	cafe
+중구 카페 추천해줘	cafe
+성동구 카페 추천해줘	cafe
+송파구 카페 추천해줘	cafe
+광진구 카페 추천해줘	cafe
+중랑구 카페 추천해줘	cafe
+동대문구 카페 추천해줘	cafe
+노원구 카페 추천해줘	cafe
+강북구 카페 추천해줘	cafe
+이태원에 수르기 카페 말고 다른 카페 있나?	cafe
+옹느세자매 같은 카페 추천해줘	cafe
+아인슈페너 맛있는 카페 추천해줘	cafe
+바닐라라떼 맛있는 카페 추천해줘	cafe
+아이스 라떼 산미있는 거 파는 카페 추천해줘	cafe
+아메리카노 맛있는 카페 추천해줘	cafe
+에스프레소 잘 뽑는 카페 추천해줘	cafe
+비엔나 커피 맛있는 카페 추천해줘	cafe
+헤이즐넛 라떼 카페 추천해줘	cafe
+오트밀 라떼 카페 추천해줘	cafe
+스무디 파는 카페 추천해줘	cafe
+빙수파는 카페 추천해줘	cafe
+쿠키 맛있는 카페 추천해줘	cafe
+더티 초코 파는 카페 추천해줘	cafe
+베이킹 직접 하는 카페 추천해줘	cafe
+케이크 파는 카페 추천해줘	cafe
+노래 좋은 카페 추천해줘	cafe
