@@ -80,13 +80,13 @@
 - 문서요약: 추출요약과 생성요약
 - 핵심 키워드 추출
 - 실습  
-  > _W09-1. 뉴스기사 요약과 키워드 추출하기_  
+  > _W09-1. 뉴스기사 요약과 키워드 추출하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_10/W10-1_text-mining-for-practice_python_text-summerization.ipynb)_  
 
 #### WEEK 11. 텍스트 분석 방법론 4
 - 그래프 기초이론과 네트워크 분석 
 - 단어 네트워크와 중심성
 - 실습  
-  > _W10-1. 단어 네트워크 중심성 계산하기_  
+  > _W10-1. 단어 네트워크 중심성 계산하기 [(Colab)](https://colab.research.google.com/github/fingeredman/text-mining-for-practice/blob/master/practice-note/week_11/W11-1_advanced-text-mining_python-network-analysis.ipynb)_  
 
 #### WEEK 12. 머신러닝/딥러닝 기반 대화 모델링
 - Question & Answering
@@ -106,6 +106,7 @@
 
 ---
 ## Update History
+> 2022.04.02. `WEEK 10~12` 강의자료 및 실습자료 업데이트  
 > 2022.03.13. `WEEK 07~09` 강의자료 및 실습자료 업데이트  
 > 2022.02.26. `WEEK 04~06` 강의자료 및 실습자료 업데이트  
 > 2021.09.11. 2021 하반기 커리큘럼 업데이트, `WEEK 01~03` 강의자료 및 실습자료 업데이트  
